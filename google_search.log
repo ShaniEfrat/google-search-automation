@@ -1,0 +1,924 @@
+2025-01-22 14:58:20,175 - INFO - This is a test info message to verify logging configuration.
+2025-01-22 14:58:20,176 - ERROR - This is a test error message to verify logging configuration.
+2025-01-22 14:58:20,176 - INFO - Search terms loaded
+2025-01-22 14:58:20,246 - INFO - Database tables truncated
+2025-01-22 14:58:22,822 - INFO - Google loaded successfully
+2025-01-22 14:58:22,958 - INFO - Searching for: hhhhcardiff
+2025-01-22 14:58:39,817 - INFO - Found 3 results for 'hhhhcardiff'
+2025-01-22 14:58:39,880 - INFO - Result 1:
+2025-01-22 14:58:39,881 - INFO - URL: https://www.tiktok.com/@kala.raq
+2025-01-22 14:58:39,886 - INFO - Category: 5
+2025-01-22 14:58:39,938 - INFO - Result 2:
+2025-01-22 14:58:39,939 - INFO - Headline: Dublin Directory by Dublin Convention Bureau
+2025-01-22 14:58:39,939 - INFO - URL: https://issuu.com/dublinconventionbureau/docs/dublin_directory_
+2025-01-22 14:58:39,940 - INFO - Category: 5
+2025-01-22 14:58:40,017 - INFO - Result 3:
+2025-01-22 14:58:40,017 - INFO - Headline: WWE Kids - Issue 140 2018
+2025-01-22 14:58:40,017 - INFO - URL: https://pubhtml5.com/cqlx/xjgc/basic/
+2025-01-22 14:58:40,021 - INFO - Category: 5
+2025-01-22 14:58:42,165 - INFO - Searching for: Sport
+2025-01-22 14:58:47,765 - INFO - Found 10 results for 'Sport'
+2025-01-22 14:58:47,802 - INFO - Result 1:
+2025-01-22 14:58:47,804 - INFO - URL: https://www.sport5.co.il/
+2025-01-22 14:58:47,806 - INFO - Category: 1
+2025-01-22 14:58:47,851 - INFO - Result 2:
+2025-01-22 14:58:47,853 - INFO - URL: https://sport1.maariv.co.il/
+2025-01-22 14:58:47,854 - INFO - Category: 1
+2025-01-22 14:58:47,895 - INFO - Result 3:
+2025-01-22 14:58:47,897 - INFO - URL: https://sports.walla.co.il/
+2025-01-22 14:58:47,900 - INFO - Category: 1
+2025-01-22 14:58:47,940 - INFO - Result 4:
+2025-01-22 14:58:47,942 - INFO - URL: https://www.one.co.il/
+2025-01-22 14:58:47,944 - INFO - Category: 1
+2025-01-22 14:58:47,987 - INFO - Result 5:
+2025-01-22 14:58:47,989 - INFO - URL: https://www.ynet.co.il/sport
+2025-01-22 14:58:47,991 - INFO - Category: 1
+2025-01-22 14:58:48,033 - INFO - Result 6:
+2025-01-22 14:58:48,035 - INFO - URL: https://www.israelhayom.co.il/sport
+2025-01-22 14:58:48,037 - INFO - Category: 1
+2025-01-22 14:58:48,076 - INFO - Result 7:
+2025-01-22 14:58:48,078 - INFO - URL: https://isport.co.il/
+2025-01-22 14:58:48,081 - INFO - Category: 5
+2025-01-22 14:58:48,123 - INFO - Result 8:
+2025-01-22 14:58:48,125 - INFO - URL: https://www.haaretz.co.il/sport
+2025-01-22 14:58:48,127 - INFO - Category: 5
+2025-01-22 14:58:48,168 - INFO - Result 9:
+2025-01-22 14:58:48,170 - INFO - URL: https://www.mako.co.il/Sports
+2025-01-22 14:58:48,171 - INFO - Category: 1
+2025-01-22 14:58:48,212 - INFO - Result 10:
+2025-01-22 14:58:48,215 - INFO - URL: https://www.sport5.co.il/html/Pages/GamesResults.html
+2025-01-22 14:58:48,218 - INFO - Category: 5
+2025-01-22 14:58:50,398 - INFO - Searching for: Automation
+2025-01-22 14:58:54,375 - INFO - Found 10 results for 'Automation'
+2025-01-22 14:58:54,412 - INFO - Result 1:
+2025-01-22 14:58:54,414 - INFO - URL: https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%A6%D7%99%D7%94
+2025-01-22 14:58:54,416 - INFO - Category: 5
+2025-01-22 14:58:54,463 - INFO - Result 2:
+2025-01-22 14:58:54,463 - INFO - Headline: Automation
+2025-01-22 14:58:54,463 - INFO - URL: https://en.wikipedia.org/wiki/Automation
+2025-01-22 14:58:54,463 - INFO - Description: Automation includes the use of various equipment and control systems such as machinery, processes in factories, boilers, and heat-treating ovens, switching on ...
+2025-01-22 14:58:54,463 - INFO - Category: 5
+2025-01-22 14:58:54,466 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation, url=https://en.wikipedia.org/wiki/Automation, description=Automation includes the use of various equipment and control systems such as machinery, processes in factories, boilers, and heat-treating ovens, switching on ...
+2025-01-22 14:58:54,501 - INFO - Result 3:
+2025-01-22 14:58:54,501 - INFO - Headline: What Is Automation?
+2025-01-22 14:58:54,501 - INFO - URL: https://www.ibm.com/think/topics/automation
+2025-01-22 14:58:54,501 - INFO - Description: Automation is the application of technology, programs, robotics, or processes to achieve outcomes with minimal human input.
+2025-01-22 14:58:54,501 - INFO - Category: 5
+2025-01-22 14:58:54,502 - INFO - Inserted result: term_id=3, category_id=5, headline=What Is Automation?, url=https://www.ibm.com/think/topics/automation, description=Automation is the application of technology, programs, robotics, or processes to achieve outcomes with minimal human input.
+2025-01-22 14:58:54,535 - INFO - Result 4:
+2025-01-22 14:58:54,535 - INFO - Headline: Automation - The Car Company Tycoon Game
+2025-01-22 14:58:54,535 - INFO - URL: https://store.steampowered.com/app/293760/Automation__The_Car_Company_Tycoon_Game/
+2025-01-22 14:58:54,535 - INFO - Description: Automation is an automotive design simulator, featuring vehicles and technologies from 1946 to 2020. Use Automation's unparalleled engine and car design tools ...
+2025-01-22 14:58:54,535 - INFO - Category: 5
+2025-01-22 14:58:54,538 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation - The Car Company Tycoon Game, url=https://store.steampowered.com/app/293760/Automation__The_Car_Company_Tycoon_Game/, description=Automation is an automotive design simulator, featuring vehicles and technologies from 1946 to 2020. Use Automation's unparalleled engine and car design tools ...
+2025-01-22 14:58:54,570 - INFO - Result 5:
+2025-01-22 14:58:54,572 - INFO - URL: https://www.morfix.co.il/automation
+2025-01-22 14:58:54,574 - INFO - Category: 5
+2025-01-22 14:58:54,616 - INFO - Result 6:
+2025-01-22 14:58:54,616 - INFO - Headline: What is Automation? - ISA
+2025-01-22 14:58:54,616 - INFO - URL: https://www.isa.org/about-isa/what-is-automation
+2025-01-22 14:58:54,616 - INFO - Description: We define automation as "the creation and application of technology to monitor and control the production and delivery of products and services.�
+2025-01-22 14:58:54,616 - INFO - Category: 5
+2025-01-22 14:58:54,617 - INFO - Inserted result: term_id=3, category_id=5, headline=What is Automation? - ISA, url=https://www.isa.org/about-isa/what-is-automation, description=We define automation as "the creation and application of technology to monitor and control the production and delivery of products and services.�
+2025-01-22 14:58:54,651 - INFO - Result 7:
+2025-01-22 14:58:54,653 - INFO - URL: https://automationil.co.il/
+2025-01-22 14:58:54,654 - INFO - Category: 1
+2025-01-22 14:58:54,696 - INFO - Result 8:
+2025-01-22 14:58:54,696 - INFO - Headline: Automation | Technology, Types, Rise, History, & Examples
+2025-01-22 14:58:54,696 - INFO - URL: https://www.britannica.com/technology/automation
+2025-01-22 14:58:54,699 - INFO - Category: 5
+2025-01-22 14:58:54,743 - INFO - Result 9:
+2025-01-22 14:58:54,743 - INFO - Headline: Automation
+2025-01-22 14:58:54,743 - INFO - URL: https://www.automationgame.com/
+2025-01-22 14:58:54,743 - INFO - Description: In Automation it's you who designs every detail of your cars, from the heart of the car that is the engine, the chassis, the suspension and the styling.
+2025-01-22 14:58:54,743 - INFO - Category: 5
+2025-01-22 14:58:54,745 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation, url=https://www.automationgame.com/, description=In Automation it's you who designs every detail of your cars, from the heart of the car that is the engine, the chassis, the suspension and the styling.
+2025-01-22 14:58:54,777 - INFO - Result 10:
+2025-01-22 14:58:54,777 - INFO - Headline: Automation.com - News & Resources for Industrial Automation
+2025-01-22 14:58:54,777 - INFO - URL: https://www.automation.com/
+2025-01-22 14:58:54,777 - INFO - Description: Automation.com - News, Articles, Products, Resources & Suppliers for Manufacturing, Factory, Process and Industrial Automation.
+2025-01-22 14:58:54,777 - INFO - Category: 5
+2025-01-22 14:58:54,779 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation.com - News & Resources for Industrial Automation, url=https://www.automation.com/, description=Automation.com - News, Articles, Products, Resources & Suppliers for Manufacturing, Factory, Process and Industrial Automation.
+2025-01-22 14:59:28,915 - INFO - Results for search term 'sport':
+2025-01-22 14:59:28,954 - INFO - 
+Results for content type 'vv':
+2025-01-22 14:59:28,955 - INFO - No results for content type 'vv'
+2025-01-22 15:01:08,750 - INFO - This is a test info message to verify logging configuration.
+2025-01-22 15:01:08,750 - ERROR - This is a test error message to verify logging configuration.
+2025-01-22 15:01:08,751 - INFO - Search terms loaded
+2025-01-22 15:01:08,820 - INFO - Database tables truncated
+2025-01-22 15:01:11,318 - INFO - Google loaded successfully
+2025-01-22 15:01:11,407 - INFO - Searching for: car
+2025-01-22 15:01:19,770 - INFO - Found 10 results for 'car'
+2025-01-22 15:01:19,839 - INFO - Result 1:
+2025-01-22 15:01:19,841 - INFO - URL: https://www.icar.co.il/
+2025-01-22 15:01:19,843 - INFO - Category: 3
+2025-01-22 15:01:19,900 - INFO - Result 2:
+2025-01-22 15:01:19,902 - INFO - URL: https://thecar.co.il/
+2025-01-22 15:01:19,906 - INFO - Category: 1
+2025-01-22 15:01:20,009 - INFO - Result 3:
+2025-01-22 15:01:20,012 - INFO - URL: https://carwiz.co.il/
+2025-01-22 15:01:20,014 - INFO - Category: 3
+2025-01-22 15:01:20,101 - INFO - Result 4:
+2025-01-22 15:01:20,105 - INFO - URL: https://www.auto.co.il/
+2025-01-22 15:01:20,105 - INFO - Category: 3
+2025-01-22 15:01:20,168 - INFO - Result 5:
+2025-01-22 15:01:20,171 - INFO - URL: https://www.citycar.co.il/
+2025-01-22 15:01:20,172 - INFO - Category: 5
+2025-01-22 15:01:20,223 - INFO - Result 6:
+2025-01-22 15:01:20,225 - INFO - URL: https://www.carzone.co.il/
+2025-01-22 15:01:20,228 - INFO - Category: 3
+2025-01-22 15:01:20,271 - INFO - Result 7:
+2025-01-22 15:01:20,273 - INFO - URL: https://he.wikipedia.org/wiki/%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA
+2025-01-22 15:01:20,277 - INFO - Category: 5
+2025-01-22 15:01:20,326 - INFO - Result 8:
+2025-01-22 15:01:20,329 - INFO - URL: https://www.carfind.co.il/
+2025-01-22 15:01:20,332 - INFO - Category: 5
+2025-01-22 15:01:20,382 - INFO - Result 9:
+2025-01-22 15:01:20,385 - INFO - URL: https://www.mycar-israel.com/
+2025-01-22 15:01:20,387 - INFO - Category: 5
+2025-01-22 15:01:20,459 - INFO - Result 10:
+2025-01-22 15:01:20,462 - INFO - URL: https://www.find-car.co.il/home
+2025-01-22 15:01:20,465 - INFO - Category: 5
+2025-01-22 15:01:22,631 - INFO - Searching for: Sport
+2025-01-22 15:01:28,823 - INFO - Found 10 results for 'Sport'
+2025-01-22 15:01:28,873 - INFO - Result 1:
+2025-01-22 15:01:28,876 - INFO - URL: https://www.sport5.co.il/
+2025-01-22 15:01:28,879 - INFO - Category: 1
+2025-01-22 15:01:28,926 - INFO - Result 2:
+2025-01-22 15:01:28,928 - INFO - URL: https://sport1.maariv.co.il/
+2025-01-22 15:01:28,930 - INFO - Category: 1
+2025-01-22 15:01:28,973 - INFO - Result 3:
+2025-01-22 15:01:28,976 - INFO - URL: https://sports.walla.co.il/
+2025-01-22 15:01:28,978 - INFO - Category: 1
+2025-01-22 15:01:29,022 - INFO - Result 4:
+2025-01-22 15:01:29,024 - INFO - URL: https://www.one.co.il/
+2025-01-22 15:01:29,027 - INFO - Category: 1
+2025-01-22 15:01:29,067 - INFO - Result 5:
+2025-01-22 15:01:29,069 - INFO - URL: https://www.ynet.co.il/sport
+2025-01-22 15:01:29,072 - INFO - Category: 1
+2025-01-22 15:01:29,113 - INFO - Result 6:
+2025-01-22 15:01:29,116 - INFO - URL: https://www.israelhayom.co.il/sport
+2025-01-22 15:01:29,118 - INFO - Category: 1
+2025-01-22 15:01:29,157 - INFO - Result 7:
+2025-01-22 15:01:29,160 - INFO - URL: https://isport.co.il/
+2025-01-22 15:01:29,162 - INFO - Category: 5
+2025-01-22 15:01:29,203 - INFO - Result 8:
+2025-01-22 15:01:29,204 - INFO - URL: https://www.haaretz.co.il/sport
+2025-01-22 15:01:29,206 - INFO - Category: 5
+2025-01-22 15:01:29,248 - INFO - Result 9:
+2025-01-22 15:01:29,250 - INFO - URL: https://www.mako.co.il/Sports
+2025-01-22 15:01:29,252 - INFO - Category: 1
+2025-01-22 15:01:29,294 - INFO - Result 10:
+2025-01-22 15:01:29,296 - INFO - URL: https://www.sport5.co.il/html/Pages/GamesResults.html
+2025-01-22 15:01:29,298 - INFO - Category: 5
+2025-01-22 15:01:31,466 - INFO - Searching for: Automation
+2025-01-22 15:01:36,435 - INFO - Found 10 results for 'Automation'
+2025-01-22 15:01:36,485 - INFO - Result 1:
+2025-01-22 15:01:36,487 - INFO - URL: https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%A6%D7%99%D7%94
+2025-01-22 15:01:36,490 - INFO - Category: 5
+2025-01-22 15:01:36,533 - INFO - Result 2:
+2025-01-22 15:01:36,533 - INFO - Headline: Automation
+2025-01-22 15:01:36,533 - INFO - URL: https://en.wikipedia.org/wiki/Automation
+2025-01-22 15:01:36,533 - INFO - Description: Automation includes the use of various equipment and control systems such as machinery, processes in factories, boilers, and heat-treating ovens, switching on ...
+2025-01-22 15:01:36,533 - INFO - Category: 5
+2025-01-22 15:01:36,535 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation, url=https://en.wikipedia.org/wiki/Automation, description=Automation includes the use of various equipment and control systems such as machinery, processes in factories, boilers, and heat-treating ovens, switching on ...
+2025-01-22 15:01:36,569 - INFO - Result 3:
+2025-01-22 15:01:36,569 - INFO - Headline: What Is Automation?
+2025-01-22 15:01:36,569 - INFO - URL: https://www.ibm.com/think/topics/automation
+2025-01-22 15:01:36,569 - INFO - Description: Automation is the application of technology, programs, robotics, or processes to achieve outcomes with minimal human input.
+2025-01-22 15:01:36,569 - INFO - Category: 5
+2025-01-22 15:01:36,571 - INFO - Inserted result: term_id=3, category_id=5, headline=What Is Automation?, url=https://www.ibm.com/think/topics/automation, description=Automation is the application of technology, programs, robotics, or processes to achieve outcomes with minimal human input.
+2025-01-22 15:01:36,607 - INFO - Result 4:
+2025-01-22 15:01:36,607 - INFO - Headline: Automation - The Car Company Tycoon Game
+2025-01-22 15:01:36,607 - INFO - URL: https://store.steampowered.com/app/293760/Automation__The_Car_Company_Tycoon_Game/
+2025-01-22 15:01:36,607 - INFO - Description: Automation is an automotive design simulator, featuring vehicles and technologies from 1946 to 2020. Use Automation's unparalleled engine and car design tools ...
+2025-01-22 15:01:36,607 - INFO - Category: 5
+2025-01-22 15:01:36,609 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation - The Car Company Tycoon Game, url=https://store.steampowered.com/app/293760/Automation__The_Car_Company_Tycoon_Game/, description=Automation is an automotive design simulator, featuring vehicles and technologies from 1946 to 2020. Use Automation's unparalleled engine and car design tools ...
+2025-01-22 15:01:36,642 - INFO - Result 5:
+2025-01-22 15:01:36,644 - INFO - URL: https://www.morfix.co.il/automation
+2025-01-22 15:01:36,646 - INFO - Category: 5
+2025-01-22 15:01:36,686 - INFO - Result 6:
+2025-01-22 15:01:36,686 - INFO - Headline: What is Automation? - ISA
+2025-01-22 15:01:36,686 - INFO - URL: https://www.isa.org/about-isa/what-is-automation
+2025-01-22 15:01:36,686 - INFO - Description: We define automation as "the creation and application of technology to monitor and control the production and delivery of products and services.�
+2025-01-22 15:01:36,686 - INFO - Category: 5
+2025-01-22 15:01:36,688 - INFO - Inserted result: term_id=3, category_id=5, headline=What is Automation? - ISA, url=https://www.isa.org/about-isa/what-is-automation, description=We define automation as "the creation and application of technology to monitor and control the production and delivery of products and services.�
+2025-01-22 15:01:36,721 - INFO - Result 7:
+2025-01-22 15:01:36,723 - INFO - URL: https://automationil.co.il/
+2025-01-22 15:01:36,725 - INFO - Category: 1
+2025-01-22 15:01:36,766 - INFO - Result 8:
+2025-01-22 15:01:36,766 - INFO - Headline: Automation | Technology, Types, Rise, History, & Examples
+2025-01-22 15:01:36,766 - INFO - URL: https://www.britannica.com/technology/automation
+2025-01-22 15:01:36,768 - INFO - Category: 5
+2025-01-22 15:01:36,816 - INFO - Result 9:
+2025-01-22 15:01:36,816 - INFO - Headline: Automation
+2025-01-22 15:01:36,817 - INFO - URL: https://www.automationgame.com/
+2025-01-22 15:01:36,817 - INFO - Description: In Automation it's you who designs every detail of your cars, from the heart of the car that is the engine, the chassis, the suspension and the styling.
+2025-01-22 15:01:36,817 - INFO - Category: 5
+2025-01-22 15:01:36,818 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation, url=https://www.automationgame.com/, description=In Automation it's you who designs every detail of your cars, from the heart of the car that is the engine, the chassis, the suspension and the styling.
+2025-01-22 15:01:36,855 - INFO - Result 10:
+2025-01-22 15:01:36,855 - INFO - Headline: Automation.com - News & Resources for Industrial Automation
+2025-01-22 15:01:36,855 - INFO - URL: https://www.automation.com/
+2025-01-22 15:01:36,855 - INFO - Description: Automation.com - News, Articles, Products, Resources & Suppliers for Manufacturing, Factory, Process and Industrial Automation.
+2025-01-22 15:01:36,855 - INFO - Category: 5
+2025-01-22 15:01:36,856 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation.com - News & Resources for Industrial Automation, url=https://www.automation.com/, description=Automation.com - News, Articles, Products, Resources & Suppliers for Manufacturing, Factory, Process and Industrial Automation.
+2025-01-22 15:02:58,257 - INFO - Results for search term 'mm':
+2025-01-22 15:02:58,272 - INFO - No results for the term 'mm'
+2025-01-22 15:02:58,272 - INFO - 
+Results for content type 'kk':
+2025-01-22 15:02:58,275 - INFO - No results for content type 'kk'
+2025-01-22 15:03:31,227 - INFO - This is a test info message to verify logging configuration.
+2025-01-22 15:03:31,227 - ERROR - This is a test error message to verify logging configuration.
+2025-01-22 15:03:31,228 - INFO - Search terms loaded
+2025-01-22 15:03:31,291 - INFO - Database tables truncated
+2025-01-22 15:03:33,787 - INFO - Google loaded successfully
+2025-01-22 15:03:33,872 - INFO - Searching for: car
+2025-01-22 15:03:39,923 - INFO - Found 10 results for 'car'
+2025-01-22 15:03:39,994 - INFO - Result 1:
+2025-01-22 15:03:39,996 - INFO - URL: https://www.icar.co.il/
+2025-01-22 15:03:39,998 - INFO - Category: 3
+2025-01-22 15:03:40,050 - INFO - Result 2:
+2025-01-22 15:03:40,051 - INFO - URL: https://thecar.co.il/
+2025-01-22 15:03:40,053 - INFO - Category: 1
+2025-01-22 15:03:40,108 - INFO - Result 3:
+2025-01-22 15:03:40,111 - INFO - URL: https://carwiz.co.il/
+2025-01-22 15:03:40,113 - INFO - Category: 3
+2025-01-22 15:03:40,193 - INFO - Result 4:
+2025-01-22 15:03:40,195 - INFO - URL: https://www.auto.co.il/
+2025-01-22 15:03:40,197 - INFO - Category: 3
+2025-01-22 15:03:40,242 - INFO - Result 5:
+2025-01-22 15:03:40,244 - INFO - URL: https://www.citycar.co.il/
+2025-01-22 15:03:40,246 - INFO - Category: 5
+2025-01-22 15:03:40,293 - INFO - Result 6:
+2025-01-22 15:03:40,296 - INFO - URL: https://www.carzone.co.il/
+2025-01-22 15:03:40,297 - INFO - Category: 3
+2025-01-22 15:03:40,388 - INFO - Result 7:
+2025-01-22 15:03:40,393 - INFO - URL: https://he.wikipedia.org/wiki/%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA
+2025-01-22 15:03:40,395 - INFO - Category: 5
+2025-01-22 15:03:40,460 - INFO - Result 8:
+2025-01-22 15:03:40,462 - INFO - URL: https://www.carfind.co.il/
+2025-01-22 15:03:40,463 - INFO - Category: 5
+2025-01-22 15:03:40,516 - INFO - Result 9:
+2025-01-22 15:03:40,518 - INFO - URL: https://www.mycar-israel.com/
+2025-01-22 15:03:40,520 - INFO - Category: 5
+2025-01-22 15:03:40,580 - INFO - Result 10:
+2025-01-22 15:03:40,582 - INFO - URL: https://new-car-lease.co.il/
+2025-01-22 15:03:40,584 - INFO - Category: 3
+2025-01-22 15:03:42,698 - INFO - Searching for: Sport
+2025-01-22 15:03:48,339 - INFO - Found 10 results for 'Sport'
+2025-01-22 15:03:48,377 - INFO - Result 1:
+2025-01-22 15:03:48,379 - INFO - URL: https://www.sport5.co.il/
+2025-01-22 15:03:48,381 - INFO - Category: 1
+2025-01-22 15:03:48,426 - INFO - Result 2:
+2025-01-22 15:03:48,429 - INFO - URL: https://sport1.maariv.co.il/
+2025-01-22 15:03:48,430 - INFO - Category: 1
+2025-01-22 15:03:48,472 - INFO - Result 3:
+2025-01-22 15:03:48,475 - INFO - URL: https://sports.walla.co.il/
+2025-01-22 15:03:48,477 - INFO - Category: 1
+2025-01-22 15:03:48,521 - INFO - Result 4:
+2025-01-22 15:03:48,523 - INFO - URL: https://www.one.co.il/
+2025-01-22 15:03:48,525 - INFO - Category: 1
+2025-01-22 15:03:48,566 - INFO - Result 5:
+2025-01-22 15:03:48,568 - INFO - URL: https://www.ynet.co.il/sport
+2025-01-22 15:03:48,570 - INFO - Category: 1
+2025-01-22 15:03:48,613 - INFO - Result 6:
+2025-01-22 15:03:48,615 - INFO - URL: https://www.israelhayom.co.il/sport
+2025-01-22 15:03:48,616 - INFO - Category: 1
+2025-01-22 15:03:48,693 - INFO - Result 7:
+2025-01-22 15:03:48,695 - INFO - URL: https://isport.co.il/
+2025-01-22 15:03:48,698 - INFO - Category: 5
+2025-01-22 15:03:48,755 - INFO - Result 8:
+2025-01-22 15:03:48,757 - INFO - URL: https://www.haaretz.co.il/sport
+2025-01-22 15:03:48,759 - INFO - Category: 5
+2025-01-22 15:03:48,801 - INFO - Result 9:
+2025-01-22 15:03:48,802 - INFO - URL: https://www.mako.co.il/Sports
+2025-01-22 15:03:48,804 - INFO - Category: 1
+2025-01-22 15:03:48,848 - INFO - Result 10:
+2025-01-22 15:03:48,850 - INFO - URL: https://www.sport5.co.il/html/Pages/GamesResults.html
+2025-01-22 15:03:48,851 - INFO - Category: 5
+2025-01-22 15:03:50,987 - INFO - Searching for: Automation
+2025-01-22 15:03:56,206 - INFO - Found 10 results for 'Automation'
+2025-01-22 15:03:56,243 - INFO - Result 1:
+2025-01-22 15:03:56,245 - INFO - URL: https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%A6%D7%99%D7%94
+2025-01-22 15:03:56,246 - INFO - Category: 5
+2025-01-22 15:03:56,294 - INFO - Result 2:
+2025-01-22 15:03:56,294 - INFO - Headline: Automation
+2025-01-22 15:03:56,294 - INFO - URL: https://en.wikipedia.org/wiki/Automation
+2025-01-22 15:03:56,294 - INFO - Description: Automation includes the use of various equipment and control systems such as machinery, processes in factories, boilers, and heat-treating ovens, switching on ...
+2025-01-22 15:03:56,294 - INFO - Category: 5
+2025-01-22 15:03:56,296 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation, url=https://en.wikipedia.org/wiki/Automation, description=Automation includes the use of various equipment and control systems such as machinery, processes in factories, boilers, and heat-treating ovens, switching on ...
+2025-01-22 15:03:56,331 - INFO - Result 3:
+2025-01-22 15:03:56,331 - INFO - Headline: What Is Automation?
+2025-01-22 15:03:56,331 - INFO - URL: https://www.ibm.com/think/topics/automation
+2025-01-22 15:03:56,331 - INFO - Description: Automation is the application of technology, programs, robotics, or processes to achieve outcomes with minimal human input.
+2025-01-22 15:03:56,331 - INFO - Category: 5
+2025-01-22 15:03:56,333 - INFO - Inserted result: term_id=3, category_id=5, headline=What Is Automation?, url=https://www.ibm.com/think/topics/automation, description=Automation is the application of technology, programs, robotics, or processes to achieve outcomes with minimal human input.
+2025-01-22 15:03:56,371 - INFO - Result 4:
+2025-01-22 15:03:56,371 - INFO - Headline: Automation - The Car Company Tycoon Game
+2025-01-22 15:03:56,371 - INFO - URL: https://store.steampowered.com/app/293760/Automation__The_Car_Company_Tycoon_Game/
+2025-01-22 15:03:56,371 - INFO - Description: Automation is an automotive design simulator, featuring vehicles and technologies from 1946 to 2020. Use Automation's unparalleled engine and car design tools ...
+2025-01-22 15:03:56,371 - INFO - Category: 5
+2025-01-22 15:03:56,372 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation - The Car Company Tycoon Game, url=https://store.steampowered.com/app/293760/Automation__The_Car_Company_Tycoon_Game/, description=Automation is an automotive design simulator, featuring vehicles and technologies from 1946 to 2020. Use Automation's unparalleled engine and car design tools ...
+2025-01-22 15:03:56,405 - INFO - Result 5:
+2025-01-22 15:03:56,408 - INFO - URL: https://www.morfix.co.il/automation
+2025-01-22 15:03:56,410 - INFO - Category: 5
+2025-01-22 15:03:56,448 - INFO - Result 6:
+2025-01-22 15:03:56,448 - INFO - Headline: What is Automation? - ISA
+2025-01-22 15:03:56,448 - INFO - URL: https://www.isa.org/about-isa/what-is-automation
+2025-01-22 15:03:56,448 - INFO - Description: We define automation as "the creation and application of technology to monitor and control the production and delivery of products and services.�
+2025-01-22 15:03:56,448 - INFO - Category: 5
+2025-01-22 15:03:56,450 - INFO - Inserted result: term_id=3, category_id=5, headline=What is Automation? - ISA, url=https://www.isa.org/about-isa/what-is-automation, description=We define automation as "the creation and application of technology to monitor and control the production and delivery of products and services.�
+2025-01-22 15:03:56,485 - INFO - Result 7:
+2025-01-22 15:03:56,487 - INFO - URL: https://automationil.co.il/
+2025-01-22 15:03:56,488 - INFO - Category: 1
+2025-01-22 15:03:56,527 - INFO - Result 8:
+2025-01-22 15:03:56,527 - INFO - Headline: Automation | Technology, Types, Rise, History, & Examples
+2025-01-22 15:03:56,527 - INFO - URL: https://www.britannica.com/technology/automation
+2025-01-22 15:03:56,529 - INFO - Category: 5
+2025-01-22 15:03:56,570 - INFO - Result 9:
+2025-01-22 15:03:56,570 - INFO - Headline: Automation
+2025-01-22 15:03:56,570 - INFO - URL: https://www.automationgame.com/
+2025-01-22 15:03:56,570 - INFO - Description: In Automation it's you who designs every detail of your cars, from the heart of the car that is the engine, the chassis, the suspension and the styling.
+2025-01-22 15:03:56,570 - INFO - Category: 5
+2025-01-22 15:03:56,572 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation, url=https://www.automationgame.com/, description=In Automation it's you who designs every detail of your cars, from the heart of the car that is the engine, the chassis, the suspension and the styling.
+2025-01-22 15:03:56,607 - INFO - Result 10:
+2025-01-22 15:03:56,607 - INFO - Headline: Automation.com - News & Resources for Industrial Automation
+2025-01-22 15:03:56,607 - INFO - URL: https://www.automation.com/
+2025-01-22 15:03:56,607 - INFO - Description: Automation.com - News, Articles, Products, Resources & Suppliers for Manufacturing, Factory, Process and Industrial Automation.
+2025-01-22 15:03:56,607 - INFO - Category: 5
+2025-01-22 15:03:56,609 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation.com - News & Resources for Industrial Automation, url=https://www.automation.com/, description=Automation.com - News, Articles, Products, Resources & Suppliers for Manufacturing, Factory, Process and Industrial Automation.
+2025-01-22 15:12:07,329 - INFO - This is a test info message to verify logging configuration.
+2025-01-22 15:12:07,329 - ERROR - This is a test error message to verify logging configuration.
+2025-01-22 15:12:07,329 - INFO - Search terms loaded
+2025-01-22 15:12:07,386 - INFO - Database tables truncated
+2025-01-22 15:12:09,838 - INFO - Google loaded successfully
+2025-01-22 15:12:09,925 - INFO - Searching for: car
+2025-01-22 15:12:15,250 - INFO - Found the 'אינטרנט' tab, attempting to click...
+2025-01-22 15:12:16,676 - INFO - Clicked on the 'אינטרנט' tab
+2025-01-22 15:12:16,692 - INFO - Found 10 results for 'car'
+2025-01-22 15:12:16,745 - INFO - Result 1:
+2025-01-22 15:12:16,745 - INFO - Headline: אתר הרכב של ישראל
+2025-01-22 15:12:16,745 - INFO - URL: https://www.icar.co.il/
+2025-01-22 15:12:16,745 - INFO - Description: iCar – המדריך לקניית רכב מציג נתונים וחוות דעת מקצועיות על כל המכוניות הנמכרות בארץ. בנוסף מציע אייקאר קישור ישיר לשירותי קניית רכב חדש או משומש, ליסינג, ...
+2025-01-22 15:12:16,745 - INFO - Category: 3
+2025-01-22 15:12:16,750 - INFO - Inserted result: term_id=1, category_id=3, headline=אתר הרכב של ישראל, url=https://www.icar.co.il/, description=iCar – המדריך לקניית רכב מציג נתונים וחוות דעת מקצועיות על כל המכוניות הנמכרות בארץ. בנוסף מציע אייקאר קישור ישיר לשירותי קניית רכב חדש או משומש, ליסינג, ...
+2025-01-22 15:12:16,783 - INFO - Result 2:
+2025-01-22 15:12:16,783 - INFO - Headline: TheCar - כל מה שצריך לדעת על גלגלים
+2025-01-22 15:12:16,783 - INFO - URL: https://thecar.co.il/
+2025-01-22 15:12:16,783 - INFO - Description: חדשות רכב ותחבורה: חדשות מהארץ ומהעולם, מבחני דרכים, מבחנים השוואתיים, רכב חשמלי, טכנולוגיה, צרכנות ועוד.
+2025-01-22 15:12:16,783 - INFO - Category: 1
+2025-01-22 15:12:16,785 - INFO - Inserted result: term_id=1, category_id=1, headline=TheCar - כל מה שצריך לדעת על גלגלים, url=https://thecar.co.il/, description=חדשות רכב ותחבורה: חדשות מהארץ ומהעולם, מבחני דרכים, מבחנים השוואתיים, רכב חשמלי, טכנולוגיה, צרכנות ועוד.
+2025-01-22 15:12:16,822 - INFO - Result 3:
+2025-01-22 15:12:16,822 - INFO - Headline: CARWIZ: קניית רכב ומכירה
+2025-01-22 15:12:16,823 - INFO - URL: https://carwiz.co.il/
+2025-01-22 15:12:16,823 - INFO - Description: מתלבטים לגבי קניית או מכירת רכב? היכנסו לקארוויז וקבלו מגוון הצעות מחיר עבור רכב יד שנייה. אצלנו תוכלו למצוא רכבים לקנייה ממבחר מותגים.
+2025-01-22 15:12:16,823 - INFO - Category: 3
+2025-01-22 15:12:16,823 - INFO - Inserted result: term_id=1, category_id=3, headline=CARWIZ: קניית רכב ומכירה, url=https://carwiz.co.il/, description=מתלבטים לגבי קניית או מכירת רכב? היכנסו לקארוויז וקבלו מגוון הצעות מחיר עבור רכב יד שנייה. אצלנו תוכלו למצוא רכבים לקנייה ממבחר מותגים.
+2025-01-22 15:12:16,864 - INFO - Result 4:
+2025-01-22 15:12:16,865 - INFO - Headline: אוטו מגזין רכב - מאגר מידע על רכבים
+2025-01-22 15:12:16,865 - INFO - URL: https://www.auto.co.il/
+2025-01-22 15:12:16,865 - INFO - Description: אם חיפשת אתר רכב אמין ורלוונטי - הגעת למקום הנכון. באמצעות מדריך לקניית רכב תוכל להשיג מידע על רכבים, חוות דעת מקצועית וייעוץ חינם.
+2025-01-22 15:12:16,865 - INFO - Category: 3
+2025-01-22 15:12:16,868 - INFO - Inserted result: term_id=1, category_id=3, headline=אוטו מגזין רכב - מאגר מידע על רכבים, url=https://www.auto.co.il/, description=אם חיפשת אתר רכב אמין ורלוונטי - הגעת למקום הנכון. באמצעות מדריך לקניית רכב תוכל להשיג מידע על רכבים, חוות דעת מקצועית וייעוץ חינם.
+2025-01-22 15:12:16,937 - INFO - Result 5:
+2025-01-22 15:12:16,937 - INFO - Headline: סיטי קאר רכב שיתופי
+2025-01-22 15:12:16,937 - INFO - URL: https://www.citycar.co.il/
+2025-01-22 15:12:16,937 - INFO - Description: חברת סיטי קאר היא חברת רכב שיתופי הגדולה המתקדמת והזולה בישראל עם למעלה מ-1000 רכבים שבה ניתן להזמין מעל מקום ללא צורך ללכת לסניף, עם מגוון רכבים ומסלולים ...
+2025-01-22 15:12:16,937 - INFO - Category: 5
+2025-01-22 15:12:16,940 - INFO - Inserted result: term_id=1, category_id=5, headline=סיטי קאר רכב שיתופי, url=https://www.citycar.co.il/, description=חברת סיטי קאר היא חברת רכב שיתופי הגדולה המתקדמת והזולה בישראל עם למעלה מ-1000 רכבים שבה ניתן להזמין מעל מקום ללא צורך ללכת לסניף, עם מגוון רכבים ומסלולים ...
+2025-01-22 15:12:16,975 - INFO - Result 6:
+2025-01-22 15:12:16,975 - INFO - Headline: קארזון - מחירון רכב חדש, השוואת רכבים, מבצעי רכב 2025
+2025-01-22 15:12:16,975 - INFO - URL: https://www.carzone.co.il/
+2025-01-22 15:12:16,975 - INFO - Description: קארזון - השוואת רכבים · דוח רכב כולל יד, היסטורית בעלות, קילומטרז', מודעות קודמות, נקודות חשובות ועוד · חיפוש רכב לפי סוג · רכב חדש לפי יצרן · מודעות למכירה כולל ...
+2025-01-22 15:12:16,975 - INFO - Category: 3
+2025-01-22 15:12:16,978 - INFO - Inserted result: term_id=1, category_id=3, headline=קארזון - מחירון רכב חדש, השוואת רכבים, מבצעי רכב 2025, url=https://www.carzone.co.il/, description=קארזון - השוואת רכבים · דוח רכב כולל יד, היסטורית בעלות, קילומטרז', מודעות קודמות, נקודות חשובות ועוד · חיפוש רכב לפי סוג · רכב חדש לפי יצרן · מודעות למכירה כולל ...
+2025-01-22 15:12:17,061 - INFO - Result 7:
+2025-01-22 15:12:17,061 - INFO - Headline: מכונית
+2025-01-22 15:12:17,061 - INFO - URL: https://he.wikipedia.org/wiki/%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA
+2025-01-22 15:12:17,061 - INFO - Description: מכונית היא כלי רכב מנועי גלגלי, המיועד לשאת נוסעים או מטען בדרכים וכבישים. · בתחילת עידן המכוניות פיתחו המהנדסים פתרונות הנעה שונים, שכללו מנועי בעירה פנימית, ...
+2025-01-22 15:12:17,061 - INFO - Category: 5
+2025-01-22 15:12:17,063 - INFO - Inserted result: term_id=1, category_id=5, headline=מכונית, url=https://he.wikipedia.org/wiki/%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA, description=מכונית היא כלי רכב מנועי גלגלי, המיועד לשאת נוסעים או מטען בדרכים וכבישים. · בתחילת עידן המכוניות פיתחו המהנדסים פתרונות הנעה שונים, שכללו מנועי בעירה פנימית, ...
+2025-01-22 15:12:17,093 - INFO - Result 8:
+2025-01-22 15:12:17,093 - INFO - Headline: Car-Find: האתר הגדול בישראל לעסקאות רכב חדש ואפס ק״מ במחיר ...
+2025-01-22 15:12:17,093 - INFO - URL: https://www.carfind.co.il/
+2025-01-22 15:12:17,093 - INFO - Description: קארפיינד מסייע להשוות ולמצוא את הרכב החדש הנכון עבורך. קארפיינד משווה מחירי רכב חדש מכלל יבואני הרכב, חברות ליסינג וסוכנויות רכב מובילות וכך מוצא עבורך את המחיר ...
+2025-01-22 15:12:17,093 - INFO - Category: 5
+2025-01-22 15:12:17,096 - INFO - Inserted result: term_id=1, category_id=5, headline=Car-Find: האתר הגדול בישראל לעסקאות רכב חדש ואפס ק״מ במחיר ..., url=https://www.carfind.co.il/, description=קארפיינד מסייע להשוות ולמצוא את הרכב החדש הנכון עבורך. קארפיינד משווה מחירי רכב חדש מכלל יבואני הרכב, חברות ליסינג וסוכנויות רכב מובילות וכך מוצא עבורך את המחיר ...
+2025-01-22 15:12:17,129 - INFO - Result 9:
+2025-01-22 15:12:17,129 - INFO - Headline: My Car | מיי קאר רכב שיתופי
+2025-01-22 15:12:17,129 - INFO - URL: https://www.mycar-israel.com/
+2025-01-22 15:12:17,129 - INFO - Description: רכב שיתופי מבית מיי קאר הוא העידן החדש בתחום הניידות האישית. המודל החדשני והפרקטי של my-car מעמיד לרשותכם מאות רכבים שזמינים לשימוש בקלות ונוחות לפי בחירתכם ...
+2025-01-22 15:12:17,129 - INFO - Category: 5
+2025-01-22 15:12:17,131 - INFO - Inserted result: term_id=1, category_id=5, headline=My Car | מיי קאר רכב שיתופי, url=https://www.mycar-israel.com/, description=רכב שיתופי מבית מיי קאר הוא העידן החדש בתחום הניידות האישית. המודל החדשני והפרקטי של my-car מעמיד לרשותכם מאות רכבים שזמינים לשימוש בקלות ונוחות לפי בחירתכם ...
+2025-01-22 15:12:17,162 - INFO - Result 10:
+2025-01-22 15:12:17,162 - INFO - Headline: ניו קאר ליס - הדרך החכמה לרכב שלך - עד 100% מימון לקניית רכב חדש ...
+2025-01-22 15:12:17,162 - INFO - URL: https://new-car-lease.co.il/
+2025-01-22 15:12:17,163 - INFO - Description: חברת ניו קאר ליס מתמחה ב- 100% מימון לקניית רכב, טרייד אין רכב, קניית רכב חדש, ליסינג לרכב חדש, רכב במימון ללא מקדמה, לקנות רכב בתשלומים.
+2025-01-22 15:12:17,163 - INFO - Category: 3
+2025-01-22 15:12:17,164 - INFO - Inserted result: term_id=1, category_id=3, headline=ניו קאר ליס - הדרך החכמה לרכב שלך - עד 100% מימון לקניית רכב חדש ..., url=https://new-car-lease.co.il/, description=חברת ניו קאר ליס מתמחה ב- 100% מימון לקניית רכב, טרייד אין רכב, קניית רכב חדש, ליסינג לרכב חדש, רכב במימון ללא מקדמה, לקנות רכב בתשלומים.
+2025-01-22 15:12:19,316 - INFO - Searching for: Sport
+2025-01-22 15:12:24,993 - INFO - Found the 'אינטרנט' tab, attempting to click...
+2025-01-22 15:12:25,038 - INFO - Clicked on the 'אינטרנט' tab
+2025-01-22 15:12:25,050 - INFO - Found 10 results for 'Sport'
+2025-01-22 15:12:25,082 - INFO - Result 1:
+2025-01-22 15:12:25,082 - INFO - Headline: ספורט 5 - חדשות ספורט, תוצאות, תקצירים ושידורים מישראל ומהעולם
+2025-01-22 15:12:25,082 - INFO - URL: https://www.sport5.co.il/
+2025-01-22 15:12:25,082 - INFO - Description: ספורט 5 - אתר הספורט המוביל בישראל! תוצאות לייב, חדשות הספורט, תקצירי וידאו של משחקים, טבלאות וסיקור נרחב של ליגות הכדורגל, הכדורסל וכל ענפי הספורט.
+2025-01-22 15:12:25,082 - INFO - Category: 1
+2025-01-22 15:12:25,084 - INFO - Inserted result: term_id=2, category_id=1, headline=ספורט 5 - חדשות ספורט, תוצאות, תקצירים ושידורים מישראל ומהעולם, url=https://www.sport5.co.il/, description=ספורט 5 - אתר הספורט המוביל בישראל! תוצאות לייב, חדשות הספורט, תקצירי וידאו של משחקים, טבלאות וסיקור נרחב של ליגות הכדורגל, הכדורסל וכל ענפי הספורט.
+2025-01-22 15:12:25,116 - INFO - Result 2:
+2025-01-22 15:12:25,116 - INFO - Headline: ספורט 1: חדשות ספורט בישראל ובעולם - תקצירי וידאו ותוצאות משחקים
+2025-01-22 15:12:25,116 - INFO - URL: https://sport1.maariv.co.il/
+2025-01-22 15:12:25,116 - INFO - Description: מחפשים חדשות ספורט בזמן אמת? רוצים עדכונים ותוצאות לייב? היכנסו עכשיו לספורט1 ותקבלו חדשות, תקצירים, שידורים ישירים, תוצאות ספורט וסרטונים.
+2025-01-22 15:12:25,116 - INFO - Category: 1
+2025-01-22 15:12:25,118 - INFO - Inserted result: term_id=2, category_id=1, headline=ספורט 1: חדשות ספורט בישראל ובעולם - תקצירי וידאו ותוצאות משחקים, url=https://sport1.maariv.co.il/, description=מחפשים חדשות ספורט בזמן אמת? רוצים עדכונים ותוצאות לייב? היכנסו עכשיו לספורט1 ותקבלו חדשות, תקצירים, שידורים ישירים, תוצאות ספורט וסרטונים.
+2025-01-22 15:12:25,151 - INFO - Result 3:
+2025-01-22 15:12:25,151 - INFO - Headline: וואלה ספורט | חדשות ועדכוני ספורט, כדורגל ישראל ועולמי, כדורסל ...
+2025-01-22 15:12:25,151 - INFO - URL: https://sports.walla.co.il/
+2025-01-22 15:12:25,151 - INFO - Description: אתר הבית של מכורי ענף הספורט בישראל. באתר נמצאות כתבות וחדשות רבות אודות מועדוני וקבוצות הכדורגל השונות הקיימות בישראל.
+2025-01-22 15:12:25,151 - INFO - Category: 1
+2025-01-22 15:12:25,153 - INFO - Inserted result: term_id=2, category_id=1, headline=וואלה ספורט | חדשות ועדכוני ספורט, כדורגל ישראל ועולמי, כדורסל ..., url=https://sports.walla.co.il/, description=אתר הבית של מכורי ענף הספורט בישראל. באתר נמצאות כתבות וחדשות רבות אודות מועדוני וקבוצות הכדורגל השונות הקיימות בישראל.
+2025-01-22 15:12:25,184 - INFO - Result 4:
+2025-01-22 15:12:25,184 - INFO - Headline: ONE - מספר 1 בספורט
+2025-01-22 15:12:25,184 - INFO - URL: https://www.one.co.il/
+2025-01-22 15:12:25,184 - INFO - Description: ONE: אתר הספורט המוביל בישראל. חדשות, וידאו, סטטיסטיקה, תוצאות LIVE וסיקור מלא של ליגות הכדורסל, כדורגל וענפי ספורט נוספים בישראל ובעולם.
+2025-01-22 15:12:25,184 - INFO - Category: 1
+2025-01-22 15:12:25,186 - INFO - Inserted result: term_id=2, category_id=1, headline=ONE - מספר 1 בספורט, url=https://www.one.co.il/, description=ONE: אתר הספורט המוביל בישראל. חדשות, וידאו, סטטיסטיקה, תוצאות LIVE וסיקור מלא של ליגות הכדורסל, כדורגל וענפי ספורט נוספים בישראל ובעולם.
+2025-01-22 15:12:25,219 - INFO - Result 5:
+2025-01-22 15:12:25,219 - INFO - Headline: חדשות ספורט - כל מה שקורה בכדורגל, הכדורסל ושאר הענפים
+2025-01-22 15:12:25,219 - INFO - URL: https://www.ynet.co.il/sport
+2025-01-22 15:12:25,219 - INFO - Description: ynet חדשות ספורט: אתר הספורט המוביל בישראל. סיקור נרחב ומפורט כולל קטעי וידאו בלעדיים מהליגות השונות. ליגת העל בכדורגל, ליגה לאומית כדורסל, הליגה האנגלית ...
+2025-01-22 15:12:25,219 - INFO - Category: 1
+2025-01-22 15:12:25,220 - INFO - Inserted result: term_id=2, category_id=1, headline=חדשות ספורט - כל מה שקורה בכדורגל, הכדורסל ושאר הענפים, url=https://www.ynet.co.il/sport, description=ynet חדשות ספורט: אתר הספורט המוביל בישראל. סיקור נרחב ומפורט כולל קטעי וידאו בלעדיים מהליגות השונות. ליגת העל בכדורגל, ליגה לאומית כדורסל, הליגה האנגלית ...
+2025-01-22 15:12:25,252 - INFO - Result 6:
+2025-01-22 15:12:25,252 - INFO - Headline: ספורט
+2025-01-22 15:12:25,252 - INFO - URL: https://www.israelhayom.co.il/sport
+2025-01-22 15:12:25,252 - INFO - Description: כל החדשות בספורט, תוצאות לייב וסיקורים: כדורגל, כדורסל וענפים נוספים בארץ ובעולם.
+2025-01-22 15:12:25,252 - INFO - Category: 1
+2025-01-22 15:12:25,254 - INFO - Inserted result: term_id=2, category_id=1, headline=ספורט, url=https://www.israelhayom.co.il/sport, description=כל החדשות בספורט, תוצאות לייב וסיקורים: כדורגל, כדורסל וענפים נוספים בארץ ובעולם.
+2025-01-22 15:12:25,344 - INFO - Result 7:
+2025-01-22 15:12:25,344 - INFO - Headline: ישראל ספורט: ראשי
+2025-01-22 15:12:25,344 - INFO - URL: https://isport.co.il/
+2025-01-22 15:12:25,344 - INFO - Description: ראשי · כדורגל ישראלי · ליגת העל · ליגה לאומית · גביע המדינה · נבחרת ישראל · גביע הטוטו · ליגיונרים · ליגת על לנוער · ליגות נמוכות · כדורגל נשים.
+2025-01-22 15:12:25,344 - INFO - Category: 5
+2025-01-22 15:12:25,346 - INFO - Inserted result: term_id=2, category_id=5, headline=ישראל ספורט: ראשי, url=https://isport.co.il/, description=ראשי · כדורגל ישראלי · ליגת העל · ליגה לאומית · גביע המדינה · נבחרת ישראל · גביע הטוטו · ליגיונרים · ליגת על לנוער · ליגות נמוכות · כדורגל נשים.
+2025-01-22 15:12:25,381 - INFO - Result 8:
+2025-01-22 15:12:25,381 - INFO - Headline: ספורט
+2025-01-22 15:12:25,381 - INFO - URL: https://www.haaretz.co.il/sport
+2025-01-22 15:12:25,381 - INFO - Description: ליגת האלופות: ברצלונה חזרה מפיגור לניצחון 4:5 על בנפיקה בתוספת הזמן · שחקני מכבי תל אביב, העונה · איגוד השופטים: ההחלטה להעניק למכבי ת"א פנדל היתה שגויה, נתניה ...
+2025-01-22 15:12:25,381 - INFO - Category: 5
+2025-01-22 15:12:25,382 - INFO - Inserted result: term_id=2, category_id=5, headline=ספורט, url=https://www.haaretz.co.il/sport, description=ליגת האלופות: ברצלונה חזרה מפיגור לניצחון 4:5 על בנפיקה בתוספת הזמן · שחקני מכבי תל אביב, העונה · איגוד השופטים: ההחלטה להעניק למכבי ת"א פנדל היתה שגויה, נתניה ...
+2025-01-22 15:12:25,414 - INFO - Result 9:
+2025-01-22 15:12:25,415 - INFO - Headline: חדשות הספורט בארץ ובעולם
+2025-01-22 15:12:25,415 - INFO - URL: https://www.mako.co.il/Sports
+2025-01-22 15:12:25,415 - INFO - Description: מבט רחב על עולם הספורט, הכולל חדשות מהארץ והעולם, פרשנויות מקצועיות וטורי דעה על כדורגל, כדורסל וענפי ספורט רבים. כל ענפי הספורט במקום אחד - mako ספורט.
+2025-01-22 15:12:25,415 - INFO - Category: 1
+2025-01-22 15:12:25,416 - INFO - Inserted result: term_id=2, category_id=1, headline=חדשות הספורט בארץ ובעולם, url=https://www.mako.co.il/Sports, description=מבט רחב על עולם הספורט, הכולל חדשות מהארץ והעולם, פרשנויות מקצועיות וטורי דעה על כדורגל, כדורסל וענפי ספורט רבים. כל ענפי הספורט במקום אחד - mako ספורט.
+2025-01-22 15:12:25,449 - INFO - Result 10:
+2025-01-22 15:12:25,449 - INFO - Headline: תוצאות ספורט בזמן אמת מכל אירועי הספורט בארץ ובעולם
+2025-01-22 15:12:25,449 - INFO - URL: https://www.sport5.co.il/html/Pages/GamesResults.html
+2025-01-22 15:12:25,449 - INFO - Description: לוח תוצאות ספורט בזמן אמת - כדורגל, כדורסל, NBA, טניס ועוד - תוצאות לייב מכל אירועי הספורט והליגות בארץ ובעולם במרחק לחיצת כפתור.
+2025-01-22 15:12:25,449 - INFO - Category: 5
+2025-01-22 15:12:25,451 - INFO - Inserted result: term_id=2, category_id=5, headline=תוצאות ספורט בזמן אמת מכל אירועי הספורט בארץ ובעולם, url=https://www.sport5.co.il/html/Pages/GamesResults.html, description=לוח תוצאות ספורט בזמן אמת - כדורגל, כדורסל, NBA, טניס ועוד - תוצאות לייב מכל אירועי הספורט והליגות בארץ ובעולם במרחק לחיצת כפתור.
+2025-01-22 15:12:27,583 - INFO - Searching for: Automation
+2025-01-22 15:12:30,899 - INFO - Found the 'אינטרנט' tab, attempting to click...
+2025-01-22 15:12:30,941 - INFO - Clicked on the 'אינטרנט' tab
+2025-01-22 15:12:30,952 - INFO - Found 10 results for 'Automation'
+2025-01-22 15:12:30,990 - INFO - Result 1:
+2025-01-22 15:12:30,990 - INFO - Headline: אוטומציה
+2025-01-22 15:12:30,990 - INFO - URL: https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%A6%D7%99%D7%94
+2025-01-22 15:12:30,990 - INFO - Description: אוטומציה (מיוונית עתיקה – "פועל מעצמו") היא שימוש באביזרים מכניים או אלקטרוניים, על-מנת לבצע סדרת פעולות, ברצף מתוכנן, ללא מגע יד אדם.
+2025-01-22 15:12:30,990 - INFO - Category: 5
+2025-01-22 15:12:30,992 - INFO - Inserted result: term_id=3, category_id=5, headline=אוטומציה, url=https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%A6%D7%99%D7%94, description=אוטומציה (מיוונית עתיקה – "פועל מעצמו") היא שימוש באביזרים מכניים או אלקטרוניים, על-מנת לבצע סדרת פעולות, ברצף מתוכנן, ללא מגע יד אדם.
+2025-01-22 15:12:31,029 - INFO - Result 2:
+2025-01-22 15:12:31,029 - INFO - Headline: Automation
+2025-01-22 15:12:31,029 - INFO - URL: https://en.wikipedia.org/wiki/Automation
+2025-01-22 15:12:31,029 - INFO - Description: Automation includes the use of various equipment and control systems such as machinery, processes in factories, boilers, and heat-treating ovens, switching on ...
+2025-01-22 15:12:31,029 - INFO - Category: 5
+2025-01-22 15:12:31,030 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation, url=https://en.wikipedia.org/wiki/Automation, description=Automation includes the use of various equipment and control systems such as machinery, processes in factories, boilers, and heat-treating ovens, switching on ...
+2025-01-22 15:12:31,068 - INFO - Result 3:
+2025-01-22 15:12:31,068 - INFO - Headline: What Is Automation?
+2025-01-22 15:12:31,068 - INFO - URL: https://www.ibm.com/think/topics/automation
+2025-01-22 15:12:31,068 - INFO - Description: Automation is the application of technology, programs, robotics, or processes to achieve outcomes with minimal human input.
+2025-01-22 15:12:31,068 - INFO - Category: 5
+2025-01-22 15:12:31,069 - INFO - Inserted result: term_id=3, category_id=5, headline=What Is Automation?, url=https://www.ibm.com/think/topics/automation, description=Automation is the application of technology, programs, robotics, or processes to achieve outcomes with minimal human input.
+2025-01-22 15:12:31,110 - INFO - Result 4:
+2025-01-22 15:12:31,111 - INFO - Headline: Automation - The Car Company Tycoon Game
+2025-01-22 15:12:31,111 - INFO - URL: https://store.steampowered.com/app/293760/Automation__The_Car_Company_Tycoon_Game/
+2025-01-22 15:12:31,111 - INFO - Description: Automation is an automotive design simulator, featuring vehicles and technologies from 1946 to 2020. Use Automation's unparalleled engine and car design tools ...
+2025-01-22 15:12:31,111 - INFO - Category: 5
+2025-01-22 15:12:31,113 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation - The Car Company Tycoon Game, url=https://store.steampowered.com/app/293760/Automation__The_Car_Company_Tycoon_Game/, description=Automation is an automotive design simulator, featuring vehicles and technologies from 1946 to 2020. Use Automation's unparalleled engine and car design tools ...
+2025-01-22 15:12:31,159 - INFO - Result 5:
+2025-01-22 15:12:31,159 - INFO - Headline: automation in Hebrew | Morfix Dictionary מילון ותרגום מורפיקס
+2025-01-22 15:12:31,159 - INFO - URL: https://www.morfix.co.il/automation
+2025-01-22 15:12:31,159 - INFO - Description: תרגום לעברית עבור: automation. automation noun. תרגום קולי הוסף מילים לרשימה ... המילה automation מופיעה בחידון 'Digital Marketing Terms' עם עוד מילים קשורות.
+2025-01-22 15:12:31,159 - INFO - Category: 5
+2025-01-22 15:12:31,161 - INFO - Inserted result: term_id=3, category_id=5, headline=automation in Hebrew | Morfix Dictionary מילון ותרגום מורפיקס, url=https://www.morfix.co.il/automation, description=תרגום לעברית עבור: automation. automation noun. תרגום קולי הוסף מילים לרשימה ... המילה automation מופיעה בחידון 'Digital Marketing Terms' עם עוד מילים קשורות.
+2025-01-22 15:12:31,208 - INFO - Result 6:
+2025-01-22 15:12:31,208 - INFO - Headline: What is Automation? - ISA
+2025-01-22 15:12:31,208 - INFO - URL: https://www.isa.org/about-isa/what-is-automation
+2025-01-22 15:12:31,208 - INFO - Description: We define automation as "the creation and application of technology to monitor and control the production and delivery of products and services.”
+2025-01-22 15:12:31,208 - INFO - Category: 5
+2025-01-22 15:12:31,211 - INFO - Inserted result: term_id=3, category_id=5, headline=What is Automation? - ISA, url=https://www.isa.org/about-isa/what-is-automation, description=We define automation as "the creation and application of technology to monitor and control the production and delivery of products and services.”
+2025-01-22 15:12:31,265 - INFO - Result 7:
+2025-01-22 15:12:31,265 - INFO - Headline: מקצועני האוטומציה: דף הבית - AutomationIL
+2025-01-22 15:12:31,265 - INFO - URL: https://automationil.co.il/
+2025-01-22 15:12:31,265 - INFO - Description: שירותי אוטומציה לעסקים ... חיבור לידים לCRM, תהליכי סליקה וחשבוניות, אוטומציות של דיוור לפי קמפיין או כל סנן אחר. אתרי איקומרס, מדידת שיחות, דיווחי המרות לכלל ...
+2025-01-22 15:12:31,265 - INFO - Category: 1
+2025-01-22 15:12:31,268 - INFO - Inserted result: term_id=3, category_id=1, headline=מקצועני האוטומציה: דף הבית - AutomationIL, url=https://automationil.co.il/, description=שירותי אוטומציה לעסקים ... חיבור לידים לCRM, תהליכי סליקה וחשבוניות, אוטומציות של דיוור לפי קמפיין או כל סנן אחר. אתרי איקומרס, מדידת שיחות, דיווחי המרות לכלל ...
+2025-01-22 15:12:31,317 - INFO - Result 8:
+2025-01-22 15:12:31,317 - INFO - Headline: Automation | Technology, Types, Rise, History, & Examples
+2025-01-22 15:12:31,317 - INFO - URL: https://www.britannica.com/technology/automation
+2025-01-22 15:12:31,317 - INFO - Description: 13 בינו׳ 2025 — Automation, application of machines to tasks once performed by human beings or, increasingly, to tasks that would otherwise be impossible.
+2025-01-22 15:12:31,317 - INFO - Category: 5
+2025-01-22 15:12:31,319 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation | Technology, Types, Rise, History, & Examples, url=https://www.britannica.com/technology/automation, description=13 בינו׳ 2025 — Automation, application of machines to tasks once performed by human beings or, increasingly, to tasks that would otherwise be impossible.
+2025-01-22 15:12:31,361 - INFO - Result 9:
+2025-01-22 15:12:31,361 - INFO - Headline: Automation
+2025-01-22 15:12:31,361 - INFO - URL: https://www.automationgame.com/
+2025-01-22 15:12:31,361 - INFO - Description: In Automation it's you who designs every detail of your cars, from the heart of the car that is the engine, the chassis, the suspension and the styling.
+2025-01-22 15:12:31,361 - INFO - Category: 5
+2025-01-22 15:12:31,363 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation, url=https://www.automationgame.com/, description=In Automation it's you who designs every detail of your cars, from the heart of the car that is the engine, the chassis, the suspension and the styling.
+2025-01-22 15:12:31,403 - INFO - Result 10:
+2025-01-22 15:12:31,403 - INFO - Headline: Automation.com - News & Resources for Industrial Automation
+2025-01-22 15:12:31,403 - INFO - URL: https://www.automation.com/
+2025-01-22 15:12:31,403 - INFO - Description: Automation.com - News, Articles, Products, Resources & Suppliers for Manufacturing, Factory, Process and Industrial Automation.
+2025-01-22 15:12:31,403 - INFO - Category: 5
+2025-01-22 15:12:31,405 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation.com - News & Resources for Industrial Automation, url=https://www.automation.com/, description=Automation.com - News, Articles, Products, Resources & Suppliers for Manufacturing, Factory, Process and Industrial Automation.
+2025-01-22 15:15:27,100 - INFO - This is a test info message to verify logging configuration.
+2025-01-22 15:15:27,100 - ERROR - This is a test error message to verify logging configuration.
+2025-01-22 15:15:27,101 - INFO - Search terms loaded
+2025-01-22 15:15:27,193 - INFO - Database tables truncated
+2025-01-22 15:15:29,797 - INFO - Google loaded successfully
+2025-01-22 15:15:29,901 - INFO - Searching for: car
+2025-01-22 15:15:34,551 - INFO - Found the 'אינטרנט' tab, attempting to click...
+2025-01-22 15:15:35,663 - INFO - Clicked on the 'אינטרנט' tab
+2025-01-22 15:15:35,684 - INFO - Found 10 results for 'car'
+2025-01-22 15:15:35,850 - INFO - Result 1:
+2025-01-22 15:15:35,850 - INFO - Headline: אתר הרכב של ישראל
+2025-01-22 15:15:35,850 - INFO - URL: https://www.icar.co.il/
+2025-01-22 15:15:35,850 - INFO - Description: iCar – המדריך לקניית רכב מציג נתונים וחוות דעת מקצועיות על כל המכוניות הנמכרות בארץ. בנוסף מציע אייקאר קישור ישיר לשירותי קניית רכב חדש או משומש, ליסינג, ...
+2025-01-22 15:15:35,850 - INFO - Category: 3
+2025-01-22 15:15:35,856 - INFO - Inserted result: term_id=1, category_id=3, headline=אתר הרכב של ישראל, url=https://www.icar.co.il/, description=iCar – המדריך לקניית רכב מציג נתונים וחוות דעת מקצועיות על כל המכוניות הנמכרות בארץ. בנוסף מציע אייקאר קישור ישיר לשירותי קניית רכב חדש או משומש, ליסינג, ...
+2025-01-22 15:15:35,904 - INFO - Result 2:
+2025-01-22 15:15:35,904 - INFO - Headline: TheCar - כל מה שצריך לדעת על גלגלים
+2025-01-22 15:15:35,904 - INFO - URL: https://thecar.co.il/
+2025-01-22 15:15:35,904 - INFO - Description: חדשות רכב ותחבורה: חדשות מהארץ ומהעולם, מבחני דרכים, מבחנים השוואתיים, רכב חשמלי, טכנולוגיה, צרכנות ועוד.
+2025-01-22 15:15:35,904 - INFO - Category: 1
+2025-01-22 15:15:35,906 - INFO - Inserted result: term_id=1, category_id=1, headline=TheCar - כל מה שצריך לדעת על גלגלים, url=https://thecar.co.il/, description=חדשות רכב ותחבורה: חדשות מהארץ ומהעולם, מבחני דרכים, מבחנים השוואתיים, רכב חשמלי, טכנולוגיה, צרכנות ועוד.
+2025-01-22 15:15:35,950 - INFO - Result 3:
+2025-01-22 15:15:35,950 - INFO - Headline: CARWIZ: קניית רכב ומכירה
+2025-01-22 15:15:35,950 - INFO - URL: https://carwiz.co.il/
+2025-01-22 15:15:35,950 - INFO - Description: מתלבטים לגבי קניית או מכירת רכב? היכנסו לקארוויז וקבלו מגוון הצעות מחיר עבור רכב יד שנייה. אצלנו תוכלו למצוא רכבים לקנייה ממבחר מותגים.
+2025-01-22 15:15:35,950 - INFO - Category: 3
+2025-01-22 15:15:35,953 - INFO - Inserted result: term_id=1, category_id=3, headline=CARWIZ: קניית רכב ומכירה, url=https://carwiz.co.il/, description=מתלבטים לגבי קניית או מכירת רכב? היכנסו לקארוויז וקבלו מגוון הצעות מחיר עבור רכב יד שנייה. אצלנו תוכלו למצוא רכבים לקנייה ממבחר מותגים.
+2025-01-22 15:15:35,988 - INFO - Result 4:
+2025-01-22 15:15:35,988 - INFO - Headline: אוטו מגזין רכב - מאגר מידע על רכבים
+2025-01-22 15:15:35,988 - INFO - URL: https://www.auto.co.il/
+2025-01-22 15:15:35,988 - INFO - Description: אם חיפשת אתר רכב אמין ורלוונטי - הגעת למקום הנכון. באמצעות מדריך לקניית רכב תוכל להשיג מידע על רכבים, חוות דעת מקצועית וייעוץ חינם.
+2025-01-22 15:15:35,988 - INFO - Category: 3
+2025-01-22 15:15:35,990 - INFO - Inserted result: term_id=1, category_id=3, headline=אוטו מגזין רכב - מאגר מידע על רכבים, url=https://www.auto.co.il/, description=אם חיפשת אתר רכב אמין ורלוונטי - הגעת למקום הנכון. באמצעות מדריך לקניית רכב תוכל להשיג מידע על רכבים, חוות דעת מקצועית וייעוץ חינם.
+2025-01-22 15:15:36,022 - INFO - Result 5:
+2025-01-22 15:15:36,022 - INFO - Headline: סיטי קאר רכב שיתופי
+2025-01-22 15:15:36,022 - INFO - URL: https://www.citycar.co.il/
+2025-01-22 15:15:36,022 - INFO - Description: חברת סיטי קאר היא חברת רכב שיתופי הגדולה המתקדמת והזולה בישראל עם למעלה מ-1000 רכבים שבה ניתן להזמין מעל מקום ללא צורך ללכת לסניף, עם מגוון רכבים ומסלולים ...
+2025-01-22 15:15:36,022 - INFO - Category: 5
+2025-01-22 15:15:36,024 - INFO - Inserted result: term_id=1, category_id=5, headline=סיטי קאר רכב שיתופי, url=https://www.citycar.co.il/, description=חברת סיטי קאר היא חברת רכב שיתופי הגדולה המתקדמת והזולה בישראל עם למעלה מ-1000 רכבים שבה ניתן להזמין מעל מקום ללא צורך ללכת לסניף, עם מגוון רכבים ומסלולים ...
+2025-01-22 15:15:36,057 - INFO - Result 6:
+2025-01-22 15:15:36,057 - INFO - Headline: קארזון - מחירון רכב חדש, השוואת רכבים, מבצעי רכב 2025
+2025-01-22 15:15:36,057 - INFO - URL: https://www.carzone.co.il/
+2025-01-22 15:15:36,057 - INFO - Description: קארזון - השוואת רכבים · דוח רכב כולל יד, היסטורית בעלות, קילומטרז', מודעות קודמות, נקודות חשובות ועוד · חיפוש רכב לפי סוג · רכב חדש לפי יצרן · מודעות למכירה כולל ...
+2025-01-22 15:15:36,057 - INFO - Category: 3
+2025-01-22 15:15:36,058 - INFO - Inserted result: term_id=1, category_id=3, headline=קארזון - מחירון רכב חדש, השוואת רכבים, מבצעי רכב 2025, url=https://www.carzone.co.il/, description=קארזון - השוואת רכבים · דוח רכב כולל יד, היסטורית בעלות, קילומטרז', מודעות קודמות, נקודות חשובות ועוד · חיפוש רכב לפי סוג · רכב חדש לפי יצרן · מודעות למכירה כולל ...
+2025-01-22 15:15:36,093 - INFO - Result 7:
+2025-01-22 15:15:36,093 - INFO - Headline: מכונית
+2025-01-22 15:15:36,093 - INFO - URL: https://he.wikipedia.org/wiki/%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA
+2025-01-22 15:15:36,093 - INFO - Description: מכונית היא כלי רכב מנועי גלגלי, המיועד לשאת נוסעים או מטען בדרכים וכבישים. · בתחילת עידן המכוניות פיתחו המהנדסים פתרונות הנעה שונים, שכללו מנועי בעירה פנימית, ...
+2025-01-22 15:15:36,093 - INFO - Category: 5
+2025-01-22 15:15:36,094 - INFO - Inserted result: term_id=1, category_id=5, headline=מכונית, url=https://he.wikipedia.org/wiki/%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA, description=מכונית היא כלי רכב מנועי גלגלי, המיועד לשאת נוסעים או מטען בדרכים וכבישים. · בתחילת עידן המכוניות פיתחו המהנדסים פתרונות הנעה שונים, שכללו מנועי בעירה פנימית, ...
+2025-01-22 15:15:36,128 - INFO - Result 8:
+2025-01-22 15:15:36,128 - INFO - Headline: Car-Find: האתר הגדול בישראל לעסקאות רכב חדש ואפס ק״מ במחיר ...
+2025-01-22 15:15:36,128 - INFO - URL: https://www.carfind.co.il/
+2025-01-22 15:15:36,128 - INFO - Description: קארפיינד מסייע להשוות ולמצוא את הרכב החדש הנכון עבורך. קארפיינד משווה מחירי רכב חדש מכלל יבואני הרכב, חברות ליסינג וסוכנויות רכב מובילות וכך מוצא עבורך את המחיר ...
+2025-01-22 15:15:36,128 - INFO - Category: 5
+2025-01-22 15:15:36,130 - INFO - Inserted result: term_id=1, category_id=5, headline=Car-Find: האתר הגדול בישראל לעסקאות רכב חדש ואפס ק״מ במחיר ..., url=https://www.carfind.co.il/, description=קארפיינד מסייע להשוות ולמצוא את הרכב החדש הנכון עבורך. קארפיינד משווה מחירי רכב חדש מכלל יבואני הרכב, חברות ליסינג וסוכנויות רכב מובילות וכך מוצא עבורך את המחיר ...
+2025-01-22 15:15:36,164 - INFO - Result 9:
+2025-01-22 15:15:36,164 - INFO - Headline: My Car | מיי קאר רכב שיתופי
+2025-01-22 15:15:36,164 - INFO - URL: https://www.mycar-israel.com/
+2025-01-22 15:15:36,164 - INFO - Description: רכב שיתופי מבית מיי קאר הוא העידן החדש בתחום הניידות האישית. המודל החדשני והפרקטי של my-car מעמיד לרשותכם מאות רכבים שזמינים לשימוש בקלות ונוחות לפי בחירתכם ...
+2025-01-22 15:15:36,164 - INFO - Category: 5
+2025-01-22 15:15:36,165 - INFO - Inserted result: term_id=1, category_id=5, headline=My Car | מיי קאר רכב שיתופי, url=https://www.mycar-israel.com/, description=רכב שיתופי מבית מיי קאר הוא העידן החדש בתחום הניידות האישית. המודל החדשני והפרקטי של my-car מעמיד לרשותכם מאות רכבים שזמינים לשימוש בקלות ונוחות לפי בחירתכם ...
+2025-01-22 15:15:36,202 - INFO - Result 10:
+2025-01-22 15:15:36,202 - INFO - Headline: ניו קאר ליס - הדרך החכמה לרכב שלך - עד 100% מימון לקניית רכב חדש ...
+2025-01-22 15:15:36,202 - INFO - URL: https://new-car-lease.co.il/
+2025-01-22 15:15:36,202 - INFO - Description: חברת ניו קאר ליס מתמחה ב- 100% מימון לקניית רכב, טרייד אין רכב, קניית רכב חדש, ליסינג לרכב חדש, רכב במימון ללא מקדמה, לקנות רכב בתשלומים.
+2025-01-22 15:15:36,202 - INFO - Category: 3
+2025-01-22 15:15:36,203 - INFO - Inserted result: term_id=1, category_id=3, headline=ניו קאר ליס - הדרך החכמה לרכב שלך - עד 100% מימון לקניית רכב חדש ..., url=https://new-car-lease.co.il/, description=חברת ניו קאר ליס מתמחה ב- 100% מימון לקניית רכב, טרייד אין רכב, קניית רכב חדש, ליסינג לרכב חדש, רכב במימון ללא מקדמה, לקנות רכב בתשלומים.
+2025-01-22 15:15:38,314 - INFO - Searching for: Sport
+2025-01-22 15:15:44,030 - INFO - Found the 'אינטרנט' tab, attempting to click...
+2025-01-22 15:15:44,083 - INFO - Clicked on the 'אינטרנט' tab
+2025-01-22 15:15:44,096 - INFO - Found 10 results for 'Sport'
+2025-01-22 15:15:44,127 - INFO - Result 1:
+2025-01-22 15:15:44,127 - INFO - Headline: ספורט 5 - חדשות ספורט, תוצאות, תקצירים ושידורים מישראל ומהעולם
+2025-01-22 15:15:44,127 - INFO - URL: https://www.sport5.co.il/
+2025-01-22 15:15:44,127 - INFO - Description: ספורט 5 - אתר הספורט המוביל בישראל! תוצאות לייב, חדשות הספורט, תקצירי וידאו של משחקים, טבלאות וסיקור נרחב של ליגות הכדורגל, הכדורסל וכל ענפי הספורט.
+2025-01-22 15:15:44,127 - INFO - Category: 1
+2025-01-22 15:15:44,129 - INFO - Inserted result: term_id=2, category_id=1, headline=ספורט 5 - חדשות ספורט, תוצאות, תקצירים ושידורים מישראל ומהעולם, url=https://www.sport5.co.il/, description=ספורט 5 - אתר הספורט המוביל בישראל! תוצאות לייב, חדשות הספורט, תקצירי וידאו של משחקים, טבלאות וסיקור נרחב של ליגות הכדורגל, הכדורסל וכל ענפי הספורט.
+2025-01-22 15:15:44,163 - INFO - Result 2:
+2025-01-22 15:15:44,163 - INFO - Headline: ספורט 1: חדשות ספורט בישראל ובעולם - תקצירי וידאו ותוצאות משחקים
+2025-01-22 15:15:44,163 - INFO - URL: https://sport1.maariv.co.il/
+2025-01-22 15:15:44,163 - INFO - Description: מחפשים חדשות ספורט בזמן אמת? רוצים עדכונים ותוצאות לייב? היכנסו עכשיו לספורט1 ותקבלו חדשות, תקצירים, שידורים ישירים, תוצאות ספורט וסרטונים.
+2025-01-22 15:15:44,163 - INFO - Category: 1
+2025-01-22 15:15:44,164 - INFO - Inserted result: term_id=2, category_id=1, headline=ספורט 1: חדשות ספורט בישראל ובעולם - תקצירי וידאו ותוצאות משחקים, url=https://sport1.maariv.co.il/, description=מחפשים חדשות ספורט בזמן אמת? רוצים עדכונים ותוצאות לייב? היכנסו עכשיו לספורט1 ותקבלו חדשות, תקצירים, שידורים ישירים, תוצאות ספורט וסרטונים.
+2025-01-22 15:15:44,196 - INFO - Result 3:
+2025-01-22 15:15:44,196 - INFO - Headline: וואלה ספורט | חדשות ועדכוני ספורט, כדורגל ישראל ועולמי, כדורסל ...
+2025-01-22 15:15:44,196 - INFO - URL: https://sports.walla.co.il/
+2025-01-22 15:15:44,196 - INFO - Description: אתר הבית של מכורי ענף הספורט בישראל. באתר נמצאות כתבות וחדשות רבות אודות מועדוני וקבוצות הכדורגל השונות הקיימות בישראל.
+2025-01-22 15:15:44,196 - INFO - Category: 1
+2025-01-22 15:15:44,198 - INFO - Inserted result: term_id=2, category_id=1, headline=וואלה ספורט | חדשות ועדכוני ספורט, כדורגל ישראל ועולמי, כדורסל ..., url=https://sports.walla.co.il/, description=אתר הבית של מכורי ענף הספורט בישראל. באתר נמצאות כתבות וחדשות רבות אודות מועדוני וקבוצות הכדורגל השונות הקיימות בישראל.
+2025-01-22 15:15:44,228 - INFO - Result 4:
+2025-01-22 15:15:44,228 - INFO - Headline: ONE - מספר 1 בספורט
+2025-01-22 15:15:44,228 - INFO - URL: https://www.one.co.il/
+2025-01-22 15:15:44,228 - INFO - Description: ONE: אתר הספורט המוביל בישראל. חדשות, וידאו, סטטיסטיקה, תוצאות LIVE וסיקור מלא של ליגות הכדורסל, כדורגל וענפי ספורט נוספים בישראל ובעולם.
+2025-01-22 15:15:44,228 - INFO - Category: 1
+2025-01-22 15:15:44,230 - INFO - Inserted result: term_id=2, category_id=1, headline=ONE - מספר 1 בספורט, url=https://www.one.co.il/, description=ONE: אתר הספורט המוביל בישראל. חדשות, וידאו, סטטיסטיקה, תוצאות LIVE וסיקור מלא של ליגות הכדורסל, כדורגל וענפי ספורט נוספים בישראל ובעולם.
+2025-01-22 15:15:44,260 - INFO - Result 5:
+2025-01-22 15:15:44,261 - INFO - Headline: חדשות ספורט - כל מה שקורה בכדורגל, הכדורסל ושאר הענפים
+2025-01-22 15:15:44,261 - INFO - URL: https://www.ynet.co.il/sport
+2025-01-22 15:15:44,261 - INFO - Description: ynet חדשות ספורט: אתר הספורט המוביל בישראל. סיקור נרחב ומפורט כולל קטעי וידאו בלעדיים מהליגות השונות. ליגת העל בכדורגל, ליגה לאומית כדורסל, הליגה האנגלית ...
+2025-01-22 15:15:44,261 - INFO - Category: 1
+2025-01-22 15:15:44,262 - INFO - Inserted result: term_id=2, category_id=1, headline=חדשות ספורט - כל מה שקורה בכדורגל, הכדורסל ושאר הענפים, url=https://www.ynet.co.il/sport, description=ynet חדשות ספורט: אתר הספורט המוביל בישראל. סיקור נרחב ומפורט כולל קטעי וידאו בלעדיים מהליגות השונות. ליגת העל בכדורגל, ליגה לאומית כדורסל, הליגה האנגלית ...
+2025-01-22 15:15:44,294 - INFO - Result 6:
+2025-01-22 15:15:44,294 - INFO - Headline: ספורט
+2025-01-22 15:15:44,294 - INFO - URL: https://www.israelhayom.co.il/sport
+2025-01-22 15:15:44,294 - INFO - Description: כל החדשות בספורט, תוצאות לייב וסיקורים: כדורגל, כדורסל וענפים נוספים בארץ ובעולם.
+2025-01-22 15:15:44,294 - INFO - Category: 1
+2025-01-22 15:15:44,295 - INFO - Inserted result: term_id=2, category_id=1, headline=ספורט, url=https://www.israelhayom.co.il/sport, description=כל החדשות בספורט, תוצאות לייב וסיקורים: כדורגל, כדורסל וענפים נוספים בארץ ובעולם.
+2025-01-22 15:15:44,328 - INFO - Result 7:
+2025-01-22 15:15:44,328 - INFO - Headline: ישראל ספורט: ראשי
+2025-01-22 15:15:44,328 - INFO - URL: https://isport.co.il/
+2025-01-22 15:15:44,328 - INFO - Description: ראשי · כדורגל ישראלי · ליגת העל · ליגה לאומית · גביע המדינה · נבחרת ישראל · גביע הטוטו · ליגיונרים · ליגת על לנוער · ליגות נמוכות · כדורגל נשים.
+2025-01-22 15:15:44,328 - INFO - Category: 5
+2025-01-22 15:15:44,329 - INFO - Inserted result: term_id=2, category_id=5, headline=ישראל ספורט: ראשי, url=https://isport.co.il/, description=ראשי · כדורגל ישראלי · ליגת העל · ליגה לאומית · גביע המדינה · נבחרת ישראל · גביע הטוטו · ליגיונרים · ליגת על לנוער · ליגות נמוכות · כדורגל נשים.
+2025-01-22 15:15:44,360 - INFO - Result 8:
+2025-01-22 15:15:44,360 - INFO - Headline: ספורט
+2025-01-22 15:15:44,360 - INFO - URL: https://www.haaretz.co.il/sport
+2025-01-22 15:15:44,360 - INFO - Description: ליגת האלופות: ברצלונה חזרה מפיגור לניצחון 4:5 על בנפיקה בתוספת הזמן · שחקני מכבי תל אביב, העונה · איגוד השופטים: ההחלטה להעניק למכבי ת"א פנדל היתה שגויה, נתניה ...
+2025-01-22 15:15:44,360 - INFO - Category: 5
+2025-01-22 15:15:44,362 - INFO - Inserted result: term_id=2, category_id=5, headline=ספורט, url=https://www.haaretz.co.il/sport, description=ליגת האלופות: ברצלונה חזרה מפיגור לניצחון 4:5 על בנפיקה בתוספת הזמן · שחקני מכבי תל אביב, העונה · איגוד השופטים: ההחלטה להעניק למכבי ת"א פנדל היתה שגויה, נתניה ...
+2025-01-22 15:15:44,393 - INFO - Result 9:
+2025-01-22 15:15:44,393 - INFO - Headline: חדשות הספורט בארץ ובעולם
+2025-01-22 15:15:44,393 - INFO - URL: https://www.mako.co.il/Sports
+2025-01-22 15:15:44,393 - INFO - Description: מבט רחב על עולם הספורט, הכולל חדשות מהארץ והעולם, פרשנויות מקצועיות וטורי דעה על כדורגל, כדורסל וענפי ספורט רבים. כל ענפי הספורט במקום אחד - mako ספורט.
+2025-01-22 15:15:44,393 - INFO - Category: 1
+2025-01-22 15:15:44,394 - INFO - Inserted result: term_id=2, category_id=1, headline=חדשות הספורט בארץ ובעולם, url=https://www.mako.co.il/Sports, description=מבט רחב על עולם הספורט, הכולל חדשות מהארץ והעולם, פרשנויות מקצועיות וטורי דעה על כדורגל, כדורסל וענפי ספורט רבים. כל ענפי הספורט במקום אחד - mako ספורט.
+2025-01-22 15:15:44,424 - INFO - Result 10:
+2025-01-22 15:15:44,425 - INFO - Headline: תוצאות ספורט בזמן אמת מכל אירועי הספורט בארץ ובעולם
+2025-01-22 15:15:44,425 - INFO - URL: https://www.sport5.co.il/html/Pages/GamesResults.html
+2025-01-22 15:15:44,425 - INFO - Description: לוח תוצאות ספורט בזמן אמת - כדורגל, כדורסל, NBA, טניס ועוד - תוצאות לייב מכל אירועי הספורט והליגות בארץ ובעולם במרחק לחיצת כפתור.
+2025-01-22 15:15:44,425 - INFO - Category: 5
+2025-01-22 15:15:44,426 - INFO - Inserted result: term_id=2, category_id=5, headline=תוצאות ספורט בזמן אמת מכל אירועי הספורט בארץ ובעולם, url=https://www.sport5.co.il/html/Pages/GamesResults.html, description=לוח תוצאות ספורט בזמן אמת - כדורגל, כדורסל, NBA, טניס ועוד - תוצאות לייב מכל אירועי הספורט והליגות בארץ ובעולם במרחק לחיצת כפתור.
+2025-01-22 15:15:46,572 - INFO - Searching for: Automation
+2025-01-22 15:15:50,829 - INFO - Found the 'אינטרנט' tab, attempting to click...
+2025-01-22 15:15:50,869 - INFO - Clicked on the 'אינטרנט' tab
+2025-01-22 15:15:50,886 - INFO - Found 10 results for 'Automation'
+2025-01-22 15:15:50,918 - INFO - Result 1:
+2025-01-22 15:15:50,918 - INFO - Headline: אוטומציה
+2025-01-22 15:15:50,918 - INFO - URL: https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%A6%D7%99%D7%94
+2025-01-22 15:15:50,918 - INFO - Description: אוטומציה (מיוונית עתיקה – "פועל מעצמו") היא שימוש באביזרים מכניים או אלקטרוניים, על-מנת לבצע סדרת פעולות, ברצף מתוכנן, ללא מגע יד אדם.
+2025-01-22 15:15:50,918 - INFO - Category: 5
+2025-01-22 15:15:50,920 - INFO - Inserted result: term_id=3, category_id=5, headline=אוטומציה, url=https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%A6%D7%99%D7%94, description=אוטומציה (מיוונית עתיקה – "פועל מעצמו") היא שימוש באביזרים מכניים או אלקטרוניים, על-מנת לבצע סדרת פעולות, ברצף מתוכנן, ללא מגע יד אדם.
+2025-01-22 15:15:50,955 - INFO - Result 2:
+2025-01-22 15:15:50,955 - INFO - Headline: Automation
+2025-01-22 15:15:50,955 - INFO - URL: https://en.wikipedia.org/wiki/Automation
+2025-01-22 15:15:50,955 - INFO - Description: Automation includes the use of various equipment and control systems such as machinery, processes in factories, boilers, and heat-treating ovens, switching on ...
+2025-01-22 15:15:50,955 - INFO - Category: 5
+2025-01-22 15:15:50,957 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation, url=https://en.wikipedia.org/wiki/Automation, description=Automation includes the use of various equipment and control systems such as machinery, processes in factories, boilers, and heat-treating ovens, switching on ...
+2025-01-22 15:15:50,990 - INFO - Result 3:
+2025-01-22 15:15:50,990 - INFO - Headline: What Is Automation?
+2025-01-22 15:15:50,990 - INFO - URL: https://www.ibm.com/think/topics/automation
+2025-01-22 15:15:50,990 - INFO - Description: Automation is the application of technology, programs, robotics, or processes to achieve outcomes with minimal human input.
+2025-01-22 15:15:50,990 - INFO - Category: 5
+2025-01-22 15:15:50,992 - INFO - Inserted result: term_id=3, category_id=5, headline=What Is Automation?, url=https://www.ibm.com/think/topics/automation, description=Automation is the application of technology, programs, robotics, or processes to achieve outcomes with minimal human input.
+2025-01-22 15:15:51,023 - INFO - Result 4:
+2025-01-22 15:15:51,023 - INFO - Headline: Automation - The Car Company Tycoon Game
+2025-01-22 15:15:51,023 - INFO - URL: https://store.steampowered.com/app/293760/Automation__The_Car_Company_Tycoon_Game/
+2025-01-22 15:15:51,024 - INFO - Description: Automation is an automotive design simulator, featuring vehicles and technologies from 1946 to 2020. Use Automation's unparalleled engine and car design tools ...
+2025-01-22 15:15:51,024 - INFO - Category: 5
+2025-01-22 15:15:51,025 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation - The Car Company Tycoon Game, url=https://store.steampowered.com/app/293760/Automation__The_Car_Company_Tycoon_Game/, description=Automation is an automotive design simulator, featuring vehicles and technologies from 1946 to 2020. Use Automation's unparalleled engine and car design tools ...
+2025-01-22 15:15:51,057 - INFO - Result 5:
+2025-01-22 15:15:51,057 - INFO - Headline: automation in Hebrew | Morfix Dictionary מילון ותרגום מורפיקס
+2025-01-22 15:15:51,057 - INFO - URL: https://www.morfix.co.il/automation
+2025-01-22 15:15:51,057 - INFO - Description: תרגום לעברית עבור: automation. automation noun. תרגום קולי הוסף מילים לרשימה ... המילה automation מופיעה בחידון 'Digital Marketing Terms' עם עוד מילים קשורות.
+2025-01-22 15:15:51,057 - INFO - Category: 5
+2025-01-22 15:15:51,059 - INFO - Inserted result: term_id=3, category_id=5, headline=automation in Hebrew | Morfix Dictionary מילון ותרגום מורפיקס, url=https://www.morfix.co.il/automation, description=תרגום לעברית עבור: automation. automation noun. תרגום קולי הוסף מילים לרשימה ... המילה automation מופיעה בחידון 'Digital Marketing Terms' עם עוד מילים קשורות.
+2025-01-22 15:15:51,090 - INFO - Result 6:
+2025-01-22 15:15:51,090 - INFO - Headline: What is Automation? - ISA
+2025-01-22 15:15:51,090 - INFO - URL: https://www.isa.org/about-isa/what-is-automation
+2025-01-22 15:15:51,090 - INFO - Description: We define automation as "the creation and application of technology to monitor and control the production and delivery of products and services.”
+2025-01-22 15:15:51,090 - INFO - Category: 5
+2025-01-22 15:15:51,091 - INFO - Inserted result: term_id=3, category_id=5, headline=What is Automation? - ISA, url=https://www.isa.org/about-isa/what-is-automation, description=We define automation as "the creation and application of technology to monitor and control the production and delivery of products and services.”
+2025-01-22 15:15:51,126 - INFO - Result 7:
+2025-01-22 15:15:51,126 - INFO - Headline: מקצועני האוטומציה: דף הבית - AutomationIL
+2025-01-22 15:15:51,126 - INFO - URL: https://automationil.co.il/
+2025-01-22 15:15:51,126 - INFO - Description: שירותי אוטומציה לעסקים ... חיבור לידים לCRM, תהליכי סליקה וחשבוניות, אוטומציות של דיוור לפי קמפיין או כל סנן אחר. אתרי איקומרס, מדידת שיחות, דיווחי המרות לכלל ...
+2025-01-22 15:15:51,126 - INFO - Category: 1
+2025-01-22 15:15:51,128 - INFO - Inserted result: term_id=3, category_id=1, headline=מקצועני האוטומציה: דף הבית - AutomationIL, url=https://automationil.co.il/, description=שירותי אוטומציה לעסקים ... חיבור לידים לCRM, תהליכי סליקה וחשבוניות, אוטומציות של דיוור לפי קמפיין או כל סנן אחר. אתרי איקומרס, מדידת שיחות, דיווחי המרות לכלל ...
+2025-01-22 15:15:51,160 - INFO - Result 8:
+2025-01-22 15:15:51,160 - INFO - Headline: Automation | Technology, Types, Rise, History, & Examples
+2025-01-22 15:15:51,160 - INFO - URL: https://www.britannica.com/technology/automation
+2025-01-22 15:15:51,160 - INFO - Description: 13 בינו׳ 2025 — Automation, application of machines to tasks once performed by human beings or, increasingly, to tasks that would otherwise be impossible.
+2025-01-22 15:15:51,160 - INFO - Category: 5
+2025-01-22 15:15:51,162 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation | Technology, Types, Rise, History, & Examples, url=https://www.britannica.com/technology/automation, description=13 בינו׳ 2025 — Automation, application of machines to tasks once performed by human beings or, increasingly, to tasks that would otherwise be impossible.
+2025-01-22 15:15:51,193 - INFO - Result 9:
+2025-01-22 15:15:51,193 - INFO - Headline: Automation
+2025-01-22 15:15:51,193 - INFO - URL: https://www.automationgame.com/
+2025-01-22 15:15:51,193 - INFO - Description: In Automation it's you who designs every detail of your cars, from the heart of the car that is the engine, the chassis, the suspension and the styling.
+2025-01-22 15:15:51,193 - INFO - Category: 5
+2025-01-22 15:15:51,195 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation, url=https://www.automationgame.com/, description=In Automation it's you who designs every detail of your cars, from the heart of the car that is the engine, the chassis, the suspension and the styling.
+2025-01-22 15:15:51,227 - INFO - Result 10:
+2025-01-22 15:15:51,227 - INFO - Headline: Automation.com - News & Resources for Industrial Automation
+2025-01-22 15:15:51,227 - INFO - URL: https://www.automation.com/
+2025-01-22 15:15:51,227 - INFO - Description: Automation.com - News, Articles, Products, Resources & Suppliers for Manufacturing, Factory, Process and Industrial Automation.
+2025-01-22 15:15:51,227 - INFO - Category: 5
+2025-01-22 15:15:51,229 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation.com - News & Resources for Industrial Automation, url=https://www.automation.com/, description=Automation.com - News, Articles, Products, Resources & Suppliers for Manufacturing, Factory, Process and Industrial Automation.
+2025-01-22 15:16:02,299 - INFO - Results for search term 'gg':
+2025-01-22 15:16:02,301 - INFO - No results for the term 'gg'
+2025-01-22 15:16:02,302 - INFO - 
+Results for content type 'gg':
+2025-01-22 15:16:02,303 - INFO - No results for content type 'gg'
+2025-01-22 15:49:04,124 - INFO - Search terms loaded
+2025-01-22 15:49:04,179 - INFO - Database tables truncated
+2025-01-22 15:49:07,432 - INFO - Google loaded successfully
+2025-01-22 15:49:07,587 - INFO - Searching for: ddddfffcar
+2025-01-22 15:49:12,264 - INFO - Found the '\u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8' tab, attempting to click...
+2025-01-22 15:49:13,766 - INFO - Clicked on the '\u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8' tab
+2025-01-22 15:49:13,787 - INFO - Found 10 results for 'ddddfffcar'
+2025-01-22 15:49:13,856 - INFO - Result 1: Headline: This Is The PERFECT New BMW! | DDD Ep. 1, URL: https://www.youtube.com/watch?v=ydycEFxFKFI, Description: 31 \u05d1\u05de\u05e8\u05e5 2018 � Daily Driver Discussions = DDD. casual, informal, interactive, lets discuss car things! Starting off with my three favorite cars from the ..., Category: 5
+2025-01-22 15:49:13,859 - INFO - Inserted result: term_id=1, category_id=5, headline=This Is The PERFECT New BMW! | DDD Ep. 1, url=https://www.youtube.com/watch?v=ydycEFxFKFI, description=31 \u05d1\u05de\u05e8\u05e5 2018 � Daily Driver Discussions = DDD. casual, informal, interactive, lets discuss car things! Starting off with my three favorite cars from the ...
+2025-01-22 15:49:13,904 - INFO - Result 2: Headline: #DDDDFF Hex Color | RGB: 221, 221, 255 |, URL: https://www.colorcombos.com/colors/DDDDFF, Description: #DDDDFF Hex Color for the Web has the RGB values of 221, 221, 255 and the CMYK colour values of 13.3, 13.3, 0, 0. This web color is described by the following ..., Category: 5
+2025-01-22 15:49:13,906 - INFO - Inserted result: term_id=1, category_id=5, headline=#DDDDFF Hex Color | RGB: 221, 221, 255 |, url=https://www.colorcombos.com/colors/DDDDFF, description=#DDDDFF Hex Color for the Web has the RGB values of 221, 221, 255 and the CMYK colour values of 13.3, 13.3, 0, 0. This web color is described by the following ...
+2025-01-22 15:49:13,982 - INFO - Result 3: Headline: DDDD transforms garage into retro-futuristic hub for ..., URL: https://www.designboom.com/architecture/dddd-garage-retro-futuristic-hub-vintage-car-culture-shenzhen-10-12-2024/, Description: 12 \u05d1\u05d0\u05d5\u05e7\u05f3 2024 � The project is a multi-functional commercial space centered around vintage modified cars, transforming the original car park into a hub for car culture., Category: 5
+2025-01-22 15:49:13,985 - INFO - Inserted result: term_id=1, category_id=5, headline=DDDD transforms garage into retro-futuristic hub for ..., url=https://www.designboom.com/architecture/dddd-garage-retro-futuristic-hub-vintage-car-culture-shenzhen-10-12-2024/, description=12 \u05d1\u05d0\u05d5\u05e7\u05f3 2024 � The project is a multi-functional commercial space centered around vintage modified cars, transforming the original car park into a hub for car culture.
+2025-01-22 15:49:14,051 - INFO - Result 4: Headline: Hex DDDDFF color, URL: https://convertingcolors.com/hex-color-DDDDFF.html, Description: The Hex color DDDDFF is a light color, and the websafe version is hex CCCCFF. A complement of this color would be FFFFDD, and the grayscale version is E1E1E1., Category: 5
+2025-01-22 15:49:14,053 - INFO - Inserted result: term_id=1, category_id=5, headline=Hex DDDDFF color, url=https://convertingcolors.com/hex-color-DDDDFF.html, description=The Hex color DDDDFF is a light color, and the websafe version is hex CCCCFF. A complement of this color would be FFFFDD, and the grayscale version is E1E1E1.
+2025-01-22 15:49:14,127 - INFO - Result 5: Headline: REVEALING MY NEW FERRARI �TIRE SLAYER� ..., URL: https://www.youtube.com/watch?v=8OH0N8W1mHg, Description: 10 \u05d1\u05d0\u05d5\u05e7\u05f3 2020 � � WE TOUR FAST & FURIOUS... REVEALING MY NEW FERRARI �TIRE SLAYER� PROJECT CAR! 723K views � 4 years ago ...more. DailyDrivenExotics. 4.03M., Category: 5
+2025-01-22 15:49:14,130 - INFO - Inserted result: term_id=1, category_id=5, headline=REVEALING MY NEW FERRARI �TIRE SLAYER� ..., url=https://www.youtube.com/watch?v=8OH0N8W1mHg, description=10 \u05d1\u05d0\u05d5\u05e7\u05f3 2020 � � WE TOUR FAST & FURIOUS... REVEALING MY NEW FERRARI �TIRE SLAYER� PROJECT CAR! 723K views � 4 years ago ...more. DailyDrivenExotics. 4.03M.
+2025-01-22 15:49:14,164 - INFO - Result 6: Headline: Stream drxppy | Listen to ddddff playlist online for free on ..., URL: https://soundcloud.com/drxppy-581011702/sets/ddddff, Description: 13 \u05d1\u05d9\u05e0\u05d5\u05f3 2020 � Listen to ddddff, a playlist curated by drxppy on desktop and mobile., Category: 5
+2025-01-22 15:49:14,166 - INFO - Inserted result: term_id=1, category_id=5, headline=Stream drxppy | Listen to ddddff playlist online for free on ..., url=https://soundcloud.com/drxppy-581011702/sets/ddddff, description=13 \u05d1\u05d9\u05e0\u05d5\u05f3 2020 � Listen to ddddff, a playlist curated by drxppy on desktop and mobile.
+2025-01-22 15:49:14,203 - INFO - Result 7: Headline: 51 DD Car ideas | dream cars, luxury cars, car, URL: https://www.pinterest.com/mewduburin/dd-car/, Description: Aug 7, 2021 - Explore nur alia's board "DD Car" on Pinterest. See more ideas about dream cars, luxury cars, car., Category: 5
+2025-01-22 15:49:14,204 - INFO - Inserted result: term_id=1, category_id=5, headline=51 DD Car ideas | dream cars, luxury cars, car, url=https://www.pinterest.com/mewduburin/dd-car/, description=Aug 7, 2021 - Explore nur alia's board "DD Car" on Pinterest. See more ideas about dream cars, luxury cars, car.
+2025-01-22 15:49:14,241 - INFO - Result 8: Headline: Ama Lou - DDD (Official Video), URL: https://www.youtube.com/watch?v=HcBFyVnf-_o, Description: 2 \u05d1\u05d9\u05d5\u05dc\u05d9 2018 � 'DDD' the film is a tryptic of visual parts that accompany the soundtrack of the three part 'DDD' EP by Ama Lou. The film, written and ..., Category: 5
+2025-01-22 15:49:14,243 - INFO - Inserted result: term_id=1, category_id=5, headline=Ama Lou - DDD (Official Video), url=https://www.youtube.com/watch?v=HcBFyVnf-_o, description=2 \u05d1\u05d9\u05d5\u05dc\u05d9 2018 � 'DDD' the film is a tryptic of visual parts that accompany the soundtrack of the three part 'DDD' EP by Ama Lou. The film, written and ...
+2025-01-22 15:49:14,282 - INFO - Result 9: Headline: ddddff, URL: https://www.youtube.com/playlist?list=PL-RqUOMMOA71ap-WUydpwMnpXmmdlnUde, Description: Insane Trap and Bass Drops Best of Trap Music 2017 Car Music Mix. Phonk Club � 16:36 � Insane Trap and Bass Drops Best of Trap Music 2017 Car Music Mix ..., Category: 5
+2025-01-22 15:49:14,284 - INFO - Inserted result: term_id=1, category_id=5, headline=ddddff, url=https://www.youtube.com/playlist?list=PL-RqUOMMOA71ap-WUydpwMnpXmmdlnUde, description=Insane Trap and Bass Drops Best of Trap Music 2017 Car Music Mix. Phonk Club � 16:36 � Insane Trap and Bass Drops Best of Trap Music 2017 Car Music Mix ...
+2025-01-22 15:49:14,321 - INFO - Result 10: Headline: Price cars prediction: EDA + Blending, URL: https://www.kaggle.com/code/allegich/price-cars-prediction-eda-blending, Description: About this competition�. Task: To develop a model that can be used to predict the price of used cars based on various attributes., Category: 5
+2025-01-22 15:49:14,323 - INFO - Inserted result: term_id=1, category_id=5, headline=Price cars prediction: EDA + Blending, url=https://www.kaggle.com/code/allegich/price-cars-prediction-eda-blending, description=About this competition�. Task: To develop a model that can be used to predict the price of used cars based on various attributes.
+2025-01-22 15:49:16,422 - INFO - Searching for: Sport
+2025-01-22 15:49:21,159 - INFO - Found the '\u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8' tab, attempting to click...
+2025-01-22 15:49:21,214 - INFO - Clicked on the '\u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8' tab
+2025-01-22 15:49:21,227 - INFO - Found 10 results for 'Sport'
+2025-01-22 15:49:21,266 - INFO - Result 1: Headline: \u05e1\u05e4\u05d5\u05e8\u05d8 5 - \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea, \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9\u05dd \u05d5\u05e9\u05d9\u05d3\u05d5\u05e8\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05de\u05d4\u05e2\u05d5\u05dc\u05dd, URL: https://www.sport5.co.il/, Description: \u05e1\u05e4\u05d5\u05e8\u05d8 5 - \u05d0\u05ea\u05e8 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc! \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1, \u05d7\u05d3\u05e9\u05d5\u05ea \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8, \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05e9\u05dc \u05de\u05e9\u05d7\u05e7\u05d9\u05dd, \u05d8\u05d1\u05dc\u05d0\u05d5\u05ea \u05d5\u05e1\u05d9\u05e7\u05d5\u05e8 \u05e0\u05e8\u05d7\u05d1 \u05e9\u05dc \u05dc\u05d9\u05d2\u05d5\u05ea \u05d4\u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05d4\u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05db\u05dc \u05e2\u05e0\u05e4\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8., Category: 1
+2025-01-22 15:49:21,269 - INFO - Inserted result: term_id=2, category_id=1, headline=\u05e1\u05e4\u05d5\u05e8\u05d8 5 - \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea, \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9\u05dd \u05d5\u05e9\u05d9\u05d3\u05d5\u05e8\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05de\u05d4\u05e2\u05d5\u05dc\u05dd, url=https://www.sport5.co.il/, description=\u05e1\u05e4\u05d5\u05e8\u05d8 5 - \u05d0\u05ea\u05e8 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc! \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1, \u05d7\u05d3\u05e9\u05d5\u05ea \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8, \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05e9\u05dc \u05de\u05e9\u05d7\u05e7\u05d9\u05dd, \u05d8\u05d1\u05dc\u05d0\u05d5\u05ea \u05d5\u05e1\u05d9\u05e7\u05d5\u05e8 \u05e0\u05e8\u05d7\u05d1 \u05e9\u05dc \u05dc\u05d9\u05d2\u05d5\u05ea \u05d4\u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05d4\u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05db\u05dc \u05e2\u05e0\u05e4\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8.
+2025-01-22 15:49:21,308 - INFO - Result 2: Headline: \u05e1\u05e4\u05d5\u05e8\u05d8 1: \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd - \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05d5\u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05de\u05e9\u05d7\u05e7\u05d9\u05dd, URL: https://sport1.maariv.co.il/, Description: \u05de\u05d7\u05e4\u05e9\u05d9\u05dd \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d6\u05de\u05df \u05d0\u05de\u05ea? \u05e8\u05d5\u05e6\u05d9\u05dd \u05e2\u05d3\u05db\u05d5\u05e0\u05d9\u05dd \u05d5\u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1? \u05d4\u05d9\u05db\u05e0\u05e1\u05d5 \u05e2\u05db\u05e9\u05d9\u05d5 \u05dc\u05e1\u05e4\u05d5\u05e8\u05d81 \u05d5\u05ea\u05e7\u05d1\u05dc\u05d5 \u05d7\u05d3\u05e9\u05d5\u05ea, \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9\u05dd, \u05e9\u05d9\u05d3\u05d5\u05e8\u05d9\u05dd \u05d9\u05e9\u05d9\u05e8\u05d9\u05dd, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d5\u05e1\u05e8\u05d8\u05d5\u05e0\u05d9\u05dd., Category: 1
+2025-01-22 15:49:21,310 - INFO - Inserted result: term_id=2, category_id=1, headline=\u05e1\u05e4\u05d5\u05e8\u05d8 1: \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd - \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05d5\u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05de\u05e9\u05d7\u05e7\u05d9\u05dd, url=https://sport1.maariv.co.il/, description=\u05de\u05d7\u05e4\u05e9\u05d9\u05dd \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d6\u05de\u05df \u05d0\u05de\u05ea? \u05e8\u05d5\u05e6\u05d9\u05dd \u05e2\u05d3\u05db\u05d5\u05e0\u05d9\u05dd \u05d5\u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1? \u05d4\u05d9\u05db\u05e0\u05e1\u05d5 \u05e2\u05db\u05e9\u05d9\u05d5 \u05dc\u05e1\u05e4\u05d5\u05e8\u05d81 \u05d5\u05ea\u05e7\u05d1\u05dc\u05d5 \u05d7\u05d3\u05e9\u05d5\u05ea, \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9\u05dd, \u05e9\u05d9\u05d3\u05d5\u05e8\u05d9\u05dd \u05d9\u05e9\u05d9\u05e8\u05d9\u05dd, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d5\u05e1\u05e8\u05d8\u05d5\u05e0\u05d9\u05dd.
+2025-01-22 15:49:21,347 - INFO - Result 3: Headline: \u05d5\u05d5\u05d0\u05dc\u05d4 \u05e1\u05e4\u05d5\u05e8\u05d8 | \u05d7\u05d3\u05e9\u05d5\u05ea \u05d5\u05e2\u05d3\u05db\u05d5\u05e0\u05d9 \u05e1\u05e4\u05d5\u05e8\u05d8, \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05e2\u05d5\u05dc\u05de\u05d9, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc ..., URL: https://sports.walla.co.il/, Description: \u05d0\u05ea\u05e8 \u05d4\u05d1\u05d9\u05ea \u05e9\u05dc \u05de\u05db\u05d5\u05e8\u05d9 \u05e2\u05e0\u05e3 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05d1\u05d0\u05ea\u05e8 \u05e0\u05de\u05e6\u05d0\u05d5\u05ea \u05db\u05ea\u05d1\u05d5\u05ea \u05d5\u05d7\u05d3\u05e9\u05d5\u05ea \u05e8\u05d1\u05d5\u05ea \u05d0\u05d5\u05d3\u05d5\u05ea \u05de\u05d5\u05e2\u05d3\u05d5\u05e0\u05d9 \u05d5\u05e7\u05d1\u05d5\u05e6\u05d5\u05ea \u05d4\u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d4\u05e9\u05d5\u05e0\u05d5\u05ea \u05d4\u05e7\u05d9\u05d9\u05de\u05d5\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc., Category: 1
+2025-01-22 15:49:21,349 - INFO - Inserted result: term_id=2, category_id=1, headline=\u05d5\u05d5\u05d0\u05dc\u05d4 \u05e1\u05e4\u05d5\u05e8\u05d8 | \u05d7\u05d3\u05e9\u05d5\u05ea \u05d5\u05e2\u05d3\u05db\u05d5\u05e0\u05d9 \u05e1\u05e4\u05d5\u05e8\u05d8, \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05e2\u05d5\u05dc\u05de\u05d9, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc ..., url=https://sports.walla.co.il/, description=\u05d0\u05ea\u05e8 \u05d4\u05d1\u05d9\u05ea \u05e9\u05dc \u05de\u05db\u05d5\u05e8\u05d9 \u05e2\u05e0\u05e3 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05d1\u05d0\u05ea\u05e8 \u05e0\u05de\u05e6\u05d0\u05d5\u05ea \u05db\u05ea\u05d1\u05d5\u05ea \u05d5\u05d7\u05d3\u05e9\u05d5\u05ea \u05e8\u05d1\u05d5\u05ea \u05d0\u05d5\u05d3\u05d5\u05ea \u05de\u05d5\u05e2\u05d3\u05d5\u05e0\u05d9 \u05d5\u05e7\u05d1\u05d5\u05e6\u05d5\u05ea \u05d4\u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d4\u05e9\u05d5\u05e0\u05d5\u05ea \u05d4\u05e7\u05d9\u05d9\u05de\u05d5\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc.
+2025-01-22 15:49:21,386 - INFO - Result 4: Headline: ONE - \u05de\u05e1\u05e4\u05e8 1 \u05d1\u05e1\u05e4\u05d5\u05e8\u05d8, URL: https://www.one.co.il/, Description: ONE: \u05d0\u05ea\u05e8 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05d7\u05d3\u05e9\u05d5\u05ea, \u05d5\u05d9\u05d3\u05d0\u05d5, \u05e1\u05d8\u05d8\u05d9\u05e1\u05d8\u05d9\u05e7\u05d4, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea LIVE \u05d5\u05e1\u05d9\u05e7\u05d5\u05e8 \u05de\u05dc\u05d0 \u05e9\u05dc \u05dc\u05d9\u05d2\u05d5\u05ea \u05d4\u05db\u05d3\u05d5\u05e8\u05e1\u05dc, \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d5\u05e2\u05e0\u05e4\u05d9 \u05e1\u05e4\u05d5\u05e8\u05d8 \u05e0\u05d5\u05e1\u05e4\u05d9\u05dd \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd., Category: 1
+2025-01-22 15:49:21,387 - INFO - Inserted result: term_id=2, category_id=1, headline=ONE - \u05de\u05e1\u05e4\u05e8 1 \u05d1\u05e1\u05e4\u05d5\u05e8\u05d8, url=https://www.one.co.il/, description=ONE: \u05d0\u05ea\u05e8 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05d7\u05d3\u05e9\u05d5\u05ea, \u05d5\u05d9\u05d3\u05d0\u05d5, \u05e1\u05d8\u05d8\u05d9\u05e1\u05d8\u05d9\u05e7\u05d4, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea LIVE \u05d5\u05e1\u05d9\u05e7\u05d5\u05e8 \u05de\u05dc\u05d0 \u05e9\u05dc \u05dc\u05d9\u05d2\u05d5\u05ea \u05d4\u05db\u05d3\u05d5\u05e8\u05e1\u05dc, \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d5\u05e2\u05e0\u05e4\u05d9 \u05e1\u05e4\u05d5\u05e8\u05d8 \u05e0\u05d5\u05e1\u05e4\u05d9\u05dd \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd.
+2025-01-22 15:49:21,426 - INFO - Result 5: Headline: \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 - \u05db\u05dc \u05de\u05d4 \u05e9\u05e7\u05d5\u05e8\u05d4 \u05d1\u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05d4\u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05e9\u05d0\u05e8 \u05d4\u05e2\u05e0\u05e4\u05d9\u05dd, URL: https://www.ynet.co.il/sport, Description: ynet \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8: \u05d0\u05ea\u05e8 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e1\u05d9\u05e7\u05d5\u05e8 \u05e0\u05e8\u05d7\u05d1 \u05d5\u05de\u05e4\u05d5\u05e8\u05d8 \u05db\u05d5\u05dc\u05dc \u05e7\u05d8\u05e2\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05d1\u05dc\u05e2\u05d3\u05d9\u05d9\u05dd \u05de\u05d4\u05dc\u05d9\u05d2\u05d5\u05ea \u05d4\u05e9\u05d5\u05e0\u05d5\u05ea. \u05dc\u05d9\u05d2\u05ea \u05d4\u05e2\u05dc \u05d1\u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05dc\u05d9\u05d2\u05d4 \u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05db\u05d3\u05d5\u05e8\u05e1\u05dc, \u05d4\u05dc\u05d9\u05d2\u05d4 \u05d4\u05d0\u05e0\u05d2\u05dc\u05d9\u05ea ..., Category: 1
+2025-01-22 15:49:21,428 - INFO - Inserted result: term_id=2, category_id=1, headline=\u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 - \u05db\u05dc \u05de\u05d4 \u05e9\u05e7\u05d5\u05e8\u05d4 \u05d1\u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05d4\u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05e9\u05d0\u05e8 \u05d4\u05e2\u05e0\u05e4\u05d9\u05dd, url=https://www.ynet.co.il/sport, description=ynet \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8: \u05d0\u05ea\u05e8 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e1\u05d9\u05e7\u05d5\u05e8 \u05e0\u05e8\u05d7\u05d1 \u05d5\u05de\u05e4\u05d5\u05e8\u05d8 \u05db\u05d5\u05dc\u05dc \u05e7\u05d8\u05e2\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05d1\u05dc\u05e2\u05d3\u05d9\u05d9\u05dd \u05de\u05d4\u05dc\u05d9\u05d2\u05d5\u05ea \u05d4\u05e9\u05d5\u05e0\u05d5\u05ea. \u05dc\u05d9\u05d2\u05ea \u05d4\u05e2\u05dc \u05d1\u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05dc\u05d9\u05d2\u05d4 \u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05db\u05d3\u05d5\u05e8\u05e1\u05dc, \u05d4\u05dc\u05d9\u05d2\u05d4 \u05d4\u05d0\u05e0\u05d2\u05dc\u05d9\u05ea ...
+2025-01-22 15:49:21,516 - INFO - Result 6: Headline: \u05e1\u05e4\u05d5\u05e8\u05d8, URL: https://www.israelhayom.co.il/sport, Description: \u05db\u05dc \u05d4\u05d7\u05d3\u05e9\u05d5\u05ea \u05d1\u05e1\u05e4\u05d5\u05e8\u05d8, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1 \u05d5\u05e1\u05d9\u05e7\u05d5\u05e8\u05d9\u05dd: \u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05e2\u05e0\u05e4\u05d9\u05dd \u05e0\u05d5\u05e1\u05e4\u05d9\u05dd \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd., Category: 1
+2025-01-22 15:49:21,518 - INFO - Inserted result: term_id=2, category_id=1, headline=\u05e1\u05e4\u05d5\u05e8\u05d8, url=https://www.israelhayom.co.il/sport, description=\u05db\u05dc \u05d4\u05d7\u05d3\u05e9\u05d5\u05ea \u05d1\u05e1\u05e4\u05d5\u05e8\u05d8, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1 \u05d5\u05e1\u05d9\u05e7\u05d5\u05e8\u05d9\u05dd: \u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05e2\u05e0\u05e4\u05d9\u05dd \u05e0\u05d5\u05e1\u05e4\u05d9\u05dd \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd.
+2025-01-22 15:49:21,560 - INFO - Result 7: Headline: \u05d9\u05e9\u05e8\u05d0\u05dc \u05e1\u05e4\u05d5\u05e8\u05d8: \u05e8\u05d0\u05e9\u05d9, URL: https://isport.co.il/, Description: \u05e8\u05d0\u05e9\u05d9 � \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9 � \u05dc\u05d9\u05d2\u05ea \u05d4\u05e2\u05dc � \u05dc\u05d9\u05d2\u05d4 \u05dc\u05d0\u05d5\u05de\u05d9\u05ea � \u05d2\u05d1\u05d9\u05e2 \u05d4\u05de\u05d3\u05d9\u05e0\u05d4 � \u05e0\u05d1\u05d7\u05e8\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc � \u05d2\u05d1\u05d9\u05e2 \u05d4\u05d8\u05d5\u05d8\u05d5 � \u05dc\u05d9\u05d2\u05d9\u05d5\u05e0\u05e8\u05d9\u05dd � \u05dc\u05d9\u05d2\u05ea \u05e2\u05dc \u05dc\u05e0\u05d5\u05e2\u05e8 � \u05dc\u05d9\u05d2\u05d5\u05ea \u05e0\u05de\u05d5\u05db\u05d5\u05ea � \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05e0\u05e9\u05d9\u05dd., Category: 5
+2025-01-22 15:49:21,562 - INFO - Inserted result: term_id=2, category_id=5, headline=\u05d9\u05e9\u05e8\u05d0\u05dc \u05e1\u05e4\u05d5\u05e8\u05d8: \u05e8\u05d0\u05e9\u05d9, url=https://isport.co.il/, description=\u05e8\u05d0\u05e9\u05d9 � \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9 � \u05dc\u05d9\u05d2\u05ea \u05d4\u05e2\u05dc � \u05dc\u05d9\u05d2\u05d4 \u05dc\u05d0\u05d5\u05de\u05d9\u05ea � \u05d2\u05d1\u05d9\u05e2 \u05d4\u05de\u05d3\u05d9\u05e0\u05d4 � \u05e0\u05d1\u05d7\u05e8\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc � \u05d2\u05d1\u05d9\u05e2 \u05d4\u05d8\u05d5\u05d8\u05d5 � \u05dc\u05d9\u05d2\u05d9\u05d5\u05e0\u05e8\u05d9\u05dd � \u05dc\u05d9\u05d2\u05ea \u05e2\u05dc \u05dc\u05e0\u05d5\u05e2\u05e8 � \u05dc\u05d9\u05d2\u05d5\u05ea \u05e0\u05de\u05d5\u05db\u05d5\u05ea � \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05e0\u05e9\u05d9\u05dd.
+2025-01-22 15:49:21,601 - INFO - Result 8: Headline: \u05e1\u05e4\u05d5\u05e8\u05d8, URL: https://www.haaretz.co.il/sport, Description: \u05dc\u05d9\u05d2\u05ea \u05d4\u05d0\u05dc\u05d5\u05e4\u05d5\u05ea: \u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4 \u05d7\u05d6\u05e8\u05d4 \u05de\u05e4\u05d9\u05d2\u05d5\u05e8 \u05dc\u05e0\u05d9\u05e6\u05d7\u05d5\u05df 4:5 \u05e2\u05dc \u05d1\u05e0\u05e4\u05d9\u05e7\u05d4 \u05d1\u05ea\u05d5\u05e1\u05e4\u05ea \u05d4\u05d6\u05de\u05df � \u05e9\u05d7\u05e7\u05e0\u05d9 \u05de\u05db\u05d1\u05d9 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1, \u05d4\u05e2\u05d5\u05e0\u05d4 � \u05d0\u05d9\u05d2\u05d5\u05d3 \u05d4\u05e9\u05d5\u05e4\u05d8\u05d9\u05dd: \u05d4\u05d4\u05d7\u05dc\u05d8\u05d4 \u05dc\u05d4\u05e2\u05e0\u05d9\u05e7 \u05dc\u05de\u05db\u05d1\u05d9 \u05ea"\u05d0 \u05e4\u05e0\u05d3\u05dc \u05d4\u05d9\u05ea\u05d4 \u05e9\u05d2\u05d5\u05d9\u05d4, \u05e0\u05ea\u05e0\u05d9\u05d4 ..., Category: 5
+2025-01-22 15:49:21,603 - INFO - Inserted result: term_id=2, category_id=5, headline=\u05e1\u05e4\u05d5\u05e8\u05d8, url=https://www.haaretz.co.il/sport, description=\u05dc\u05d9\u05d2\u05ea \u05d4\u05d0\u05dc\u05d5\u05e4\u05d5\u05ea: \u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4 \u05d7\u05d6\u05e8\u05d4 \u05de\u05e4\u05d9\u05d2\u05d5\u05e8 \u05dc\u05e0\u05d9\u05e6\u05d7\u05d5\u05df 4:5 \u05e2\u05dc \u05d1\u05e0\u05e4\u05d9\u05e7\u05d4 \u05d1\u05ea\u05d5\u05e1\u05e4\u05ea \u05d4\u05d6\u05de\u05df � \u05e9\u05d7\u05e7\u05e0\u05d9 \u05de\u05db\u05d1\u05d9 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1, \u05d4\u05e2\u05d5\u05e0\u05d4 � \u05d0\u05d9\u05d2\u05d5\u05d3 \u05d4\u05e9\u05d5\u05e4\u05d8\u05d9\u05dd: \u05d4\u05d4\u05d7\u05dc\u05d8\u05d4 \u05dc\u05d4\u05e2\u05e0\u05d9\u05e7 \u05dc\u05de\u05db\u05d1\u05d9 \u05ea"\u05d0 \u05e4\u05e0\u05d3\u05dc \u05d4\u05d9\u05ea\u05d4 \u05e9\u05d2\u05d5\u05d9\u05d4, \u05e0\u05ea\u05e0\u05d9\u05d4 ...
+2025-01-22 15:49:21,639 - INFO - Result 9: Headline: \u05d7\u05d3\u05e9\u05d5\u05ea \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd, URL: https://www.mako.co.il/Sports, Description: \u05de\u05d1\u05d8 \u05e8\u05d7\u05d1 \u05e2\u05dc \u05e2\u05d5\u05dc\u05dd \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8, \u05d4\u05db\u05d5\u05dc\u05dc \u05d7\u05d3\u05e9\u05d5\u05ea \u05de\u05d4\u05d0\u05e8\u05e5 \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd, \u05e4\u05e8\u05e9\u05e0\u05d5\u05d9\u05d5\u05ea \u05de\u05e7\u05e6\u05d5\u05e2\u05d9\u05d5\u05ea \u05d5\u05d8\u05d5\u05e8\u05d9 \u05d3\u05e2\u05d4 \u05e2\u05dc \u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05e2\u05e0\u05e4\u05d9 \u05e1\u05e4\u05d5\u05e8\u05d8 \u05e8\u05d1\u05d9\u05dd. \u05db\u05dc \u05e2\u05e0\u05e4\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05d3 - mako \u05e1\u05e4\u05d5\u05e8\u05d8., Category: 1
+2025-01-22 15:49:21,641 - INFO - Inserted result: term_id=2, category_id=1, headline=\u05d7\u05d3\u05e9\u05d5\u05ea \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd, url=https://www.mako.co.il/Sports, description=\u05de\u05d1\u05d8 \u05e8\u05d7\u05d1 \u05e2\u05dc \u05e2\u05d5\u05dc\u05dd \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8, \u05d4\u05db\u05d5\u05dc\u05dc \u05d7\u05d3\u05e9\u05d5\u05ea \u05de\u05d4\u05d0\u05e8\u05e5 \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd, \u05e4\u05e8\u05e9\u05e0\u05d5\u05d9\u05d5\u05ea \u05de\u05e7\u05e6\u05d5\u05e2\u05d9\u05d5\u05ea \u05d5\u05d8\u05d5\u05e8\u05d9 \u05d3\u05e2\u05d4 \u05e2\u05dc \u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05e2\u05e0\u05e4\u05d9 \u05e1\u05e4\u05d5\u05e8\u05d8 \u05e8\u05d1\u05d9\u05dd. \u05db\u05dc \u05e2\u05e0\u05e4\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05d3 - mako \u05e1\u05e4\u05d5\u05e8\u05d8.
+2025-01-22 15:49:21,678 - INFO - Result 10: Headline: \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d6\u05de\u05df \u05d0\u05de\u05ea \u05de\u05db\u05dc \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd, URL: https://www.sport5.co.il/html/Pages/GamesResults.html, Description: \u05dc\u05d5\u05d7 \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d6\u05de\u05df \u05d0\u05de\u05ea - \u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc, NBA, \u05d8\u05e0\u05d9\u05e1 \u05d5\u05e2\u05d5\u05d3 - \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1 \u05de\u05db\u05dc \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d5\u05d4\u05dc\u05d9\u05d2\u05d5\u05ea \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd \u05d1\u05de\u05e8\u05d7\u05e7 \u05dc\u05d7\u05d9\u05e6\u05ea \u05db\u05e4\u05ea\u05d5\u05e8., Category: 5
+2025-01-22 15:49:21,680 - INFO - Inserted result: term_id=2, category_id=5, headline=\u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d6\u05de\u05df \u05d0\u05de\u05ea \u05de\u05db\u05dc \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd, url=https://www.sport5.co.il/html/Pages/GamesResults.html, description=\u05dc\u05d5\u05d7 \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d6\u05de\u05df \u05d0\u05de\u05ea - \u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc, NBA, \u05d8\u05e0\u05d9\u05e1 \u05d5\u05e2\u05d5\u05d3 - \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1 \u05de\u05db\u05dc \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d5\u05d4\u05dc\u05d9\u05d2\u05d5\u05ea \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd \u05d1\u05de\u05e8\u05d7\u05e7 \u05dc\u05d7\u05d9\u05e6\u05ea \u05db\u05e4\u05ea\u05d5\u05e8.
+2025-01-22 15:49:23,820 - INFO - Searching for: Automation
+2025-01-22 15:49:28,288 - INFO - Found the '\u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8' tab, attempting to click...
+2025-01-22 15:49:28,356 - INFO - Clicked on the '\u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8' tab
+2025-01-22 15:49:28,370 - INFO - Found 10 results for 'Automation'
+2025-01-22 15:49:28,411 - INFO - Result 1: Headline: \u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d4, URL: https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%A6%D7%99%D7%94, Description: \u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d4 (\u05de\u05d9\u05d5\u05d5\u05e0\u05d9\u05ea \u05e2\u05ea\u05d9\u05e7\u05d4 � "\u05e4\u05d5\u05e2\u05dc \u05de\u05e2\u05e6\u05de\u05d5") \u05d4\u05d9\u05d0 \u05e9\u05d9\u05de\u05d5\u05e9 \u05d1\u05d0\u05d1\u05d9\u05d6\u05e8\u05d9\u05dd \u05de\u05db\u05e0\u05d9\u05d9\u05dd \u05d0\u05d5 \u05d0\u05dc\u05e7\u05d8\u05e8\u05d5\u05e0\u05d9\u05d9\u05dd, \u05e2\u05dc-\u05de\u05e0\u05ea \u05dc\u05d1\u05e6\u05e2 \u05e1\u05d3\u05e8\u05ea \u05e4\u05e2\u05d5\u05dc\u05d5\u05ea, \u05d1\u05e8\u05e6\u05e3 \u05de\u05ea\u05d5\u05db\u05e0\u05df, \u05dc\u05dc\u05d0 \u05de\u05d2\u05e2 \u05d9\u05d3 \u05d0\u05d3\u05dd., Category: 5
+2025-01-22 15:49:28,413 - INFO - Inserted result: term_id=3, category_id=5, headline=\u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d4, url=https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%A6%D7%99%D7%94, description=\u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d4 (\u05de\u05d9\u05d5\u05d5\u05e0\u05d9\u05ea \u05e2\u05ea\u05d9\u05e7\u05d4 � "\u05e4\u05d5\u05e2\u05dc \u05de\u05e2\u05e6\u05de\u05d5") \u05d4\u05d9\u05d0 \u05e9\u05d9\u05de\u05d5\u05e9 \u05d1\u05d0\u05d1\u05d9\u05d6\u05e8\u05d9\u05dd \u05de\u05db\u05e0\u05d9\u05d9\u05dd \u05d0\u05d5 \u05d0\u05dc\u05e7\u05d8\u05e8\u05d5\u05e0\u05d9\u05d9\u05dd, \u05e2\u05dc-\u05de\u05e0\u05ea \u05dc\u05d1\u05e6\u05e2 \u05e1\u05d3\u05e8\u05ea \u05e4\u05e2\u05d5\u05dc\u05d5\u05ea, \u05d1\u05e8\u05e6\u05e3 \u05de\u05ea\u05d5\u05db\u05e0\u05df, \u05dc\u05dc\u05d0 \u05de\u05d2\u05e2 \u05d9\u05d3 \u05d0\u05d3\u05dd.
+2025-01-22 15:49:28,450 - INFO - Result 2: Headline: Automation, URL: https://en.wikipedia.org/wiki/Automation, Description: Automation includes the use of various equipment and control systems such as machinery, processes in factories, boilers, and heat-treating ovens, switching on ..., Category: 5
+2025-01-22 15:49:28,452 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation, url=https://en.wikipedia.org/wiki/Automation, description=Automation includes the use of various equipment and control systems such as machinery, processes in factories, boilers, and heat-treating ovens, switching on ...
+2025-01-22 15:49:28,488 - INFO - Result 3: Headline: What Is Automation?, URL: https://www.ibm.com/think/topics/automation, Description: Automation is the application of technology, programs, robotics, or processes to achieve outcomes with minimal human input., Category: 5
+2025-01-22 15:49:28,491 - INFO - Inserted result: term_id=3, category_id=5, headline=What Is Automation?, url=https://www.ibm.com/think/topics/automation, description=Automation is the application of technology, programs, robotics, or processes to achieve outcomes with minimal human input.
+2025-01-22 15:49:28,529 - INFO - Result 4: Headline: Automation - The Car Company Tycoon Game, URL: https://store.steampowered.com/app/293760/Automation__The_Car_Company_Tycoon_Game/, Description: Automation is an automotive design simulator, featuring vehicles and technologies from 1946 to 2020. Use Automation's unparalleled engine and car design tools ..., Category: 5
+2025-01-22 15:49:28,530 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation - The Car Company Tycoon Game, url=https://store.steampowered.com/app/293760/Automation__The_Car_Company_Tycoon_Game/, description=Automation is an automotive design simulator, featuring vehicles and technologies from 1946 to 2020. Use Automation's unparalleled engine and car design tools ...
+2025-01-22 15:49:28,567 - INFO - Result 5: Headline: automation in Hebrew | Morfix Dictionary \u05de\u05d9\u05dc\u05d5\u05df \u05d5\u05ea\u05e8\u05d2\u05d5\u05dd \u05de\u05d5\u05e8\u05e4\u05d9\u05e7\u05e1, URL: https://www.morfix.co.il/automation, Description: \u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea \u05e2\u05d1\u05d5\u05e8: automation. automation noun. \u05ea\u05e8\u05d2\u05d5\u05dd \u05e7\u05d5\u05dc\u05d9 \u05d4\u05d5\u05e1\u05e3 \u05de\u05d9\u05dc\u05d9\u05dd \u05dc\u05e8\u05e9\u05d9\u05de\u05d4 ... \u05d4\u05de\u05d9\u05dc\u05d4 automation \u05de\u05d5\u05e4\u05d9\u05e2\u05d4 \u05d1\u05d7\u05d9\u05d3\u05d5\u05df 'Digital Marketing Terms' \u05e2\u05dd \u05e2\u05d5\u05d3 \u05de\u05d9\u05dc\u05d9\u05dd \u05e7\u05e9\u05d5\u05e8\u05d5\u05ea., Category: 5
+2025-01-22 15:49:28,568 - INFO - Inserted result: term_id=3, category_id=5, headline=automation in Hebrew | Morfix Dictionary \u05de\u05d9\u05dc\u05d5\u05df \u05d5\u05ea\u05e8\u05d2\u05d5\u05dd \u05de\u05d5\u05e8\u05e4\u05d9\u05e7\u05e1, url=https://www.morfix.co.il/automation, description=\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea \u05e2\u05d1\u05d5\u05e8: automation. automation noun. \u05ea\u05e8\u05d2\u05d5\u05dd \u05e7\u05d5\u05dc\u05d9 \u05d4\u05d5\u05e1\u05e3 \u05de\u05d9\u05dc\u05d9\u05dd \u05dc\u05e8\u05e9\u05d9\u05de\u05d4 ... \u05d4\u05de\u05d9\u05dc\u05d4 automation \u05de\u05d5\u05e4\u05d9\u05e2\u05d4 \u05d1\u05d7\u05d9\u05d3\u05d5\u05df 'Digital Marketing Terms' \u05e2\u05dd \u05e2\u05d5\u05d3 \u05de\u05d9\u05dc\u05d9\u05dd \u05e7\u05e9\u05d5\u05e8\u05d5\u05ea.
+2025-01-22 15:49:28,608 - INFO - Result 6: Headline: What is Automation? - ISA, URL: https://www.isa.org/about-isa/what-is-automation, Description: We define automation as "the creation and application of technology to monitor and control the production and delivery of products and services.�, Category: 5
+2025-01-22 15:49:28,611 - INFO - Inserted result: term_id=3, category_id=5, headline=What is Automation? - ISA, url=https://www.isa.org/about-isa/what-is-automation, description=We define automation as "the creation and application of technology to monitor and control the production and delivery of products and services.�
+2025-01-22 15:49:28,648 - INFO - Result 7: Headline: \u05de\u05e7\u05e6\u05d5\u05e2\u05e0\u05d9 \u05d4\u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d4: \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea - AutomationIL, URL: https://automationil.co.il/, Description: \u05e9\u05d9\u05e8\u05d5\u05ea\u05d9 \u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d4 \u05dc\u05e2\u05e1\u05e7\u05d9\u05dd ... \u05d7\u05d9\u05d1\u05d5\u05e8 \u05dc\u05d9\u05d3\u05d9\u05dd \u05dcCRM, \u05ea\u05d4\u05dc\u05d9\u05db\u05d9 \u05e1\u05dc\u05d9\u05e7\u05d4 \u05d5\u05d7\u05e9\u05d1\u05d5\u05e0\u05d9\u05d5\u05ea, \u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d5\u05ea \u05e9\u05dc \u05d3\u05d9\u05d5\u05d5\u05e8 \u05dc\u05e4\u05d9 \u05e7\u05de\u05e4\u05d9\u05d9\u05df \u05d0\u05d5 \u05db\u05dc \u05e1\u05e0\u05df \u05d0\u05d7\u05e8. \u05d0\u05ea\u05e8\u05d9 \u05d0\u05d9\u05e7\u05d5\u05de\u05e8\u05e1, \u05de\u05d3\u05d9\u05d3\u05ea \u05e9\u05d9\u05d7\u05d5\u05ea, \u05d3\u05d9\u05d5\u05d5\u05d7\u05d9 \u05d4\u05de\u05e8\u05d5\u05ea \u05dc\u05db\u05dc\u05dc ..., Category: 1
+2025-01-22 15:49:28,649 - INFO - Inserted result: term_id=3, category_id=1, headline=\u05de\u05e7\u05e6\u05d5\u05e2\u05e0\u05d9 \u05d4\u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d4: \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea - AutomationIL, url=https://automationil.co.il/, description=\u05e9\u05d9\u05e8\u05d5\u05ea\u05d9 \u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d4 \u05dc\u05e2\u05e1\u05e7\u05d9\u05dd ... \u05d7\u05d9\u05d1\u05d5\u05e8 \u05dc\u05d9\u05d3\u05d9\u05dd \u05dcCRM, \u05ea\u05d4\u05dc\u05d9\u05db\u05d9 \u05e1\u05dc\u05d9\u05e7\u05d4 \u05d5\u05d7\u05e9\u05d1\u05d5\u05e0\u05d9\u05d5\u05ea, \u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d5\u05ea \u05e9\u05dc \u05d3\u05d9\u05d5\u05d5\u05e8 \u05dc\u05e4\u05d9 \u05e7\u05de\u05e4\u05d9\u05d9\u05df \u05d0\u05d5 \u05db\u05dc \u05e1\u05e0\u05df \u05d0\u05d7\u05e8. \u05d0\u05ea\u05e8\u05d9 \u05d0\u05d9\u05e7\u05d5\u05de\u05e8\u05e1, \u05de\u05d3\u05d9\u05d3\u05ea \u05e9\u05d9\u05d7\u05d5\u05ea, \u05d3\u05d9\u05d5\u05d5\u05d7\u05d9 \u05d4\u05de\u05e8\u05d5\u05ea \u05dc\u05db\u05dc\u05dc ...
+2025-01-22 15:49:28,687 - INFO - Result 8: Headline: Automation | Technology, Types, Rise, History, & Examples, URL: https://www.britannica.com/technology/automation, Description: 13 \u05d1\u05d9\u05e0\u05d5\u05f3 2025 � Automation, application of machines to tasks once performed by human beings or, increasingly, to tasks that would otherwise be impossible., Category: 5
+2025-01-22 15:49:28,689 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation | Technology, Types, Rise, History, & Examples, url=https://www.britannica.com/technology/automation, description=13 \u05d1\u05d9\u05e0\u05d5\u05f3 2025 � Automation, application of machines to tasks once performed by human beings or, increasingly, to tasks that would otherwise be impossible.
+2025-01-22 15:49:28,730 - INFO - Result 9: Headline: Automation, URL: https://www.automationgame.com/, Description: In Automation it's you who designs every detail of your cars, from the heart of the car that is the engine, the chassis, the suspension and the styling., Category: 5
+2025-01-22 15:49:28,732 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation, url=https://www.automationgame.com/, description=In Automation it's you who designs every detail of your cars, from the heart of the car that is the engine, the chassis, the suspension and the styling.
+2025-01-22 15:49:28,767 - INFO - Result 10: Headline: Automation.com - News & Resources for Industrial Automation, URL: https://www.automation.com/, Description: Automation.com - News, Articles, Products, Resources & Suppliers for Manufacturing, Factory, Process and Industrial Automation., Category: 5
+2025-01-22 15:49:28,769 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation.com - News & Resources for Industrial Automation, url=https://www.automation.com/, description=Automation.com - News, Articles, Products, Resources & Suppliers for Manufacturing, Factory, Process and Industrial Automation.
+2025-01-22 15:49:53,340 - INFO - Results for search term 'sport':
+2025-01-22 15:49:53,355 - INFO - Headline: \u05e1\u05e4\u05d5\u05e8\u05d8 5 - \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea, \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9\u05dd \u05d5\u05e9\u05d9\u05d3\u05d5\u05e8\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05de\u05d4\u05e2\u05d5\u05dc\u05dd, URL: https://www.sport5.co.il/, Description: \u05e1\u05e4\u05d5\u05e8\u05d8 5 - \u05d0\u05ea\u05e8 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc! \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1, \u05d7\u05d3\u05e9\u05d5\u05ea \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8, \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05e9\u05dc \u05de\u05e9\u05d7\u05e7\u05d9\u05dd, \u05d8\u05d1\u05dc\u05d0\u05d5\u05ea \u05d5\u05e1\u05d9\u05e7\u05d5\u05e8 \u05e0\u05e8\u05d7\u05d1 \u05e9\u05dc \u05dc\u05d9\u05d2\u05d5\u05ea \u05d4\u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05d4\u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05db\u05dc \u05e2\u05e0\u05e4\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8., Content Type: News Article
+2025-01-22 15:49:53,355 - INFO - Headline: \u05e1\u05e4\u05d5\u05e8\u05d8 1: \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd - \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05d5\u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05de\u05e9\u05d7\u05e7\u05d9\u05dd, URL: https://sport1.maariv.co.il/, Description: \u05de\u05d7\u05e4\u05e9\u05d9\u05dd \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d6\u05de\u05df \u05d0\u05de\u05ea? \u05e8\u05d5\u05e6\u05d9\u05dd \u05e2\u05d3\u05db\u05d5\u05e0\u05d9\u05dd \u05d5\u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1? \u05d4\u05d9\u05db\u05e0\u05e1\u05d5 \u05e2\u05db\u05e9\u05d9\u05d5 \u05dc\u05e1\u05e4\u05d5\u05e8\u05d81 \u05d5\u05ea\u05e7\u05d1\u05dc\u05d5 \u05d7\u05d3\u05e9\u05d5\u05ea, \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9\u05dd, \u05e9\u05d9\u05d3\u05d5\u05e8\u05d9\u05dd \u05d9\u05e9\u05d9\u05e8\u05d9\u05dd, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d5\u05e1\u05e8\u05d8\u05d5\u05e0\u05d9\u05dd., Content Type: News Article
+2025-01-22 15:49:53,356 - INFO - Headline: \u05d5\u05d5\u05d0\u05dc\u05d4 \u05e1\u05e4\u05d5\u05e8\u05d8 | \u05d7\u05d3\u05e9\u05d5\u05ea \u05d5\u05e2\u05d3\u05db\u05d5\u05e0\u05d9 \u05e1\u05e4\u05d5\u05e8\u05d8, \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05e2\u05d5\u05dc\u05de\u05d9, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc ..., URL: https://sports.walla.co.il/, Description: \u05d0\u05ea\u05e8 \u05d4\u05d1\u05d9\u05ea \u05e9\u05dc \u05de\u05db\u05d5\u05e8\u05d9 \u05e2\u05e0\u05e3 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05d1\u05d0\u05ea\u05e8 \u05e0\u05de\u05e6\u05d0\u05d5\u05ea \u05db\u05ea\u05d1\u05d5\u05ea \u05d5\u05d7\u05d3\u05e9\u05d5\u05ea \u05e8\u05d1\u05d5\u05ea \u05d0\u05d5\u05d3\u05d5\u05ea \u05de\u05d5\u05e2\u05d3\u05d5\u05e0\u05d9 \u05d5\u05e7\u05d1\u05d5\u05e6\u05d5\u05ea \u05d4\u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d4\u05e9\u05d5\u05e0\u05d5\u05ea \u05d4\u05e7\u05d9\u05d9\u05de\u05d5\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc., Content Type: News Article
+2025-01-22 15:49:53,356 - INFO - Headline: ONE - \u05de\u05e1\u05e4\u05e8 1 \u05d1\u05e1\u05e4\u05d5\u05e8\u05d8, URL: https://www.one.co.il/, Description: ONE: \u05d0\u05ea\u05e8 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05d7\u05d3\u05e9\u05d5\u05ea, \u05d5\u05d9\u05d3\u05d0\u05d5, \u05e1\u05d8\u05d8\u05d9\u05e1\u05d8\u05d9\u05e7\u05d4, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea LIVE \u05d5\u05e1\u05d9\u05e7\u05d5\u05e8 \u05de\u05dc\u05d0 \u05e9\u05dc \u05dc\u05d9\u05d2\u05d5\u05ea \u05d4\u05db\u05d3\u05d5\u05e8\u05e1\u05dc, \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d5\u05e2\u05e0\u05e4\u05d9 \u05e1\u05e4\u05d5\u05e8\u05d8 \u05e0\u05d5\u05e1\u05e4\u05d9\u05dd \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd., Content Type: News Article
+2025-01-22 15:49:53,356 - INFO - Headline: \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 - \u05db\u05dc \u05de\u05d4 \u05e9\u05e7\u05d5\u05e8\u05d4 \u05d1\u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05d4\u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05e9\u05d0\u05e8 \u05d4\u05e2\u05e0\u05e4\u05d9\u05dd, URL: https://www.ynet.co.il/sport, Description: ynet \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8: \u05d0\u05ea\u05e8 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e1\u05d9\u05e7\u05d5\u05e8 \u05e0\u05e8\u05d7\u05d1 \u05d5\u05de\u05e4\u05d5\u05e8\u05d8 \u05db\u05d5\u05dc\u05dc \u05e7\u05d8\u05e2\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05d1\u05dc\u05e2\u05d3\u05d9\u05d9\u05dd \u05de\u05d4\u05dc\u05d9\u05d2\u05d5\u05ea \u05d4\u05e9\u05d5\u05e0\u05d5\u05ea. \u05dc\u05d9\u05d2\u05ea \u05d4\u05e2\u05dc \u05d1\u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05dc\u05d9\u05d2\u05d4 \u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05db\u05d3\u05d5\u05e8\u05e1\u05dc, \u05d4\u05dc\u05d9\u05d2\u05d4 \u05d4\u05d0\u05e0\u05d2\u05dc\u05d9\u05ea ..., Content Type: News Article
+2025-01-22 15:49:53,356 - INFO - Headline: \u05e1\u05e4\u05d5\u05e8\u05d8, URL: https://www.israelhayom.co.il/sport, Description: \u05db\u05dc \u05d4\u05d7\u05d3\u05e9\u05d5\u05ea \u05d1\u05e1\u05e4\u05d5\u05e8\u05d8, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1 \u05d5\u05e1\u05d9\u05e7\u05d5\u05e8\u05d9\u05dd: \u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05e2\u05e0\u05e4\u05d9\u05dd \u05e0\u05d5\u05e1\u05e4\u05d9\u05dd \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd., Content Type: News Article
+2025-01-22 15:49:53,357 - INFO - Headline: \u05d9\u05e9\u05e8\u05d0\u05dc \u05e1\u05e4\u05d5\u05e8\u05d8: \u05e8\u05d0\u05e9\u05d9, URL: https://isport.co.il/, Description: \u05e8\u05d0\u05e9\u05d9 � \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9 � \u05dc\u05d9\u05d2\u05ea \u05d4\u05e2\u05dc � \u05dc\u05d9\u05d2\u05d4 \u05dc\u05d0\u05d5\u05de\u05d9\u05ea � \u05d2\u05d1\u05d9\u05e2 \u05d4\u05de\u05d3\u05d9\u05e0\u05d4 � \u05e0\u05d1\u05d7\u05e8\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc � \u05d2\u05d1\u05d9\u05e2 \u05d4\u05d8\u05d5\u05d8\u05d5 � \u05dc\u05d9\u05d2\u05d9\u05d5\u05e0\u05e8\u05d9\u05dd � \u05dc\u05d9\u05d2\u05ea \u05e2\u05dc \u05dc\u05e0\u05d5\u05e2\u05e8 � \u05dc\u05d9\u05d2\u05d5\u05ea \u05e0\u05de\u05d5\u05db\u05d5\u05ea � \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05e0\u05e9\u05d9\u05dd., Content Type: Other
+2025-01-22 15:49:53,357 - INFO - Headline: \u05e1\u05e4\u05d5\u05e8\u05d8, URL: https://www.haaretz.co.il/sport, Description: \u05dc\u05d9\u05d2\u05ea \u05d4\u05d0\u05dc\u05d5\u05e4\u05d5\u05ea: \u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4 \u05d7\u05d6\u05e8\u05d4 \u05de\u05e4\u05d9\u05d2\u05d5\u05e8 \u05dc\u05e0\u05d9\u05e6\u05d7\u05d5\u05df 4:5 \u05e2\u05dc \u05d1\u05e0\u05e4\u05d9\u05e7\u05d4 \u05d1\u05ea\u05d5\u05e1\u05e4\u05ea \u05d4\u05d6\u05de\u05df � \u05e9\u05d7\u05e7\u05e0\u05d9 \u05de\u05db\u05d1\u05d9 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1, \u05d4\u05e2\u05d5\u05e0\u05d4 � \u05d0\u05d9\u05d2\u05d5\u05d3 \u05d4\u05e9\u05d5\u05e4\u05d8\u05d9\u05dd: \u05d4\u05d4\u05d7\u05dc\u05d8\u05d4 \u05dc\u05d4\u05e2\u05e0\u05d9\u05e7 \u05dc\u05de\u05db\u05d1\u05d9 \u05ea"\u05d0 \u05e4\u05e0\u05d3\u05dc \u05d4\u05d9\u05ea\u05d4 \u05e9\u05d2\u05d5\u05d9\u05d4, \u05e0\u05ea\u05e0\u05d9\u05d4 ..., Content Type: Other
+2025-01-22 15:49:53,357 - INFO - Headline: \u05d7\u05d3\u05e9\u05d5\u05ea \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd, URL: https://www.mako.co.il/Sports, Description: \u05de\u05d1\u05d8 \u05e8\u05d7\u05d1 \u05e2\u05dc \u05e2\u05d5\u05dc\u05dd \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8, \u05d4\u05db\u05d5\u05dc\u05dc \u05d7\u05d3\u05e9\u05d5\u05ea \u05de\u05d4\u05d0\u05e8\u05e5 \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd, \u05e4\u05e8\u05e9\u05e0\u05d5\u05d9\u05d5\u05ea \u05de\u05e7\u05e6\u05d5\u05e2\u05d9\u05d5\u05ea \u05d5\u05d8\u05d5\u05e8\u05d9 \u05d3\u05e2\u05d4 \u05e2\u05dc \u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05e2\u05e0\u05e4\u05d9 \u05e1\u05e4\u05d5\u05e8\u05d8 \u05e8\u05d1\u05d9\u05dd. \u05db\u05dc \u05e2\u05e0\u05e4\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05d3 - mako \u05e1\u05e4\u05d5\u05e8\u05d8., Content Type: News Article
+2025-01-22 15:49:53,357 - INFO - Headline: \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d6\u05de\u05df \u05d0\u05de\u05ea \u05de\u05db\u05dc \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd, URL: https://www.sport5.co.il/html/Pages/GamesResults.html, Description: \u05dc\u05d5\u05d7 \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d6\u05de\u05df \u05d0\u05de\u05ea - \u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc, NBA, \u05d8\u05e0\u05d9\u05e1 \u05d5\u05e2\u05d5\u05d3 - \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1 \u05de\u05db\u05dc \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d5\u05d4\u05dc\u05d9\u05d2\u05d5\u05ea \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd \u05d1\u05de\u05e8\u05d7\u05e7 \u05dc\u05d7\u05d9\u05e6\u05ea \u05db\u05e4\u05ea\u05d5\u05e8., Content Type: Other
+2025-01-22 15:49:53,358 - INFO - 
+Results for content type 'dd':
+2025-01-22 15:49:53,359 - INFO - No results for content type 'dd'
+2025-01-22 15:54:45,485 - INFO - Search terms loaded
+2025-01-22 15:54:45,527 - INFO - Database tables truncated
+2025-01-22 15:54:48,070 - INFO - Google loaded successfully
+2025-01-22 15:54:48,207 - INFO - Searching for: ddddfffcar
+2025-01-22 15:54:53,911 - INFO - Found the '\u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8' tab, attempting to click...
+2025-01-22 15:54:55,171 - INFO - Clicked on the '\u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8' tab
+2025-01-22 15:54:55,191 - INFO - Found 10 results for 'ddddfffcar'
+2025-01-22 15:54:55,313 - INFO - Result 1: Headline: This Is The PERFECT New BMW! | DDD Ep. 1, URL: https://www.youtube.com/watch?v=ydycEFxFKFI, Description: 31 \u05d1\u05de\u05e8\u05e5 2018 � Daily Driver Discussions = DDD. casual, informal, interactive, lets discuss car things! Starting off with my three favorite cars from the ..., Category: 5
+2025-01-22 15:54:55,319 - INFO - Inserted result: term_id=1, category_id=5, headline=This Is The PERFECT New BMW! | DDD Ep. 1, url=https://www.youtube.com/watch?v=ydycEFxFKFI, description=31 \u05d1\u05de\u05e8\u05e5 2018 � Daily Driver Discussions = DDD. casual, informal, interactive, lets discuss car things! Starting off with my three favorite cars from the ...
+2025-01-22 15:54:55,392 - INFO - Result 2: Headline: #DDDDFF Hex Color | RGB: 221, 221, 255 |, URL: https://www.colorcombos.com/colors/DDDDFF, Description: #DDDDFF Hex Color for the Web has the RGB values of 221, 221, 255 and the CMYK colour values of 13.3, 13.3, 0, 0. This web color is described by the following ..., Category: 5
+2025-01-22 15:54:55,395 - INFO - Inserted result: term_id=1, category_id=5, headline=#DDDDFF Hex Color | RGB: 221, 221, 255 |, url=https://www.colorcombos.com/colors/DDDDFF, description=#DDDDFF Hex Color for the Web has the RGB values of 221, 221, 255 and the CMYK colour values of 13.3, 13.3, 0, 0. This web color is described by the following ...
+2025-01-22 15:54:55,436 - INFO - Result 3: Headline: DDDD transforms garage into retro-futuristic hub for ..., URL: https://www.designboom.com/architecture/dddd-garage-retro-futuristic-hub-vintage-car-culture-shenzhen-10-12-2024/, Description: 12 \u05d1\u05d0\u05d5\u05e7\u05f3 2024 � The project is a multi-functional commercial space centered around vintage modified cars, transforming the original car park into a hub for car culture., Category: 5
+2025-01-22 15:54:55,438 - INFO - Inserted result: term_id=1, category_id=5, headline=DDDD transforms garage into retro-futuristic hub for ..., url=https://www.designboom.com/architecture/dddd-garage-retro-futuristic-hub-vintage-car-culture-shenzhen-10-12-2024/, description=12 \u05d1\u05d0\u05d5\u05e7\u05f3 2024 � The project is a multi-functional commercial space centered around vintage modified cars, transforming the original car park into a hub for car culture.
+2025-01-22 15:54:55,501 - INFO - Result 4: Headline: Hex DDDDFF color, URL: https://convertingcolors.com/hex-color-DDDDFF.html, Description: The Hex color DDDDFF is a light color, and the websafe version is hex CCCCFF. A complement of this color would be FFFFDD, and the grayscale version is E1E1E1., Category: 5
+2025-01-22 15:54:55,503 - INFO - Inserted result: term_id=1, category_id=5, headline=Hex DDDDFF color, url=https://convertingcolors.com/hex-color-DDDDFF.html, description=The Hex color DDDDFF is a light color, and the websafe version is hex CCCCFF. A complement of this color would be FFFFDD, and the grayscale version is E1E1E1.
+2025-01-22 15:54:55,542 - INFO - Result 5: Headline: Ama Lou - DDD (Official Video), URL: https://www.youtube.com/watch?v=HcBFyVnf-_o, Description: 2 \u05d1\u05d9\u05d5\u05dc\u05d9 2018 � 'DDD' the film is a tryptic of visual parts that accompany the soundtrack of the three part 'DDD' EP by Ama Lou. The film, written and ..., Category: 5
+2025-01-22 15:54:55,544 - INFO - Inserted result: term_id=1, category_id=5, headline=Ama Lou - DDD (Official Video), url=https://www.youtube.com/watch?v=HcBFyVnf-_o, description=2 \u05d1\u05d9\u05d5\u05dc\u05d9 2018 � 'DDD' the film is a tryptic of visual parts that accompany the soundtrack of the three part 'DDD' EP by Ama Lou. The film, written and ...
+2025-01-22 15:54:55,579 - INFO - Result 6: Headline: 51 DD Car ideas | dream cars, luxury cars, car, URL: https://www.pinterest.com/mewduburin/dd-car/, Description: Aug 7, 2021 - Explore nur alia's board "DD Car" on Pinterest. See more ideas about dream cars, luxury cars, car., Category: 5
+2025-01-22 15:54:55,581 - INFO - Inserted result: term_id=1, category_id=5, headline=51 DD Car ideas | dream cars, luxury cars, car, url=https://www.pinterest.com/mewduburin/dd-car/, description=Aug 7, 2021 - Explore nur alia's board "DD Car" on Pinterest. See more ideas about dream cars, luxury cars, car.
+2025-01-22 15:54:55,620 - INFO - Result 7: Headline: Stream drxppy | Listen to ddddff playlist online for free on ..., URL: https://soundcloud.com/drxppy-581011702/sets/ddddff, Description: 13 \u05d1\u05d9\u05e0\u05d5\u05f3 2020 � Listen to ddddff, a playlist curated by drxppy on desktop and mobile., Category: 5
+2025-01-22 15:54:55,623 - INFO - Inserted result: term_id=1, category_id=5, headline=Stream drxppy | Listen to ddddff playlist online for free on ..., url=https://soundcloud.com/drxppy-581011702/sets/ddddff, description=13 \u05d1\u05d9\u05e0\u05d5\u05f3 2020 � Listen to ddddff, a playlist curated by drxppy on desktop and mobile.
+2025-01-22 15:54:55,659 - INFO - Result 8: Headline: REVEALING MY NEW FERRARI �TIRE SLAYER� ..., URL: https://www.youtube.com/watch?v=8OH0N8W1mHg, Description: 10 \u05d1\u05d0\u05d5\u05e7\u05f3 2020 � � WE TOUR FAST & FURIOUS... REVEALING MY NEW FERRARI �TIRE SLAYER� PROJECT CAR! 723K views � 4 years ago ...more. DailyDrivenExotics. 4.03M., Category: 5
+2025-01-22 15:54:55,662 - INFO - Inserted result: term_id=1, category_id=5, headline=REVEALING MY NEW FERRARI �TIRE SLAYER� ..., url=https://www.youtube.com/watch?v=8OH0N8W1mHg, description=10 \u05d1\u05d0\u05d5\u05e7\u05f3 2020 � � WE TOUR FAST & FURIOUS... REVEALING MY NEW FERRARI �TIRE SLAYER� PROJECT CAR! 723K views � 4 years ago ...more. DailyDrivenExotics. 4.03M.
+2025-01-22 15:54:55,702 - INFO - Result 9: Headline: DD Car Devecser hirdet�sei, URL: https://www.hasznaltauto.hu/partner/1992, Description: A hasznaltauto.hu oldal adatb�zis�ban l�v\u0151 g�pj�rm\u0171 hirdet�sek a DD Car Devecser k�n�lat�ban., Category: 5
+2025-01-22 15:54:55,704 - INFO - Inserted result: term_id=1, category_id=5, headline=DD Car Devecser hirdet�sei, url=https://www.hasznaltauto.hu/partner/1992, description=A hasznaltauto.hu oldal adatb�zis�ban l�v\u0151 g�pj�rm\u0171 hirdet�sek a DD Car Devecser k�n�lat�ban.
+2025-01-22 15:54:55,745 - INFO - Result 10: Headline: ddddff, URL: https://www.youtube.com/playlist?list=PL-RqUOMMOA71ap-WUydpwMnpXmmdlnUde, Description: Insane Trap and Bass Drops Best of Trap Music 2017 Car Music Mix. Phonk Club � 16:36 � Insane Trap and Bass Drops Best of Trap Music 2017 Car Music Mix ..., Category: 5
+2025-01-22 15:54:55,747 - INFO - Inserted result: term_id=1, category_id=5, headline=ddddff, url=https://www.youtube.com/playlist?list=PL-RqUOMMOA71ap-WUydpwMnpXmmdlnUde, description=Insane Trap and Bass Drops Best of Trap Music 2017 Car Music Mix. Phonk Club � 16:36 � Insane Trap and Bass Drops Best of Trap Music 2017 Car Music Mix ...
+2025-01-22 15:54:57,904 - INFO - Searching for: Sport
+2025-01-22 15:55:02,479 - INFO - Found the '\u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8' tab, attempting to click...
+2025-01-22 15:55:02,533 - INFO - Clicked on the '\u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8' tab
+2025-01-22 15:55:02,550 - INFO - Found 10 results for 'Sport'
+2025-01-22 15:55:02,587 - INFO - Result 1: Headline: \u05e1\u05e4\u05d5\u05e8\u05d8 5 - \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea, \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9\u05dd \u05d5\u05e9\u05d9\u05d3\u05d5\u05e8\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05de\u05d4\u05e2\u05d5\u05dc\u05dd, URL: https://www.sport5.co.il/, Description: \u05e1\u05e4\u05d5\u05e8\u05d8 5 - \u05d0\u05ea\u05e8 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc! \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1, \u05d7\u05d3\u05e9\u05d5\u05ea \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8, \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05e9\u05dc \u05de\u05e9\u05d7\u05e7\u05d9\u05dd, \u05d8\u05d1\u05dc\u05d0\u05d5\u05ea \u05d5\u05e1\u05d9\u05e7\u05d5\u05e8 \u05e0\u05e8\u05d7\u05d1 \u05e9\u05dc \u05dc\u05d9\u05d2\u05d5\u05ea \u05d4\u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05d4\u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05db\u05dc \u05e2\u05e0\u05e4\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8., Category: 1
+2025-01-22 15:55:02,590 - INFO - Inserted result: term_id=2, category_id=1, headline=\u05e1\u05e4\u05d5\u05e8\u05d8 5 - \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea, \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9\u05dd \u05d5\u05e9\u05d9\u05d3\u05d5\u05e8\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05de\u05d4\u05e2\u05d5\u05dc\u05dd, url=https://www.sport5.co.il/, description=\u05e1\u05e4\u05d5\u05e8\u05d8 5 - \u05d0\u05ea\u05e8 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc! \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1, \u05d7\u05d3\u05e9\u05d5\u05ea \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8, \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05e9\u05dc \u05de\u05e9\u05d7\u05e7\u05d9\u05dd, \u05d8\u05d1\u05dc\u05d0\u05d5\u05ea \u05d5\u05e1\u05d9\u05e7\u05d5\u05e8 \u05e0\u05e8\u05d7\u05d1 \u05e9\u05dc \u05dc\u05d9\u05d2\u05d5\u05ea \u05d4\u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05d4\u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05db\u05dc \u05e2\u05e0\u05e4\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8.
+2025-01-22 15:55:02,630 - INFO - Result 2: Headline: \u05e1\u05e4\u05d5\u05e8\u05d8 1: \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd - \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05d5\u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05de\u05e9\u05d7\u05e7\u05d9\u05dd, URL: https://sport1.maariv.co.il/, Description: \u05de\u05d7\u05e4\u05e9\u05d9\u05dd \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d6\u05de\u05df \u05d0\u05de\u05ea? \u05e8\u05d5\u05e6\u05d9\u05dd \u05e2\u05d3\u05db\u05d5\u05e0\u05d9\u05dd \u05d5\u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1? \u05d4\u05d9\u05db\u05e0\u05e1\u05d5 \u05e2\u05db\u05e9\u05d9\u05d5 \u05dc\u05e1\u05e4\u05d5\u05e8\u05d81 \u05d5\u05ea\u05e7\u05d1\u05dc\u05d5 \u05d7\u05d3\u05e9\u05d5\u05ea, \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9\u05dd, \u05e9\u05d9\u05d3\u05d5\u05e8\u05d9\u05dd \u05d9\u05e9\u05d9\u05e8\u05d9\u05dd, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d5\u05e1\u05e8\u05d8\u05d5\u05e0\u05d9\u05dd., Category: 1
+2025-01-22 15:55:02,632 - INFO - Inserted result: term_id=2, category_id=1, headline=\u05e1\u05e4\u05d5\u05e8\u05d8 1: \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd - \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05d5\u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05de\u05e9\u05d7\u05e7\u05d9\u05dd, url=https://sport1.maariv.co.il/, description=\u05de\u05d7\u05e4\u05e9\u05d9\u05dd \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d6\u05de\u05df \u05d0\u05de\u05ea? \u05e8\u05d5\u05e6\u05d9\u05dd \u05e2\u05d3\u05db\u05d5\u05e0\u05d9\u05dd \u05d5\u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1? \u05d4\u05d9\u05db\u05e0\u05e1\u05d5 \u05e2\u05db\u05e9\u05d9\u05d5 \u05dc\u05e1\u05e4\u05d5\u05e8\u05d81 \u05d5\u05ea\u05e7\u05d1\u05dc\u05d5 \u05d7\u05d3\u05e9\u05d5\u05ea, \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9\u05dd, \u05e9\u05d9\u05d3\u05d5\u05e8\u05d9\u05dd \u05d9\u05e9\u05d9\u05e8\u05d9\u05dd, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d5\u05e1\u05e8\u05d8\u05d5\u05e0\u05d9\u05dd.
+2025-01-22 15:55:02,668 - INFO - Result 3: Headline: \u05d5\u05d5\u05d0\u05dc\u05d4 \u05e1\u05e4\u05d5\u05e8\u05d8 | \u05d7\u05d3\u05e9\u05d5\u05ea \u05d5\u05e2\u05d3\u05db\u05d5\u05e0\u05d9 \u05e1\u05e4\u05d5\u05e8\u05d8, \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05e2\u05d5\u05dc\u05de\u05d9, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc ..., URL: https://sports.walla.co.il/, Description: \u05d0\u05ea\u05e8 \u05d4\u05d1\u05d9\u05ea \u05e9\u05dc \u05de\u05db\u05d5\u05e8\u05d9 \u05e2\u05e0\u05e3 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05d1\u05d0\u05ea\u05e8 \u05e0\u05de\u05e6\u05d0\u05d5\u05ea \u05db\u05ea\u05d1\u05d5\u05ea \u05d5\u05d7\u05d3\u05e9\u05d5\u05ea \u05e8\u05d1\u05d5\u05ea \u05d0\u05d5\u05d3\u05d5\u05ea \u05de\u05d5\u05e2\u05d3\u05d5\u05e0\u05d9 \u05d5\u05e7\u05d1\u05d5\u05e6\u05d5\u05ea \u05d4\u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d4\u05e9\u05d5\u05e0\u05d5\u05ea \u05d4\u05e7\u05d9\u05d9\u05de\u05d5\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc., Category: 1
+2025-01-22 15:55:02,670 - INFO - Inserted result: term_id=2, category_id=1, headline=\u05d5\u05d5\u05d0\u05dc\u05d4 \u05e1\u05e4\u05d5\u05e8\u05d8 | \u05d7\u05d3\u05e9\u05d5\u05ea \u05d5\u05e2\u05d3\u05db\u05d5\u05e0\u05d9 \u05e1\u05e4\u05d5\u05e8\u05d8, \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05e2\u05d5\u05dc\u05de\u05d9, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc ..., url=https://sports.walla.co.il/, description=\u05d0\u05ea\u05e8 \u05d4\u05d1\u05d9\u05ea \u05e9\u05dc \u05de\u05db\u05d5\u05e8\u05d9 \u05e2\u05e0\u05e3 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05d1\u05d0\u05ea\u05e8 \u05e0\u05de\u05e6\u05d0\u05d5\u05ea \u05db\u05ea\u05d1\u05d5\u05ea \u05d5\u05d7\u05d3\u05e9\u05d5\u05ea \u05e8\u05d1\u05d5\u05ea \u05d0\u05d5\u05d3\u05d5\u05ea \u05de\u05d5\u05e2\u05d3\u05d5\u05e0\u05d9 \u05d5\u05e7\u05d1\u05d5\u05e6\u05d5\u05ea \u05d4\u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d4\u05e9\u05d5\u05e0\u05d5\u05ea \u05d4\u05e7\u05d9\u05d9\u05de\u05d5\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc.
+2025-01-22 15:55:02,706 - INFO - Result 4: Headline: ONE - \u05de\u05e1\u05e4\u05e8 1 \u05d1\u05e1\u05e4\u05d5\u05e8\u05d8, URL: https://www.one.co.il/, Description: ONE: \u05d0\u05ea\u05e8 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05d7\u05d3\u05e9\u05d5\u05ea, \u05d5\u05d9\u05d3\u05d0\u05d5, \u05e1\u05d8\u05d8\u05d9\u05e1\u05d8\u05d9\u05e7\u05d4, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea LIVE \u05d5\u05e1\u05d9\u05e7\u05d5\u05e8 \u05de\u05dc\u05d0 \u05e9\u05dc \u05dc\u05d9\u05d2\u05d5\u05ea \u05d4\u05db\u05d3\u05d5\u05e8\u05e1\u05dc, \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d5\u05e2\u05e0\u05e4\u05d9 \u05e1\u05e4\u05d5\u05e8\u05d8 \u05e0\u05d5\u05e1\u05e4\u05d9\u05dd \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd., Category: 1
+2025-01-22 15:55:02,708 - INFO - Inserted result: term_id=2, category_id=1, headline=ONE - \u05de\u05e1\u05e4\u05e8 1 \u05d1\u05e1\u05e4\u05d5\u05e8\u05d8, url=https://www.one.co.il/, description=ONE: \u05d0\u05ea\u05e8 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05d7\u05d3\u05e9\u05d5\u05ea, \u05d5\u05d9\u05d3\u05d0\u05d5, \u05e1\u05d8\u05d8\u05d9\u05e1\u05d8\u05d9\u05e7\u05d4, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea LIVE \u05d5\u05e1\u05d9\u05e7\u05d5\u05e8 \u05de\u05dc\u05d0 \u05e9\u05dc \u05dc\u05d9\u05d2\u05d5\u05ea \u05d4\u05db\u05d3\u05d5\u05e8\u05e1\u05dc, \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d5\u05e2\u05e0\u05e4\u05d9 \u05e1\u05e4\u05d5\u05e8\u05d8 \u05e0\u05d5\u05e1\u05e4\u05d9\u05dd \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd.
+2025-01-22 15:55:02,750 - INFO - Result 5: Headline: \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 - \u05db\u05dc \u05de\u05d4 \u05e9\u05e7\u05d5\u05e8\u05d4 \u05d1\u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05d4\u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05e9\u05d0\u05e8 \u05d4\u05e2\u05e0\u05e4\u05d9\u05dd, URL: https://www.ynet.co.il/sport, Description: ynet \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8: \u05d0\u05ea\u05e8 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e1\u05d9\u05e7\u05d5\u05e8 \u05e0\u05e8\u05d7\u05d1 \u05d5\u05de\u05e4\u05d5\u05e8\u05d8 \u05db\u05d5\u05dc\u05dc \u05e7\u05d8\u05e2\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05d1\u05dc\u05e2\u05d3\u05d9\u05d9\u05dd \u05de\u05d4\u05dc\u05d9\u05d2\u05d5\u05ea \u05d4\u05e9\u05d5\u05e0\u05d5\u05ea. \u05dc\u05d9\u05d2\u05ea \u05d4\u05e2\u05dc \u05d1\u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05dc\u05d9\u05d2\u05d4 \u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05db\u05d3\u05d5\u05e8\u05e1\u05dc, \u05d4\u05dc\u05d9\u05d2\u05d4 \u05d4\u05d0\u05e0\u05d2\u05dc\u05d9\u05ea ..., Category: 1
+2025-01-22 15:55:02,753 - INFO - Inserted result: term_id=2, category_id=1, headline=\u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 - \u05db\u05dc \u05de\u05d4 \u05e9\u05e7\u05d5\u05e8\u05d4 \u05d1\u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05d4\u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05e9\u05d0\u05e8 \u05d4\u05e2\u05e0\u05e4\u05d9\u05dd, url=https://www.ynet.co.il/sport, description=ynet \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8: \u05d0\u05ea\u05e8 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e1\u05d9\u05e7\u05d5\u05e8 \u05e0\u05e8\u05d7\u05d1 \u05d5\u05de\u05e4\u05d5\u05e8\u05d8 \u05db\u05d5\u05dc\u05dc \u05e7\u05d8\u05e2\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05d1\u05dc\u05e2\u05d3\u05d9\u05d9\u05dd \u05de\u05d4\u05dc\u05d9\u05d2\u05d5\u05ea \u05d4\u05e9\u05d5\u05e0\u05d5\u05ea. \u05dc\u05d9\u05d2\u05ea \u05d4\u05e2\u05dc \u05d1\u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05dc\u05d9\u05d2\u05d4 \u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05db\u05d3\u05d5\u05e8\u05e1\u05dc, \u05d4\u05dc\u05d9\u05d2\u05d4 \u05d4\u05d0\u05e0\u05d2\u05dc\u05d9\u05ea ...
+2025-01-22 15:55:02,789 - INFO - Result 6: Headline: \u05e1\u05e4\u05d5\u05e8\u05d8, URL: https://www.israelhayom.co.il/sport, Description: \u05db\u05dc \u05d4\u05d7\u05d3\u05e9\u05d5\u05ea \u05d1\u05e1\u05e4\u05d5\u05e8\u05d8, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1 \u05d5\u05e1\u05d9\u05e7\u05d5\u05e8\u05d9\u05dd: \u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05e2\u05e0\u05e4\u05d9\u05dd \u05e0\u05d5\u05e1\u05e4\u05d9\u05dd \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd., Category: 1
+2025-01-22 15:55:02,792 - INFO - Inserted result: term_id=2, category_id=1, headline=\u05e1\u05e4\u05d5\u05e8\u05d8, url=https://www.israelhayom.co.il/sport, description=\u05db\u05dc \u05d4\u05d7\u05d3\u05e9\u05d5\u05ea \u05d1\u05e1\u05e4\u05d5\u05e8\u05d8, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1 \u05d5\u05e1\u05d9\u05e7\u05d5\u05e8\u05d9\u05dd: \u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05e2\u05e0\u05e4\u05d9\u05dd \u05e0\u05d5\u05e1\u05e4\u05d9\u05dd \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd.
+2025-01-22 15:55:02,830 - INFO - Result 7: Headline: \u05d9\u05e9\u05e8\u05d0\u05dc \u05e1\u05e4\u05d5\u05e8\u05d8: \u05e8\u05d0\u05e9\u05d9, URL: https://isport.co.il/, Description: \u05e8\u05d0\u05e9\u05d9 � \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9 � \u05dc\u05d9\u05d2\u05ea \u05d4\u05e2\u05dc � \u05dc\u05d9\u05d2\u05d4 \u05dc\u05d0\u05d5\u05de\u05d9\u05ea � \u05d2\u05d1\u05d9\u05e2 \u05d4\u05de\u05d3\u05d9\u05e0\u05d4 � \u05e0\u05d1\u05d7\u05e8\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc � \u05d2\u05d1\u05d9\u05e2 \u05d4\u05d8\u05d5\u05d8\u05d5 � \u05dc\u05d9\u05d2\u05d9\u05d5\u05e0\u05e8\u05d9\u05dd � \u05dc\u05d9\u05d2\u05ea \u05e2\u05dc \u05dc\u05e0\u05d5\u05e2\u05e8 � \u05dc\u05d9\u05d2\u05d5\u05ea \u05e0\u05de\u05d5\u05db\u05d5\u05ea � \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05e0\u05e9\u05d9\u05dd., Category: 5
+2025-01-22 15:55:02,832 - INFO - Inserted result: term_id=2, category_id=5, headline=\u05d9\u05e9\u05e8\u05d0\u05dc \u05e1\u05e4\u05d5\u05e8\u05d8: \u05e8\u05d0\u05e9\u05d9, url=https://isport.co.il/, description=\u05e8\u05d0\u05e9\u05d9 � \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9 � \u05dc\u05d9\u05d2\u05ea \u05d4\u05e2\u05dc � \u05dc\u05d9\u05d2\u05d4 \u05dc\u05d0\u05d5\u05de\u05d9\u05ea � \u05d2\u05d1\u05d9\u05e2 \u05d4\u05de\u05d3\u05d9\u05e0\u05d4 � \u05e0\u05d1\u05d7\u05e8\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc � \u05d2\u05d1\u05d9\u05e2 \u05d4\u05d8\u05d5\u05d8\u05d5 � \u05dc\u05d9\u05d2\u05d9\u05d5\u05e0\u05e8\u05d9\u05dd � \u05dc\u05d9\u05d2\u05ea \u05e2\u05dc \u05dc\u05e0\u05d5\u05e2\u05e8 � \u05dc\u05d9\u05d2\u05d5\u05ea \u05e0\u05de\u05d5\u05db\u05d5\u05ea � \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05e0\u05e9\u05d9\u05dd.
+2025-01-22 15:55:02,870 - INFO - Result 8: Headline: \u05e1\u05e4\u05d5\u05e8\u05d8, URL: https://www.haaretz.co.il/sport, Description: \u05dc\u05d9\u05d2\u05ea \u05d4\u05d0\u05dc\u05d5\u05e4\u05d5\u05ea: \u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4 \u05d7\u05d6\u05e8\u05d4 \u05de\u05e4\u05d9\u05d2\u05d5\u05e8 \u05dc\u05e0\u05d9\u05e6\u05d7\u05d5\u05df 4:5 \u05e2\u05dc \u05d1\u05e0\u05e4\u05d9\u05e7\u05d4 \u05d1\u05ea\u05d5\u05e1\u05e4\u05ea \u05d4\u05d6\u05de\u05df � \u05e9\u05d7\u05e7\u05e0\u05d9 \u05de\u05db\u05d1\u05d9 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1, \u05d4\u05e2\u05d5\u05e0\u05d4 � \u05d0\u05d9\u05d2\u05d5\u05d3 \u05d4\u05e9\u05d5\u05e4\u05d8\u05d9\u05dd: \u05d4\u05d4\u05d7\u05dc\u05d8\u05d4 \u05dc\u05d4\u05e2\u05e0\u05d9\u05e7 \u05dc\u05de\u05db\u05d1\u05d9 \u05ea"\u05d0 \u05e4\u05e0\u05d3\u05dc \u05d4\u05d9\u05ea\u05d4 \u05e9\u05d2\u05d5\u05d9\u05d4, \u05e0\u05ea\u05e0\u05d9\u05d4 ..., Category: 5
+2025-01-22 15:55:02,873 - INFO - Inserted result: term_id=2, category_id=5, headline=\u05e1\u05e4\u05d5\u05e8\u05d8, url=https://www.haaretz.co.il/sport, description=\u05dc\u05d9\u05d2\u05ea \u05d4\u05d0\u05dc\u05d5\u05e4\u05d5\u05ea: \u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4 \u05d7\u05d6\u05e8\u05d4 \u05de\u05e4\u05d9\u05d2\u05d5\u05e8 \u05dc\u05e0\u05d9\u05e6\u05d7\u05d5\u05df 4:5 \u05e2\u05dc \u05d1\u05e0\u05e4\u05d9\u05e7\u05d4 \u05d1\u05ea\u05d5\u05e1\u05e4\u05ea \u05d4\u05d6\u05de\u05df � \u05e9\u05d7\u05e7\u05e0\u05d9 \u05de\u05db\u05d1\u05d9 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1, \u05d4\u05e2\u05d5\u05e0\u05d4 � \u05d0\u05d9\u05d2\u05d5\u05d3 \u05d4\u05e9\u05d5\u05e4\u05d8\u05d9\u05dd: \u05d4\u05d4\u05d7\u05dc\u05d8\u05d4 \u05dc\u05d4\u05e2\u05e0\u05d9\u05e7 \u05dc\u05de\u05db\u05d1\u05d9 \u05ea"\u05d0 \u05e4\u05e0\u05d3\u05dc \u05d4\u05d9\u05ea\u05d4 \u05e9\u05d2\u05d5\u05d9\u05d4, \u05e0\u05ea\u05e0\u05d9\u05d4 ...
+2025-01-22 15:55:02,909 - INFO - Result 9: Headline: \u05d7\u05d3\u05e9\u05d5\u05ea \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd, URL: https://www.mako.co.il/Sports, Description: \u05de\u05d1\u05d8 \u05e8\u05d7\u05d1 \u05e2\u05dc \u05e2\u05d5\u05dc\u05dd \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8, \u05d4\u05db\u05d5\u05dc\u05dc \u05d7\u05d3\u05e9\u05d5\u05ea \u05de\u05d4\u05d0\u05e8\u05e5 \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd, \u05e4\u05e8\u05e9\u05e0\u05d5\u05d9\u05d5\u05ea \u05de\u05e7\u05e6\u05d5\u05e2\u05d9\u05d5\u05ea \u05d5\u05d8\u05d5\u05e8\u05d9 \u05d3\u05e2\u05d4 \u05e2\u05dc \u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05e2\u05e0\u05e4\u05d9 \u05e1\u05e4\u05d5\u05e8\u05d8 \u05e8\u05d1\u05d9\u05dd. \u05db\u05dc \u05e2\u05e0\u05e4\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05d3 - mako \u05e1\u05e4\u05d5\u05e8\u05d8., Category: 1
+2025-01-22 15:55:02,912 - INFO - Inserted result: term_id=2, category_id=1, headline=\u05d7\u05d3\u05e9\u05d5\u05ea \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd, url=https://www.mako.co.il/Sports, description=\u05de\u05d1\u05d8 \u05e8\u05d7\u05d1 \u05e2\u05dc \u05e2\u05d5\u05dc\u05dd \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8, \u05d4\u05db\u05d5\u05dc\u05dc \u05d7\u05d3\u05e9\u05d5\u05ea \u05de\u05d4\u05d0\u05e8\u05e5 \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd, \u05e4\u05e8\u05e9\u05e0\u05d5\u05d9\u05d5\u05ea \u05de\u05e7\u05e6\u05d5\u05e2\u05d9\u05d5\u05ea \u05d5\u05d8\u05d5\u05e8\u05d9 \u05d3\u05e2\u05d4 \u05e2\u05dc \u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05e2\u05e0\u05e4\u05d9 \u05e1\u05e4\u05d5\u05e8\u05d8 \u05e8\u05d1\u05d9\u05dd. \u05db\u05dc \u05e2\u05e0\u05e4\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05d3 - mako \u05e1\u05e4\u05d5\u05e8\u05d8.
+2025-01-22 15:55:02,948 - INFO - Result 10: Headline: \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d6\u05de\u05df \u05d0\u05de\u05ea \u05de\u05db\u05dc \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd, URL: https://www.sport5.co.il/html/Pages/GamesResults.html, Description: \u05dc\u05d5\u05d7 \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d6\u05de\u05df \u05d0\u05de\u05ea - \u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc, NBA, \u05d8\u05e0\u05d9\u05e1 \u05d5\u05e2\u05d5\u05d3 - \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1 \u05de\u05db\u05dc \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d5\u05d4\u05dc\u05d9\u05d2\u05d5\u05ea \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd \u05d1\u05de\u05e8\u05d7\u05e7 \u05dc\u05d7\u05d9\u05e6\u05ea \u05db\u05e4\u05ea\u05d5\u05e8., Category: 5
+2025-01-22 15:55:02,949 - INFO - Inserted result: term_id=2, category_id=5, headline=\u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d6\u05de\u05df \u05d0\u05de\u05ea \u05de\u05db\u05dc \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd, url=https://www.sport5.co.il/html/Pages/GamesResults.html, description=\u05dc\u05d5\u05d7 \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d6\u05de\u05df \u05d0\u05de\u05ea - \u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc, NBA, \u05d8\u05e0\u05d9\u05e1 \u05d5\u05e2\u05d5\u05d3 - \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1 \u05de\u05db\u05dc \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d5\u05d4\u05dc\u05d9\u05d2\u05d5\u05ea \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd \u05d1\u05de\u05e8\u05d7\u05e7 \u05dc\u05d7\u05d9\u05e6\u05ea \u05db\u05e4\u05ea\u05d5\u05e8.
+2025-01-22 15:55:05,160 - INFO - Searching for: Automation
+2025-01-22 15:55:10,411 - INFO - Found the '\u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8' tab, attempting to click...
+2025-01-22 15:55:10,463 - INFO - Clicked on the '\u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8' tab
+2025-01-22 15:55:10,476 - INFO - Found 10 results for 'Automation'
+2025-01-22 15:55:10,511 - INFO - Result 1: Headline: \u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d4, URL: https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%A6%D7%99%D7%94, Description: \u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d4 (\u05de\u05d9\u05d5\u05d5\u05e0\u05d9\u05ea \u05e2\u05ea\u05d9\u05e7\u05d4 � "\u05e4\u05d5\u05e2\u05dc \u05de\u05e2\u05e6\u05de\u05d5") \u05d4\u05d9\u05d0 \u05e9\u05d9\u05de\u05d5\u05e9 \u05d1\u05d0\u05d1\u05d9\u05d6\u05e8\u05d9\u05dd \u05de\u05db\u05e0\u05d9\u05d9\u05dd \u05d0\u05d5 \u05d0\u05dc\u05e7\u05d8\u05e8\u05d5\u05e0\u05d9\u05d9\u05dd, \u05e2\u05dc-\u05de\u05e0\u05ea \u05dc\u05d1\u05e6\u05e2 \u05e1\u05d3\u05e8\u05ea \u05e4\u05e2\u05d5\u05dc\u05d5\u05ea, \u05d1\u05e8\u05e6\u05e3 \u05de\u05ea\u05d5\u05db\u05e0\u05df, \u05dc\u05dc\u05d0 \u05de\u05d2\u05e2 \u05d9\u05d3 \u05d0\u05d3\u05dd., Category: 5
+2025-01-22 15:55:10,514 - INFO - Inserted result: term_id=3, category_id=5, headline=\u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d4, url=https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%A6%D7%99%D7%94, description=\u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d4 (\u05de\u05d9\u05d5\u05d5\u05e0\u05d9\u05ea \u05e2\u05ea\u05d9\u05e7\u05d4 � "\u05e4\u05d5\u05e2\u05dc \u05de\u05e2\u05e6\u05de\u05d5") \u05d4\u05d9\u05d0 \u05e9\u05d9\u05de\u05d5\u05e9 \u05d1\u05d0\u05d1\u05d9\u05d6\u05e8\u05d9\u05dd \u05de\u05db\u05e0\u05d9\u05d9\u05dd \u05d0\u05d5 \u05d0\u05dc\u05e7\u05d8\u05e8\u05d5\u05e0\u05d9\u05d9\u05dd, \u05e2\u05dc-\u05de\u05e0\u05ea \u05dc\u05d1\u05e6\u05e2 \u05e1\u05d3\u05e8\u05ea \u05e4\u05e2\u05d5\u05dc\u05d5\u05ea, \u05d1\u05e8\u05e6\u05e3 \u05de\u05ea\u05d5\u05db\u05e0\u05df, \u05dc\u05dc\u05d0 \u05de\u05d2\u05e2 \u05d9\u05d3 \u05d0\u05d3\u05dd.
+2025-01-22 15:55:10,552 - INFO - Result 2: Headline: Automation, URL: https://en.wikipedia.org/wiki/Automation, Description: Automation includes the use of various equipment and control systems such as machinery, processes in factories, boilers, and heat-treating ovens, switching on ..., Category: 5
+2025-01-22 15:55:10,555 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation, url=https://en.wikipedia.org/wiki/Automation, description=Automation includes the use of various equipment and control systems such as machinery, processes in factories, boilers, and heat-treating ovens, switching on ...
+2025-01-22 15:55:10,594 - INFO - Result 3: Headline: What Is Automation?, URL: https://www.ibm.com/think/topics/automation, Description: Automation is the application of technology, programs, robotics, or processes to achieve outcomes with minimal human input., Category: 5
+2025-01-22 15:55:10,596 - INFO - Inserted result: term_id=3, category_id=5, headline=What Is Automation?, url=https://www.ibm.com/think/topics/automation, description=Automation is the application of technology, programs, robotics, or processes to achieve outcomes with minimal human input.
+2025-01-22 15:55:10,634 - INFO - Result 4: Headline: Automation - The Car Company Tycoon Game, URL: https://store.steampowered.com/app/293760/Automation__The_Car_Company_Tycoon_Game/, Description: Automation is an automotive design simulator, featuring vehicles and technologies from 1946 to 2020. Use Automation's unparalleled engine and car design tools ..., Category: 5
+2025-01-22 15:55:10,635 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation - The Car Company Tycoon Game, url=https://store.steampowered.com/app/293760/Automation__The_Car_Company_Tycoon_Game/, description=Automation is an automotive design simulator, featuring vehicles and technologies from 1946 to 2020. Use Automation's unparalleled engine and car design tools ...
+2025-01-22 15:55:10,677 - INFO - Result 5: Headline: automation in Hebrew | Morfix Dictionary \u05de\u05d9\u05dc\u05d5\u05df \u05d5\u05ea\u05e8\u05d2\u05d5\u05dd \u05de\u05d5\u05e8\u05e4\u05d9\u05e7\u05e1, URL: https://www.morfix.co.il/automation, Description: \u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea \u05e2\u05d1\u05d5\u05e8: automation. automation noun. \u05ea\u05e8\u05d2\u05d5\u05dd \u05e7\u05d5\u05dc\u05d9 \u05d4\u05d5\u05e1\u05e3 \u05de\u05d9\u05dc\u05d9\u05dd \u05dc\u05e8\u05e9\u05d9\u05de\u05d4 ... \u05d4\u05de\u05d9\u05dc\u05d4 automation \u05de\u05d5\u05e4\u05d9\u05e2\u05d4 \u05d1\u05d7\u05d9\u05d3\u05d5\u05df 'Digital Marketing Terms' \u05e2\u05dd \u05e2\u05d5\u05d3 \u05de\u05d9\u05dc\u05d9\u05dd \u05e7\u05e9\u05d5\u05e8\u05d5\u05ea., Category: 5
+2025-01-22 15:55:10,679 - INFO - Inserted result: term_id=3, category_id=5, headline=automation in Hebrew | Morfix Dictionary \u05de\u05d9\u05dc\u05d5\u05df \u05d5\u05ea\u05e8\u05d2\u05d5\u05dd \u05de\u05d5\u05e8\u05e4\u05d9\u05e7\u05e1, url=https://www.morfix.co.il/automation, description=\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea \u05e2\u05d1\u05d5\u05e8: automation. automation noun. \u05ea\u05e8\u05d2\u05d5\u05dd \u05e7\u05d5\u05dc\u05d9 \u05d4\u05d5\u05e1\u05e3 \u05de\u05d9\u05dc\u05d9\u05dd \u05dc\u05e8\u05e9\u05d9\u05de\u05d4 ... \u05d4\u05de\u05d9\u05dc\u05d4 automation \u05de\u05d5\u05e4\u05d9\u05e2\u05d4 \u05d1\u05d7\u05d9\u05d3\u05d5\u05df 'Digital Marketing Terms' \u05e2\u05dd \u05e2\u05d5\u05d3 \u05de\u05d9\u05dc\u05d9\u05dd \u05e7\u05e9\u05d5\u05e8\u05d5\u05ea.
+2025-01-22 15:55:10,715 - INFO - Result 6: Headline: What is Automation? - ISA, URL: https://www.isa.org/about-isa/what-is-automation, Description: We define automation as "the creation and application of technology to monitor and control the production and delivery of products and services.�, Category: 5
+2025-01-22 15:55:10,717 - INFO - Inserted result: term_id=3, category_id=5, headline=What is Automation? - ISA, url=https://www.isa.org/about-isa/what-is-automation, description=We define automation as "the creation and application of technology to monitor and control the production and delivery of products and services.�
+2025-01-22 15:55:10,757 - INFO - Result 7: Headline: \u05de\u05e7\u05e6\u05d5\u05e2\u05e0\u05d9 \u05d4\u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d4: \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea - AutomationIL, URL: https://automationil.co.il/, Description: \u05e9\u05d9\u05e8\u05d5\u05ea\u05d9 \u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d4 \u05dc\u05e2\u05e1\u05e7\u05d9\u05dd ... \u05d7\u05d9\u05d1\u05d5\u05e8 \u05dc\u05d9\u05d3\u05d9\u05dd \u05dcCRM, \u05ea\u05d4\u05dc\u05d9\u05db\u05d9 \u05e1\u05dc\u05d9\u05e7\u05d4 \u05d5\u05d7\u05e9\u05d1\u05d5\u05e0\u05d9\u05d5\u05ea, \u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d5\u05ea \u05e9\u05dc \u05d3\u05d9\u05d5\u05d5\u05e8 \u05dc\u05e4\u05d9 \u05e7\u05de\u05e4\u05d9\u05d9\u05df \u05d0\u05d5 \u05db\u05dc \u05e1\u05e0\u05df \u05d0\u05d7\u05e8. \u05d0\u05ea\u05e8\u05d9 \u05d0\u05d9\u05e7\u05d5\u05de\u05e8\u05e1, \u05de\u05d3\u05d9\u05d3\u05ea \u05e9\u05d9\u05d7\u05d5\u05ea, \u05d3\u05d9\u05d5\u05d5\u05d7\u05d9 \u05d4\u05de\u05e8\u05d5\u05ea \u05dc\u05db\u05dc\u05dc ..., Category: 1
+2025-01-22 15:55:10,760 - INFO - Inserted result: term_id=3, category_id=1, headline=\u05de\u05e7\u05e6\u05d5\u05e2\u05e0\u05d9 \u05d4\u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d4: \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea - AutomationIL, url=https://automationil.co.il/, description=\u05e9\u05d9\u05e8\u05d5\u05ea\u05d9 \u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d4 \u05dc\u05e2\u05e1\u05e7\u05d9\u05dd ... \u05d7\u05d9\u05d1\u05d5\u05e8 \u05dc\u05d9\u05d3\u05d9\u05dd \u05dcCRM, \u05ea\u05d4\u05dc\u05d9\u05db\u05d9 \u05e1\u05dc\u05d9\u05e7\u05d4 \u05d5\u05d7\u05e9\u05d1\u05d5\u05e0\u05d9\u05d5\u05ea, \u05d0\u05d5\u05d8\u05d5\u05de\u05e6\u05d9\u05d5\u05ea \u05e9\u05dc \u05d3\u05d9\u05d5\u05d5\u05e8 \u05dc\u05e4\u05d9 \u05e7\u05de\u05e4\u05d9\u05d9\u05df \u05d0\u05d5 \u05db\u05dc \u05e1\u05e0\u05df \u05d0\u05d7\u05e8. \u05d0\u05ea\u05e8\u05d9 \u05d0\u05d9\u05e7\u05d5\u05de\u05e8\u05e1, \u05de\u05d3\u05d9\u05d3\u05ea \u05e9\u05d9\u05d7\u05d5\u05ea, \u05d3\u05d9\u05d5\u05d5\u05d7\u05d9 \u05d4\u05de\u05e8\u05d5\u05ea \u05dc\u05db\u05dc\u05dc ...
+2025-01-22 15:55:10,796 - INFO - Result 8: Headline: Automation | Technology, Types, Rise, History, & Examples, URL: https://www.britannica.com/technology/automation, Description: 13 \u05d1\u05d9\u05e0\u05d5\u05f3 2025 � Automation, application of machines to tasks once performed by human beings or, increasingly, to tasks that would otherwise be impossible., Category: 5
+2025-01-22 15:55:10,797 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation | Technology, Types, Rise, History, & Examples, url=https://www.britannica.com/technology/automation, description=13 \u05d1\u05d9\u05e0\u05d5\u05f3 2025 � Automation, application of machines to tasks once performed by human beings or, increasingly, to tasks that would otherwise be impossible.
+2025-01-22 15:55:10,836 - INFO - Result 9: Headline: Automation, URL: https://www.automationgame.com/, Description: In Automation it's you who designs every detail of your cars, from the heart of the car that is the engine, the chassis, the suspension and the styling., Category: 5
+2025-01-22 15:55:10,837 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation, url=https://www.automationgame.com/, description=In Automation it's you who designs every detail of your cars, from the heart of the car that is the engine, the chassis, the suspension and the styling.
+2025-01-22 15:55:10,875 - INFO - Result 10: Headline: Automation.com - News & Resources for Industrial Automation, URL: https://www.automation.com/, Description: Automation.com - News, Articles, Products, Resources & Suppliers for Manufacturing, Factory, Process and Industrial Automation., Category: 5
+2025-01-22 15:55:10,878 - INFO - Inserted result: term_id=3, category_id=5, headline=Automation.com - News & Resources for Industrial Automation, url=https://www.automation.com/, description=Automation.com - News, Articles, Products, Resources & Suppliers for Manufacturing, Factory, Process and Industrial Automation.
+2025-01-22 15:55:28,614 - INFO - Headline: \u05e1\u05e4\u05d5\u05e8\u05d8 5 - \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea, \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9\u05dd \u05d5\u05e9\u05d9\u05d3\u05d5\u05e8\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05de\u05d4\u05e2\u05d5\u05dc\u05dd, URL: https://www.sport5.co.il/, Description: \u05e1\u05e4\u05d5\u05e8\u05d8 5 - \u05d0\u05ea\u05e8 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc! \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1, \u05d7\u05d3\u05e9\u05d5\u05ea \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8, \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05e9\u05dc \u05de\u05e9\u05d7\u05e7\u05d9\u05dd, \u05d8\u05d1\u05dc\u05d0\u05d5\u05ea \u05d5\u05e1\u05d9\u05e7\u05d5\u05e8 \u05e0\u05e8\u05d7\u05d1 \u05e9\u05dc \u05dc\u05d9\u05d2\u05d5\u05ea \u05d4\u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05d4\u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05db\u05dc \u05e2\u05e0\u05e4\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8., Content Type: News Article
+2025-01-22 15:55:28,614 - INFO - Headline: \u05e1\u05e4\u05d5\u05e8\u05d8 1: \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd - \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05d5\u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05de\u05e9\u05d7\u05e7\u05d9\u05dd, URL: https://sport1.maariv.co.il/, Description: \u05de\u05d7\u05e4\u05e9\u05d9\u05dd \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d6\u05de\u05df \u05d0\u05de\u05ea? \u05e8\u05d5\u05e6\u05d9\u05dd \u05e2\u05d3\u05db\u05d5\u05e0\u05d9\u05dd \u05d5\u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1? \u05d4\u05d9\u05db\u05e0\u05e1\u05d5 \u05e2\u05db\u05e9\u05d9\u05d5 \u05dc\u05e1\u05e4\u05d5\u05e8\u05d81 \u05d5\u05ea\u05e7\u05d1\u05dc\u05d5 \u05d7\u05d3\u05e9\u05d5\u05ea, \u05ea\u05e7\u05e6\u05d9\u05e8\u05d9\u05dd, \u05e9\u05d9\u05d3\u05d5\u05e8\u05d9\u05dd \u05d9\u05e9\u05d9\u05e8\u05d9\u05dd, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d5\u05e1\u05e8\u05d8\u05d5\u05e0\u05d9\u05dd., Content Type: News Article
+2025-01-22 15:55:28,614 - INFO - Headline: \u05d5\u05d5\u05d0\u05dc\u05d4 \u05e1\u05e4\u05d5\u05e8\u05d8 | \u05d7\u05d3\u05e9\u05d5\u05ea \u05d5\u05e2\u05d3\u05db\u05d5\u05e0\u05d9 \u05e1\u05e4\u05d5\u05e8\u05d8, \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05e2\u05d5\u05dc\u05de\u05d9, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc ..., URL: https://sports.walla.co.il/, Description: \u05d0\u05ea\u05e8 \u05d4\u05d1\u05d9\u05ea \u05e9\u05dc \u05de\u05db\u05d5\u05e8\u05d9 \u05e2\u05e0\u05e3 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05d1\u05d0\u05ea\u05e8 \u05e0\u05de\u05e6\u05d0\u05d5\u05ea \u05db\u05ea\u05d1\u05d5\u05ea \u05d5\u05d7\u05d3\u05e9\u05d5\u05ea \u05e8\u05d1\u05d5\u05ea \u05d0\u05d5\u05d3\u05d5\u05ea \u05de\u05d5\u05e2\u05d3\u05d5\u05e0\u05d9 \u05d5\u05e7\u05d1\u05d5\u05e6\u05d5\u05ea \u05d4\u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d4\u05e9\u05d5\u05e0\u05d5\u05ea \u05d4\u05e7\u05d9\u05d9\u05de\u05d5\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc., Content Type: News Article
+2025-01-22 15:55:28,614 - INFO - Headline: ONE - \u05de\u05e1\u05e4\u05e8 1 \u05d1\u05e1\u05e4\u05d5\u05e8\u05d8, URL: https://www.one.co.il/, Description: ONE: \u05d0\u05ea\u05e8 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05d7\u05d3\u05e9\u05d5\u05ea, \u05d5\u05d9\u05d3\u05d0\u05d5, \u05e1\u05d8\u05d8\u05d9\u05e1\u05d8\u05d9\u05e7\u05d4, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea LIVE \u05d5\u05e1\u05d9\u05e7\u05d5\u05e8 \u05de\u05dc\u05d0 \u05e9\u05dc \u05dc\u05d9\u05d2\u05d5\u05ea \u05d4\u05db\u05d3\u05d5\u05e8\u05e1\u05dc, \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d5\u05e2\u05e0\u05e4\u05d9 \u05e1\u05e4\u05d5\u05e8\u05d8 \u05e0\u05d5\u05e1\u05e4\u05d9\u05dd \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd., Content Type: News Article
+2025-01-22 15:55:28,614 - INFO - Headline: \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 - \u05db\u05dc \u05de\u05d4 \u05e9\u05e7\u05d5\u05e8\u05d4 \u05d1\u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05d4\u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05e9\u05d0\u05e8 \u05d4\u05e2\u05e0\u05e4\u05d9\u05dd, URL: https://www.ynet.co.il/sport, Description: ynet \u05d7\u05d3\u05e9\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8: \u05d0\u05ea\u05e8 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e1\u05d9\u05e7\u05d5\u05e8 \u05e0\u05e8\u05d7\u05d1 \u05d5\u05de\u05e4\u05d5\u05e8\u05d8 \u05db\u05d5\u05dc\u05dc \u05e7\u05d8\u05e2\u05d9 \u05d5\u05d9\u05d3\u05d0\u05d5 \u05d1\u05dc\u05e2\u05d3\u05d9\u05d9\u05dd \u05de\u05d4\u05dc\u05d9\u05d2\u05d5\u05ea \u05d4\u05e9\u05d5\u05e0\u05d5\u05ea. \u05dc\u05d9\u05d2\u05ea \u05d4\u05e2\u05dc \u05d1\u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05dc\u05d9\u05d2\u05d4 \u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05db\u05d3\u05d5\u05e8\u05e1\u05dc, \u05d4\u05dc\u05d9\u05d2\u05d4 \u05d4\u05d0\u05e0\u05d2\u05dc\u05d9\u05ea ..., Content Type: News Article
+2025-01-22 15:55:28,614 - INFO - Headline: \u05e1\u05e4\u05d5\u05e8\u05d8, URL: https://www.israelhayom.co.il/sport, Description: \u05db\u05dc \u05d4\u05d7\u05d3\u05e9\u05d5\u05ea \u05d1\u05e1\u05e4\u05d5\u05e8\u05d8, \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1 \u05d5\u05e1\u05d9\u05e7\u05d5\u05e8\u05d9\u05dd: \u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05e2\u05e0\u05e4\u05d9\u05dd \u05e0\u05d5\u05e1\u05e4\u05d9\u05dd \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd., Content Type: News Article
+2025-01-22 15:55:28,614 - INFO - Headline: \u05d9\u05e9\u05e8\u05d0\u05dc \u05e1\u05e4\u05d5\u05e8\u05d8: \u05e8\u05d0\u05e9\u05d9, URL: https://isport.co.il/, Description: \u05e8\u05d0\u05e9\u05d9 � \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9 � \u05dc\u05d9\u05d2\u05ea \u05d4\u05e2\u05dc � \u05dc\u05d9\u05d2\u05d4 \u05dc\u05d0\u05d5\u05de\u05d9\u05ea � \u05d2\u05d1\u05d9\u05e2 \u05d4\u05de\u05d3\u05d9\u05e0\u05d4 � \u05e0\u05d1\u05d7\u05e8\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc � \u05d2\u05d1\u05d9\u05e2 \u05d4\u05d8\u05d5\u05d8\u05d5 � \u05dc\u05d9\u05d2\u05d9\u05d5\u05e0\u05e8\u05d9\u05dd � \u05dc\u05d9\u05d2\u05ea \u05e2\u05dc \u05dc\u05e0\u05d5\u05e2\u05e8 � \u05dc\u05d9\u05d2\u05d5\u05ea \u05e0\u05de\u05d5\u05db\u05d5\u05ea � \u05db\u05d3\u05d5\u05e8\u05d2\u05dc \u05e0\u05e9\u05d9\u05dd., Content Type: Other
+2025-01-22 15:55:28,614 - INFO - Headline: \u05e1\u05e4\u05d5\u05e8\u05d8, URL: https://www.haaretz.co.il/sport, Description: \u05dc\u05d9\u05d2\u05ea \u05d4\u05d0\u05dc\u05d5\u05e4\u05d5\u05ea: \u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4 \u05d7\u05d6\u05e8\u05d4 \u05de\u05e4\u05d9\u05d2\u05d5\u05e8 \u05dc\u05e0\u05d9\u05e6\u05d7\u05d5\u05df 4:5 \u05e2\u05dc \u05d1\u05e0\u05e4\u05d9\u05e7\u05d4 \u05d1\u05ea\u05d5\u05e1\u05e4\u05ea \u05d4\u05d6\u05de\u05df � \u05e9\u05d7\u05e7\u05e0\u05d9 \u05de\u05db\u05d1\u05d9 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1, \u05d4\u05e2\u05d5\u05e0\u05d4 � \u05d0\u05d9\u05d2\u05d5\u05d3 \u05d4\u05e9\u05d5\u05e4\u05d8\u05d9\u05dd: \u05d4\u05d4\u05d7\u05dc\u05d8\u05d4 \u05dc\u05d4\u05e2\u05e0\u05d9\u05e7 \u05dc\u05de\u05db\u05d1\u05d9 \u05ea"\u05d0 \u05e4\u05e0\u05d3\u05dc \u05d4\u05d9\u05ea\u05d4 \u05e9\u05d2\u05d5\u05d9\u05d4, \u05e0\u05ea\u05e0\u05d9\u05d4 ..., Content Type: Other
+2025-01-22 15:55:28,614 - INFO - Headline: \u05d7\u05d3\u05e9\u05d5\u05ea \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd, URL: https://www.mako.co.il/Sports, Description: \u05de\u05d1\u05d8 \u05e8\u05d7\u05d1 \u05e2\u05dc \u05e2\u05d5\u05dc\u05dd \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8, \u05d4\u05db\u05d5\u05dc\u05dc \u05d7\u05d3\u05e9\u05d5\u05ea \u05de\u05d4\u05d0\u05e8\u05e5 \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd, \u05e4\u05e8\u05e9\u05e0\u05d5\u05d9\u05d5\u05ea \u05de\u05e7\u05e6\u05d5\u05e2\u05d9\u05d5\u05ea \u05d5\u05d8\u05d5\u05e8\u05d9 \u05d3\u05e2\u05d4 \u05e2\u05dc \u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc \u05d5\u05e2\u05e0\u05e4\u05d9 \u05e1\u05e4\u05d5\u05e8\u05d8 \u05e8\u05d1\u05d9\u05dd. \u05db\u05dc \u05e2\u05e0\u05e4\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05d3 - mako \u05e1\u05e4\u05d5\u05e8\u05d8., Content Type: News Article
+2025-01-22 15:55:28,614 - INFO - Headline: \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d6\u05de\u05df \u05d0\u05de\u05ea \u05de\u05db\u05dc \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd, URL: https://www.sport5.co.il/html/Pages/GamesResults.html, Description: \u05dc\u05d5\u05d7 \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d6\u05de\u05df \u05d0\u05de\u05ea - \u05db\u05d3\u05d5\u05e8\u05d2\u05dc, \u05db\u05d3\u05d5\u05e8\u05e1\u05dc, NBA, \u05d8\u05e0\u05d9\u05e1 \u05d5\u05e2\u05d5\u05d3 - \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d9\u05d9\u05d1 \u05de\u05db\u05dc \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9 \u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d5\u05d4\u05dc\u05d9\u05d2\u05d5\u05ea \u05d1\u05d0\u05e8\u05e5 \u05d5\u05d1\u05e2\u05d5\u05dc\u05dd \u05d1\u05de\u05e8\u05d7\u05e7 \u05dc\u05d7\u05d9\u05e6\u05ea \u05db\u05e4\u05ea\u05d5\u05e8., Content Type: Other
+2025-01-22 15:55:28,615 - INFO - No results for content type 'dd'
