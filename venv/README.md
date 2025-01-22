@@ -36,7 +36,7 @@ This project automates Google searches using Selenium WebDriver and stores the s
 3. Set up the MySQL database:
 
 Create a database named gsearch.
-Import Schema from attached file [search_terms(empty table), search_results(empty table), content_type]
+UnZip Dump20250122.zip and Import Schema from the file [search_terms(empty table), search_results(empty table), content_type]
 
 4. Attached file named search_terms.txt in the project directory and add your search terms, one per line.
 
