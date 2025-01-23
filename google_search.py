@@ -243,7 +243,7 @@ def main():
             print(f"Unexpected error processing term '{term}': {e}")
             logging.error(f"Unexpected error processing term '{term}': {e}")
 
-    
+    # First of all empty fields
     search_term = ''
     content_type = ''
     search_term = input("Enter the search term to query: ")
